@@ -1,0 +1,3837 @@
+{
+    "training_rush": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "training_rush",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Header",
+            "visualId": "homescreenevent_training_rush",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Description",
+            "eventId": "training_rush",
+            "rewardProgressId": "hse_training_rush",
+            "theme": "training_rush",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 3,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_training_rush_bundle",
+                "offer_homescreen_event_training_rush_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 3,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_Description",
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "squig_smash": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "squig_smash",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Header",
+            "visualId": "homescreenevent_squig_smash",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Description",
+            "eventId": "squig_smash",
+            "rewardProgressId": "hse_squig_smash",
+            "theme": "squig_smash",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_squig_smash_bundle",
+                "offer_homescreen_event_squig_smash_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvSquigSmash",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_squig_smash_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_squig_smash_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "squig_smash_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Header",
+            "visualId": "homescreenevent_squig_smash",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Description",
+            "eventId": "squig_smash_tier_high",
+            "rewardProgressId": "hse_squig_smash_tier_high",
+            "theme": "squig_smash",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 150,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_squig_smash_tier_high_bundle",
+                "offer_homescreen_event_squig_smash_tier_high_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvSquigSmash",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP",
+                            "MachinesOfWarEvent",
+                            "GuildWars",
+                            "LinearHeroEvent"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "MachinesOfWarEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "squig_smash_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Header",
+            "visualId": "homescreenevent_squig_smash",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Description",
+            "eventId": "squig_smash_tier_mid",
+            "rewardProgressId": "hse_squig_smash_tier_mid",
+            "theme": "squig_smash",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 75,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_squig_smash_tier_mid_bundle",
+                "offer_homescreen_event_squig_smash_tier_mid_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvSquigSmash",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP",
+                            "MachinesOfWarEvent",
+                            "GuildWars",
+                            "LinearHeroEvent"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "MachinesOfWarEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "squig_smash_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Header",
+            "visualId": "homescreenevent_squig_smash",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Description",
+            "eventId": "squig_smash_tier_low",
+            "rewardProgressId": "hse_squig_smash_tier_low",
+            "theme": "squig_smash",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 35,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_squig_smash_tier_low_bundle",
+                "offer_homescreen_event_squig_smash_tier_low_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvSquigSmash",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_squig_smash_Description_2",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP",
+                            "MachinesOfWarEvent",
+                            "GuildWars",
+                            "LinearHeroEvent"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "unitId": "orksNpc7Squig",
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "MachinesOfWarEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "machine_hunt": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "machine_hunt",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Header",
+            "visualId": "homescreenevent_machine_hunt",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Description",
+            "eventId": "machine_hunt",
+            "rewardProgressId": "hse_machine_hunt",
+            "theme": "machine_hunt",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_machine_hunt_bundle",
+                "offer_homescreen_event_machine_hunt_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_machine_hunt_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "machine_hunt_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Header",
+            "visualId": "homescreenevent_machine_hunt",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Description",
+            "eventId": "machine_hunt_tier_high",
+            "rewardProgressId": "hse_machine_hunt_tier_high",
+            "theme": "machine_hunt",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_machine_hunt_tier_high_bundle",
+                "offer_homescreen_event_machine_hunt_tier_high_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_machine_hunt_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "MachinesOfWarEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "machine_hunt_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Header",
+            "visualId": "homescreenevent_machine_hunt",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Description",
+            "eventId": "machine_hunt_tier_mid",
+            "rewardProgressId": "hse_machine_hunt_tier_mid",
+            "theme": "machine_hunt",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 6,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_machine_hunt_tier_mid_bundle",
+                "offer_homescreen_event_machine_hunt_tier_mid_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_machine_hunt_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "MachinesOfWarEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "machine_hunt_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Header",
+            "visualId": "homescreenevent_machine_hunt",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_machine_hunt_Interstitial_Description",
+            "eventId": "machine_hunt_tier_low",
+            "rewardProgressId": "hse_machine_hunt_tier_low",
+            "theme": "machine_hunt",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 2,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_machine_hunt_tier_low_bundle",
+                "offer_homescreen_event_machine_hunt_tier_low_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_machine_hunt_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 1,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "MachinesOfWarEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Mechanical"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "warp_surge": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "warp_surge",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Header",
+            "visualId": "homescreenevent_warp_surge",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Description",
+            "eventId": "warp_surge",
+            "rewardProgressId": "hse_warp_surge",
+            "theme": "warp_surge",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_warp_surge_bundle",
+                "offer_homescreen_event_warp_surge_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 3,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvAllyAndEnemyNpcs:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 25,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "warp_surge_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Header",
+            "visualId": "homescreenevent_warp_surge",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Description",
+            "eventId": "warp_surge_tier_high",
+            "rewardProgressId": "hse_warp_surge_tier_high",
+            "theme": "warp_surge",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_warp_surge_tier_high_bundle",
+                "offer_homescreen_event_warp_surge_tier_high_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_warp_surge_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvAllyAndEnemyNpcs:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 25,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "warp_surge_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Header",
+            "visualId": "homescreenevent_warp_surge",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Description",
+            "eventId": "warp_surge_tier_mid",
+            "rewardProgressId": "hse_warp_surge_tier_mid",
+            "theme": "warp_surge",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_warp_surge_tier_mid_bundle",
+                "offer_homescreen_event_warp_surge_tier_mid_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_warp_surge_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvAllyAndEnemyNpcs:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 25,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "warp_surge_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Header",
+            "visualId": "homescreenevent_warp_surge",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Description",
+            "eventId": "warp_surge_tier_low",
+            "rewardProgressId": "hse_warp_surge_tier_low",
+            "theme": "warp_surge",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_warp_surge_tier_low_bundle",
+                "offer_homescreen_event_warp_surge_tier_low_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_warp_surge_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvAllyAndEnemyNpcs:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:WarpSurge",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 25,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ],
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "anniversary_event_2025": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "anniversary_event_2025",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_anniversary_event_2025_Interstitial_Header",
+            "visualId": "homescreenevent_anniversary_event_2025",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_anniversary_event_2025_Interstitial_Description",
+            "eventId": "anniversary_event_2025",
+            "rewardProgressId": "hse_anniversary_event_2025",
+            "theme": "anniversary_event_2025",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_anniversary_event_2025_bundle",
+                "offer_homescreen_event_anniversary_event_2025_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_anniversary_event_2025_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach"
+                        ]
+                    }
+                },
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_anniversary_event_2025_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Waves"
+                        ]
+                    }
+                },
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_anniversary_event_2025_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Survival"
+                        ]
+                    }
+                },
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_anniversary_event_2025_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "LegendaryEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "mythic_training_rush": {
+        "one": {
+            "eventType": "homeScreenEvent",
+            "eventName": "mythic_training_rush",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_mythic_training_rush_Interstitial_Header",
+            "visualId": "homescreenevent_mythic_training_rush",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_mythic_training_rush_Interstitial_Description",
+            "eventId": "mythic_training_rush",
+            "rewardProgressId": "hse_mythic_training_rush",
+            "theme": "mythic_training_rush",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 3,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_mythic_training_rush_bundle",
+                "offer_homescreen_event_mythic_training_rush_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_by_rarity_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_mythic_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_mythic_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "rarity_training_rush": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "rarity_training_rush_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Header",
+            "visualId": "homescreenevent_training_rush",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Description",
+            "eventId": "rarity_training_rush_tier_high",
+            "rewardProgressId": "hse_rarity_training_rush_tier_high",
+            "theme": "training_rush",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 3,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_rarity_training_rush_tier_high_bundle",
+                "offer_homescreen_event_rarity_training_rush_tier_high_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_by_rarity_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "rarity_training_rush_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Header",
+            "visualId": "homescreenevent_training_rush",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Description",
+            "eventId": "rarity_training_rush_tier_mid",
+            "rewardProgressId": "hse_rarity_training_rush_tier_mid",
+            "theme": "training_rush",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 2,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_rarity_training_rush_tier_mid_bundle",
+                "offer_homescreen_event_rarity_training_rush_tier_mid_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_by_rarity_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "rarity_training_rush_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Header",
+            "visualId": "homescreenevent_training_rush",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_training_rush_Interstitial_Description",
+            "eventId": "rarity_training_rush_tier_low",
+            "rewardProgressId": "hse_rarity_training_rush_tier_low",
+            "theme": "training_rush",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 1,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_rarity_training_rush_tier_low_bundle",
+                "offer_homescreen_event_rarity_training_rush_tier_low_playmore"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "percentageModifier": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_by_rarity_Description",
+                    "modifiers": {
+                        "Common": 250,
+                        "Uncommon": 300,
+                        "Rare": 350,
+                        "Epic": 400,
+                        "Legendary": 450,
+                        "Mythic": 500
+                    },
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_training_rush_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "kill_tyranids": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "kill_tyranids_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Header",
+            "visualId": "homescreenevent_kill_tyranids",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Description",
+            "eventId": "kill_tyranids_tier_high",
+            "rewardProgressId": "hse_kill_tyranids_tier_high",
+            "theme": "kill_tyranids",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 3,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_kill_tyranids_tier_high_bundle",
+                "offer_homescreen_event_kill_tyranids_tier_high_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "TreasureBeach"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "kill_tyranids_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Header",
+            "visualId": "homescreenevent_kill_tyranids",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Description",
+            "eventId": "kill_tyranids_tier_mid",
+            "rewardProgressId": "hse_kill_tyranids_tier_mid",
+            "theme": "kill_tyranids",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 2,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_kill_tyranids_tier_mid_bundle",
+                "offer_homescreen_event_kill_tyranids_tier_mid_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "TreasureBeach"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "kill_tyranids_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Header",
+            "visualId": "homescreenevent_kill_tyranids",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_kill_tyranids_Interstitial_Description",
+            "eventId": "kill_tyranids_tier_low",
+            "rewardProgressId": "hse_kill_tyranids_tier_low",
+            "theme": "kill_tyranids",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 1,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_kill_tyranids_tier_low_bundle",
+                "offer_homescreen_event_kill_tyranids_tier_low_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 3,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "Campaign",
+                            "MirrorCampaign",
+                            "CampaignEvent"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "raidBattles",
+                    "scope": "personal",
+                    "points": 5,
+                    "pointsBasedOnEnemiesInBattle": true,
+                    "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "EliteCampaign",
+                            "MirrorEliteCampaign"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 25,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_kill_tyranids_Description",
+                    "gameModeRestrictions": {
+                        "disallowed": [
+                            "Campaign",
+                            "EliteCampaign",
+                            "MirrorCampaign",
+                            "MirrorEliteCampaign",
+                            "CampaignEvent",
+                            "TreasureBeach"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "factionRestrictions": {
+                        "allowed": [
+                            "Tyranids"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "defeat_waves": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_tier_high",
+            "rewardProgressId": "hse_defeat_waves_tier_high",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 200,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_tier_high_bundle",
+                "offer_homescreen_event_defeat_waves_tier_high_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_defeat_waves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_tier_mid",
+            "rewardProgressId": "hse_defeat_waves_tier_mid",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 100,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_tier_mid_bundle",
+                "offer_homescreen_event_defeat_waves_tier_mid_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_defeat_waves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_tier_low",
+            "rewardProgressId": "hse_defeat_waves_tier_low",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_tier_low_bundle",
+                "offer_homescreen_event_defeat_waves_tier_low_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatWaves_defeat_waves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "defeat_waves_2": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_2_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_2_tier_high",
+            "rewardProgressId": "hse_defeat_waves_2_tier_high",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 200,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_2_tier_high_bundle",
+                "offer_homescreen_event_defeat_waves_2_tier_high_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatwaves_2_defeat_waves_2_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival",
+                            "LegendaryEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_2_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_2_tier_mid",
+            "rewardProgressId": "hse_defeat_waves_2_tier_mid",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 100,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_2_tier_mid_bundle",
+                "offer_homescreen_event_defeat_waves_2_tier_mid_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatwaves_2_defeat_waves_2_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival",
+                            "LegendaryEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "defeat_waves_2_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Header",
+            "visualId": "homescreenevent_defeat_waves_2",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_defeat_waves_2_Interstitial_Description",
+            "eventId": "defeat_waves_2_tier_low",
+            "rewardProgressId": "hse_defeat_waves_2_tier_low",
+            "theme": "defeat_waves_2",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_defeat_waves_2_tier_low_bundle",
+                "offer_homescreen_event_defeat_waves_2_tier_low_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "defeatWaves",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_defeatwaves_2_defeat_waves_2_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves",
+                            "Survival",
+                            "LegendaryEvent"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "for_the_emperor": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_emperor_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_emperor",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Description",
+            "eventId": "for_the_emperor_tier_high",
+            "rewardProgressId": "hse_for_the_emperor_tier_high",
+            "theme": "for_the_emperor",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_high_bundle",
+                "offer_homescreen_event_emperor_dark_gods_tier_high_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_emperor_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Imperial",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_emperor_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_emperor",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Description",
+            "eventId": "for_the_emperor_tier_mid",
+            "rewardProgressId": "hse_for_the_emperor_tier_mid",
+            "theme": "for_the_emperor",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 30,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_mid_bundle",
+                "offer_homescreen_event_emperor_dark_gods_tier_mid_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_emperor_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Imperial",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_emperor_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_emperor",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_emperor_Interstitial_Description",
+            "eventId": "for_the_emperor_tier_low",
+            "rewardProgressId": "hse_for_the_emperor_tier_low",
+            "theme": "for_the_emperor",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_low_bundle",
+                "offer_homescreen_event_emperor_dark_gods_tier_low_playmore"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_emperor_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Imperial",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "for_the_dark_gods": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_dark_gods_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_dark_gods",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Description",
+            "eventId": "for_the_dark_gods_tier_high",
+            "rewardProgressId": "hse_for_the_dark_gods_tier_high",
+            "theme": "for_the_dark_gods",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_high_booster"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_dark_gods_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Chaos",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_dark_gods_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_dark_gods",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Description",
+            "eventId": "for_the_dark_gods_tier_mid",
+            "rewardProgressId": "hse_for_the_dark_gods_tier_mid",
+            "theme": "for_the_dark_gods",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 30,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_mid_booster"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_dark_gods_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Chaos",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "for_the_dark_gods_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Header",
+            "visualId": "homescreenevent_for_the_dark_gods",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_for_the_dark_gods_Interstitial_Description",
+            "eventId": "for_the_dark_gods_tier_low",
+            "rewardProgressId": "hse_for_the_dark_gods_tier_low",
+            "theme": "for_the_dark_gods",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_emperor_dark_gods_tier_low_booster"
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_for_the_dark_gods_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Chaos",
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Chaos"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "faction_focus": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_focus_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Header",
+            "visualId": "homescreenevent_faction_focus",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Description",
+            "eventId": "faction_focus_tier_high",
+            "rewardProgressId": "hse_faction_focus_tier_high",
+            "theme": "faction_focus",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_focus_tier_high_bundle",
+                "offer_homescreen_event_faction_focus_tier_high_playmore",
+                "offer_homescreen_event_faction_focus_tier_high_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_focus_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Header",
+            "visualId": "homescreenevent_faction_focus",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Description",
+            "eventId": "faction_focus_tier_mid",
+            "rewardProgressId": "hse_faction_focus_tier_mid",
+            "theme": "faction_focus",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 30,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_focus_tier_mid_bundle",
+                "offer_homescreen_event_faction_focus_tier_mid_playmore",
+                "offer_homescreen_event_faction_focus_tier_mid_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_focus_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Header",
+            "visualId": "homescreenevent_faction_focus",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_focus_Interstitial_Description",
+            "eventId": "faction_focus_tier_low",
+            "rewardProgressId": "hse_faction_focus_tier_low",
+            "theme": "faction_focus",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_focus_tier_low_bundle",
+                "offer_homescreen_event_faction_focus_tier_low_playmore",
+                "offer_homescreen_event_faction_focus_tier_low_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves",
+                            "SyncPVP"
+                        ]
+                    }
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "deployedUnitsOfFactionMajority",
+                    "scope": "personal",
+                    "points": 3,
+                    "locaKey": "HomeScreenEvents/Tracker_deployedUnitsOfFactionMajority_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "SyncPVP"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "fullLineUpOfFaction",
+                    "scope": "personal",
+                    "points": 5,
+                    "locaKey": "HomeScreenEvents/Tracker_fullLineUpOfFaction_faction_focus_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    },
+    "faction_boost_space_wolves": {
+        "high": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_boost_space_wolves_tier_high",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Header",
+            "visualId": "homescreenevent_faction_boost_space_wolves",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Description",
+            "eventId": "faction_boost_space_wolves_tier_high",
+            "rewardProgressId": "hse_faction_boost_space_wolves_tier_high",
+            "theme": "faction_boost_space_wolves",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 50,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_boost_space_wolves_tier_high_bundle",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_high_playmore",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_high_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:FactionBoost_SpaceWolves",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_space_wolves_Description",
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ],
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits2_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "mid": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_boost_space_wolves_tier_mid",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Header",
+            "visualId": "homescreenevent_faction_boost_space_wolves",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Description",
+            "eventId": "faction_boost_space_wolves_tier_mid",
+            "rewardProgressId": "hse_faction_boost_space_wolves_tier_mid",
+            "theme": "faction_boost_space_wolves",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 30,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_boost_space_wolves_tier_mid_bundle",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_mid_playmore",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_mid_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:FactionBoost_SpaceWolves",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_space_wolves_Description",
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ],
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits2_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        },
+        "low": {
+            "eventType": "homeScreenEvent",
+            "eventName": "faction_boost_space_wolves_tier_low",
+            "subtitleLocaKey": "",
+            "titleLocaKey": "",
+            "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Header",
+            "visualId": "homescreenevent_faction_boost_space_wolves",
+            "offerId": "",
+            "shortDescriptionLocaKey": "",
+            "longDescriptionLocaKey": "",
+            "removalDelayAfterPurchase": "",
+            "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_faction_boost_space_wolves_Interstitial_Description",
+            "eventId": "faction_boost_space_wolves_tier_low",
+            "rewardProgressId": "hse_faction_boost_space_wolves_tier_low",
+            "theme": "faction_boost_space_wolves",
+            "tradeInResourceCurrency": "gold",
+            "tradeInResourceAmountPerPoint": 10,
+            "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+            "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+            "endRewardSender": "Inbox/Sender_Tacticus",
+            "initialOfferIds": [
+                "offer_homescreen_event_faction_boost_space_wolves_tier_low_bundle",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_low_playmore",
+                "offer_homescreen_event_faction_boost_space_wolves_tier_low_booster"
+            ],
+            "modifiers": [
+                {
+                    "type": "unitXp",
+                    "operator": "multiply",
+                    "modifier": 100,
+                    "percentageModifier": true,
+                    "sameFactionBonus": true,
+                    "locaKey": "HomeScreenEvents/Modifier_unitxp_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    }
+                },
+                {
+                    "type": "battleEnvironmentAbility",
+                    "abilityId": "EnvStatBoost:FactionBoost_SpaceWolves",
+                    "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_space_wolves_Description",
+                    "gameModeRestrictions": {}
+                }
+            ],
+            "trackers": [
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 2,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "allowed": [
+                            "Imperial"
+                        ],
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                },
+                {
+                    "type": "killUnits",
+                    "scope": "personal",
+                    "points": 1,
+                    "locaKey": "HomeScreenEvents/Tracker_killunits2_faction_boost_space_wolves_Description",
+                    "gameModeRestrictions": {
+                        "allowed": [
+                            "PvP",
+                            "TreasureBeach",
+                            "Waves"
+                        ]
+                    },
+                    "traitRestrictions": {
+                        "disallowed": [
+                            "Summon",
+                            "Steppable"
+                        ]
+                    },
+                    "playerFactionRestrictions": {
+                        "allowed": [
+                            "SpaceWolves"
+                        ]
+                    },
+                    "playerTraitRestrictions": {
+                        "disallowed": [
+                            "MachineOfWar"
+                        ]
+                    }
+                }
+            ],
+            "unlockRequirements": {
+                "PowerLevel": 7
+            }
+        }
+    }
+}

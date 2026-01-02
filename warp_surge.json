@@ -1,0 +1,207 @@
+[
+    {
+        "eventType": "homeScreenEvent",
+        "eventName": "warp_surge_tier_high",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Header",
+        "visualId": "homescreenevent_warp_surge",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_warp_surge_Interstitial_Description",
+        "eventId": "warp_surge_tier_high",
+        "rewardProgressId": "hse_warp_surge_tier_high",
+        "theme": "warp_surge",
+        "tradeInResourceCurrency": "gold",
+        "tradeInResourceAmountPerPoint": 10,
+        "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+        "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+        "endRewardSender": "Inbox/Sender_Tacticus",
+        "initialOfferIds": [
+            "offer_homescreen_event_warp_surge_tier_high_bundle",
+            "offer_homescreen_event_warp_surge_tier_high_playmore"
+        ],
+        "modifiers": [
+            {
+                "type": "unitXp",
+                "operator": "multiply",
+                "percentageModifier": true,
+                "locaKey": "HomeScreenEvents/Modifier_unitxp_warp_surge_Description",
+                "modifiers": {
+                    "Common": 250,
+                    "Uncommon": 300,
+                    "Rare": 350,
+                    "Epic": 400,
+                    "Legendary": 450,
+                    "Mythic": 500
+                },
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ]
+                }
+            },
+            {
+                "type": "battleEnvironmentAbility",
+                "abilityId": "EnvAllyAndEnemyNpcs:WarpSurge",
+                "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_warp_surge_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP"
+                    ]
+                }
+            },
+            {
+                "type": "battleEnvironmentAbility",
+                "abilityId": "EnvStatBoost:WarpSurge",
+                "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_statBoost_warp_surge_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP"
+                    ]
+                }
+            }
+        ],
+        "trackers": [
+            {
+                "type": "killUnits",
+                "scope": "personal",
+                "points": 25,
+                "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            },
+            {
+                "type": "killUnits",
+                "scope": "personal",
+                "points": 5,
+                "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "EliteCampaign",
+                        "MirrorEliteCampaign"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            },
+            {
+                "type": "killUnits",
+                "scope": "personal",
+                "points": 3,
+                "locaKey": "HomeScreenEvents/Tracker_killunits_warp_surge_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "Campaign",
+                        "MirrorCampaign",
+                        "CampaignEvent"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            },
+            {
+                "type": "raidBattles",
+                "scope": "personal",
+                "points": 25,
+                "pointsBasedOnEnemiesInBattle": true,
+                "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            },
+            {
+                "type": "raidBattles",
+                "scope": "personal",
+                "points": 5,
+                "pointsBasedOnEnemiesInBattle": true,
+                "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "EliteCampaign",
+                        "MirrorEliteCampaign"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            },
+            {
+                "type": "raidBattles",
+                "scope": "personal",
+                "points": 3,
+                "pointsBasedOnEnemiesInBattle": true,
+                "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "Campaign",
+                        "MirrorCampaign",
+                        "CampaignEvent"
+                    ]
+                },
+                "traitRestrictions": {
+                    "allowed": [
+                        "Chaos"
+                    ],
+                    "disallowed": [
+                        "Summon",
+                        "Steppable"
+                    ]
+                }
+            }
+        ],
+        "unlockRequirements": {
+            "PowerLevel": 7
+        }
+    }
+]

@@ -1,0 +1,2721 @@
+{
+    "battle_pass_bp_a": {
+        "free": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:10"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "chest_bp_upgrades_basic_alt"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_bloodDeathCompany:2"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "draft_abilityTokensCommon:3"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "shards_bloodDeathCompany:3"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "chest_bp_upgrades_basic_faction"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "chest_bp_upgrades_basic_unc"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "dust:75"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "shards_bloodDeathCompany:5"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "abilityTokensUncommon"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_alt"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "stamina:30"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgHpR035"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "abilityTokensRare"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "shards_bloodDeathCompany:5"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "upgDmgR035"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "xpEpic:2"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_faction"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "ascensionOrbsRare"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "machinesOfWarAmmo:5"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:20"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "shards_bloodDeathCompany:5"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "upgArmR035"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "itemsRare"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gold:4000",
+                "endless": true
+            }
+        ],
+        "premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:50"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_bloodDeathCompany:5"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "dust:50"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "chest_bp_upgrades_rare_faction"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "draft_abilityTokensUncommon:3"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "draft_ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "shards_bloodDeathCompany:10"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "draft_ascensionOrbsRare:2"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:100"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "itemAscensionResource_Rare"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "chest_bp_upgrades_marines_hp"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "shards_bloodDeathCompany:15"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "chest_bp_upgrades_xenos_hp"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpLegendary:2"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "chest_bp_upgrades_chaos_hp"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "itemsEpic"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "chest_bp_upgrades_imperial_hp"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "shards_bloodDeathCompany:15"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "xpLegendary:3"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "dust:100"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "draft_ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "draft_abilityTokensLegendary"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "upgHpL115"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "itemAscensionResource_Legendary"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "shards_bloodDeathCompany:25"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "draft_ascensionOrbsLegendary"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "avatar_blood_deathcompany_01_premium"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "xpEpic",
+                "endless": true
+            }
+        ],
+        "extra_premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "shards_bloodDeathCompany:10"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "draft_ascensionOrbsRare:10"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "shards_bloodDeathCompany:15"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "upgHpE035C"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "itemAscensionResource_Legendary:5"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgDmgE035C"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "playerProfileOrnament_bloodDeathCompany"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "shards_bloodDeathCompany:15"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "upgArmE035C"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "xpLegendary:10"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "shards_bloodDeathCompany:30"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": ""
+            }
+        ]
+    },
+    "battle_pass_bp_b": {
+        "free": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:10"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "chest_bp_upgrades_basic_alt"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_ultraCalgar:5"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "draft_abilityTokensCommon:3"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "shards_ultraCalgar:5"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "chest_bp_upgrades_basic_faction"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "chest_bp_upgrades_basic_unc"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "dust:75"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "shards_ultraCalgar:7"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "abilityTokensUncommon"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_alt"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "stamina:30"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgArmU005:2"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "abilityTokensRare"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "shards_ultraCalgar:8"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "upgDmgR007"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "xpEpic:2"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_faction"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "ascensionOrbsRare"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "machinesOfWarAmmo:5"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:20"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "shards_ultraCalgar:10"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "upgHpR018"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "itemsRare"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "shards_ultraCalgar:15"
+            },
+            {
+                "requiredProgress": 20160,
+                "chestRewardId": "ascensionOrbsLegendary"
+            },
+            {
+                "requiredProgress": 20520,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 20880,
+                "chestRewardId": "abilityTokensLegendary"
+            },
+            {
+                "requiredProgress": 21240,
+                "chestRewardId": "summoningToken:3"
+            },
+            {
+                "requiredProgress": 21600,
+                "chestRewardId": "shards_ultraCalgar:15"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gold:4000",
+                "endless": true
+            }
+        ],
+        "premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:50"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_ultraCalgar:10"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "dust:50"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "chest_bp_upgrades_rare_faction"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "draft_abilityTokensUncommon:3"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "draft_ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "shards_ultraCalgar:10"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "draft_ascensionOrbsRare:2"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:100"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "itemAscensionResource_Rare"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "chest_bp_upgrades_marines_dmg"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "shards_ultraCalgar:15"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "chest_bp_upgrades_xenos_dmg"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpLegendary:2"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "chest_bp_upgrades_chaos_dmg"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "itemsEpic"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "chest_bp_upgrades_imperial_dmg"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "shards_ultraCalgar:15"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "xpLegendary:3"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "dust:100"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "draft_ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "draft_abilityTokensLegendary"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "upgHpL100"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "itemAscensionResource_Legendary"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "shards_ultraCalgar:20"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "draft_ascensionOrbsLegendary"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "shards_ultraCalgar:30"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": "shards_ultraCalgar:35"
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "avatar_ultra_calgar_01_premium"
+            },
+            {
+                "requiredProgress": 20160,
+                "chestRewardId": "specialSummoningToken"
+            },
+            {
+                "requiredProgress": 20520,
+                "chestRewardId": "abilityTokensMythic"
+            },
+            {
+                "requiredProgress": 20880,
+                "chestRewardId": "xpMythic:2"
+            },
+            {
+                "requiredProgress": 21240,
+                "chestRewardId": "shards_ultraCalgar:40"
+            },
+            {
+                "requiredProgress": 21600,
+                "chestRewardId": "itemsMythic"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "xpEpic",
+                "endless": true
+            }
+        ],
+        "extra_premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "shards_ultraCalgar:20"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "draft_ascensionOrbsRare:10"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "shards_ultraCalgar:25"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "upgHpE007C"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "itemAscensionResource_Legendary:5"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgDmgE008C"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "playerProfileOrnament_ultraCalgar"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "shards_ultraCalgar:30"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "upgArmE001C"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "xpLegendary:10"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "shards_ultraCalgar:40"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "shards_ultraCalgar:65"
+            },
+            {
+                "requiredProgress": 20160,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 20520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 20880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 21240,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 21600,
+                "chestRewardId": "shards_ultraCalgar:80"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "",
+                "endless": true
+            }
+        ]
+    },
+    "battle_pass_bp_c": {
+        "free": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:10"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "chest_bp_upgrades_basic_alt"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_emperExultant:2"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "draft_abilityTokensCommon:3"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "shards_emperExultant:2"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "chest_bp_upgrades_basic_faction"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "chest_bp_upgrades_basic_unc"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "dust:75"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "shards_emperExultant:3"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "abilityTokensUncommon"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_alt"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "stamina:30"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgHpR039"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "abilityTokensRare"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "shards_emperExultant:3"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "upgDmgR039"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "xpEpic:2"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_faction"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "ascensionOrbsRare"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "machinesOfWarAmmo:5"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:20"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "shards_emperExultant:5"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "upgArmR039"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "itemsRare"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "shards_emperExultant:10"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gold:4000",
+                "endless": true
+            }
+        ],
+        "premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:50"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_emperExultant:5"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "dust:50"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "chest_bp_upgrades_rare_faction"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "draft_abilityTokensUncommon:3"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "draft_ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "shards_emperExultant:5"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "draft_ascensionOrbsRare:2"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:100"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "itemAscensionResource_Rare"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "chest_bp_upgrades_marines_arm"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "shards_emperExultant:10"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "chest_bp_upgrades_xenos_arm"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpLegendary:2"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "chest_bp_upgrades_chaos_arm"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "itemsEpic"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "chest_bp_upgrades_imperial_arm"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "shards_emperExultant:10"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "xpLegendary:3"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "dust:100"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "draft_ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "draft_abilityTokensLegendary"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "upgHpL119"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "itemAscensionResource_Legendary"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "shards_emperExultant:15"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "draft_ascensionOrbsLegendary"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "shards_emperExultant:25"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": "shards_emperExultant:30"
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "avatar_emper_exultant_01_premium"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "xpEpic",
+                "endless": true
+            }
+        ],
+        "extra_premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "shards_emperExultant:10"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "draft_ascensionOrbsRare:10"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "shards_emperExultant:15"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "upgHpE039C"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "itemAscensionResource_Legendary:5"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgDmgE039C"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "playerProfileOrnament_emperExultant"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "shards_emperExultant:20"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "upgArmE039C"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "xpLegendary:10"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "shards_emperExultant:30"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 18360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 19800,
+                "chestRewardId": "shards_emperExultant:50"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "",
+                "endless": true
+            }
+        ]
+    },
+    "battle_pass_bp_d": {
+        "free": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:10"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "chest_bp_upgrades_basic_alt"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_bloodIntercessor:2"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "draft_abilityTokensCommon:3"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpRare:5"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "shards_bloodIntercessor:3"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "chest_bp_upgrades_basic_faction"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "chest_bp_upgrades_basic_unc"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "dust:75"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "shards_bloodIntercessor:5"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "abilityTokensUncommon"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_alt"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "stamina:30"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgHpR035"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpEpic"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "itemsUncommon"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "abilityTokensRare"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "shards_bloodIntercessor:5"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "upgDmgR035"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "xpEpic:2"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:15"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "chest_bp_upgrades_basic_unc_faction"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "ascensionOrbsRare"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "machinesOfWarAmmo:5"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:20"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "shards_bloodIntercessor:5"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "upgArmR035"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "raidTicket:10"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "itemsRare"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gold:4000",
+                "endless": true
+            }
+        ],
+        "premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "gems:50"
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": "gold:3000"
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": "draft_abilityTokensCommon:4"
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": "shards_bloodIntercessor:5"
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "dust:50"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": "stamina:50"
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": "xpLegendary"
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "chest_bp_upgrades_rare_faction"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": "draft_abilityTokensUncommon:3"
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": "itemAscensionResource_Uncommon:2"
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": "gold:5000"
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "draft_ascensionOrbsUncommon:2"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": "shards_bloodIntercessor:10"
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": "draft_ascensionOrbsRare:2"
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "gems:100"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": "itemAscensionResource_Rare"
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "draft_abilityTokensRare:2"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": "chest_bp_upgrades_marines_hp"
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": "shards_bloodIntercessor:15"
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "chest_bp_upgrades_xenos_hp"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": "xpLegendary:2"
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": "chest_bp_upgrades_chaos_hp"
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": "itemsEpic"
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "chest_bp_upgrades_imperial_hp"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "draft_abilityTokensEpic"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": "shards_bloodIntercessor:15"
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": "xpLegendary:3"
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": "dust:100"
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "draft_ascensionOrbsEpic"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": "gems:150"
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": "itemAscensionResource_Epic"
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "draft_abilityTokensLegendary"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": "upgHpL115"
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": "itemAscensionResource_Legendary"
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": "shards_bloodIntercessor:25"
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "draft_ascensionOrbsLegendary"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": "summoningToken"
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": "itemsLegendary"
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": "xpLegendary:5"
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "avatar_blood_intercessor_01_premium"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "xpEpic",
+                "endless": true
+            }
+        ],
+        "extra_premium": [
+            {
+                "requiredProgress": 0,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 720,
+                "chestRewardId": "shards_bloodIntercessor:10"
+            },
+            {
+                "requiredProgress": 1080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 1800,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2160,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 2520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 2880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3240,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 3600,
+                "chestRewardId": "draft_ascensionOrbsRare:10"
+            },
+            {
+                "requiredProgress": 3960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 4680,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5040,
+                "chestRewardId": "shards_bloodIntercessor:15"
+            },
+            {
+                "requiredProgress": 5400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 5760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6120,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 6480,
+                "chestRewardId": "upgHpE035C"
+            },
+            {
+                "requiredProgress": 6840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7560,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 7920,
+                "chestRewardId": "itemAscensionResource_Legendary:5"
+            },
+            {
+                "requiredProgress": 8280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 8640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9000,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 9360,
+                "chestRewardId": "upgDmgE035C"
+            },
+            {
+                "requiredProgress": 9720,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10080,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10440,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 10800,
+                "chestRewardId": "playerProfileOrnament_bloodIntercessor"
+            },
+            {
+                "requiredProgress": 11160,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11520,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 11880,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12240,
+                "chestRewardId": "shards_bloodIntercessor:15"
+            },
+            {
+                "requiredProgress": 12600,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 12960,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13320,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 13680,
+                "chestRewardId": "upgArmE035C"
+            },
+            {
+                "requiredProgress": 14040,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14400,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 14760,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15120,
+                "chestRewardId": "xpLegendary:10"
+            },
+            {
+                "requiredProgress": 15480,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 15840,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16200,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 16560,
+                "chestRewardId": "shards_bloodIntercessor:30"
+            },
+            {
+                "requiredProgress": 16920,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17280,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 17640,
+                "chestRewardId": ""
+            },
+            {
+                "requiredProgress": 18000,
+                "chestRewardId": "summoningToken:5"
+            },
+            {
+                "requiredProgress": 360,
+                "chestRewardId": "",
+                "endless": true
+            }
+        ]
+    }
+}

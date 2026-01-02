@@ -1,0 +1,3717 @@
+{
+    "linear_hero_event_1": {
+        "eventType": "linearHeroEvent",
+        "eventName": "linear_hero_event_1",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "trackingAdditionalData": "{\"enemyFaction\":\"Necrons\"}",
+        "trackingEventNumber": 71,
+        "trackingFeaturedFaction": "Custodes",
+        "previewTitleLocaKey": "",
+        "visualId": "generic",
+        "trackingFeaturedHero": "custoKyrus",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "",
+        "unitId": "custoKyrus",
+        "maxStamina": 6,
+        "staminaRegenerationTime": 7200,
+        "staminaRegenerationAmount": 1,
+        "staminaRefillGemsCost": 50,
+        "tiers": [
+            {
+                "index": 0,
+                "battles": [
+                    {
+                        "battleNr": "1",
+                        "BoardId": "MC1_13",
+                        "SpawnPointsSet": 3,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:1",
+                        "lightningVictory": 1,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgArmC001%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc1Warrior:4",
+                            "necroNpc1Warrior:4",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "2",
+                        "BoardId": "LHE_Desert_02",
+                        "SpawnPointsSet": 3,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:1",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgDmgC001%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc5Swarm:4",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc2FlayedOne:3",
+                            "necroNpc1Warrior:4",
+                            "necroNpc1Warrior:4"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "3",
+                        "BoardId": "C1_67",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgArmC005%3/4"
+                        },
+                        "enemies": [
+                            "necroBossWardenLHE:1",
+                            "necroNpc1Warrior:5",
+                            "necroNpc1Warrior:5",
+                            "necroNpc2FlayedOne:4",
+                            "necroNpc2FlayedOne:4",
+                            "necroNpc2FlayedOne:4",
+                            "necroNpc2FlayedOne:4",
+                            "necroNpc2FlayedOne:4"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 1,
+                "battles": [
+                    {
+                        "battleNr": "4",
+                        "BoardId": "MC1_01",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:2",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgDmgU010%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc2FlayedOne:9",
+                            "necroNpc2FlayedOne:9",
+                            "necroNpc2FlayedOne:9",
+                            "necroNpc2FlayedOne:9"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Piercing",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 4,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "5",
+                        "BoardId": "MC1_08",
+                        "SpawnPointsSet": 3,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:2",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgArmU001%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc3Deathmark:10",
+                            "necroNpc1Warrior:8",
+                            "necroNpc1Warrior:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Flame",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "6",
+                        "BoardId": "C1_64",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgArmU002%3/4"
+                        },
+                        "enemies": [
+                            "necroBossDestroyerLHE:1",
+                            "necroNpc3Deathmark:9",
+                            "necroNpc3Deathmark:9",
+                            "necroNpc3Deathmark:9",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8",
+                            "necroNpc2FlayedOne:8"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Blast",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 2,
+                "battles": [
+                    {
+                        "battleNr": "7",
+                        "BoardId": "MC1_17",
+                        "SpawnPointsSet": 5,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:3",
+                        "lightningVictory": 1,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgHpR037%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc1Warrior:15",
+                            "necroNpc1Warrior:15",
+                            "necroNpc1Warrior:15",
+                            "necroNpc1Warrior:15"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Flame",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "UseNoSummons",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "8",
+                        "BoardId": "EC1_08",
+                        "SpawnPointsSet": 1,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgDmgR037%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc4Destroyer:9",
+                            "necroNpc1Warrior:13",
+                            "necroNpc1Warrior:13",
+                            "necroNpc1Warrior:13",
+                            "necroNpc2FlayedOne:12",
+                            "necroNpc2FlayedOne:12"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 2,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "9",
+                        "BoardId": "EC1_04",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:3",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgArmR037%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11",
+                            "necroNpc2FlayedOne:11"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "HasRangedAttack",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "10",
+                        "BoardId": "SyncPvp_Desert_03",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgHpR005%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc4Destroyer:9",
+                            "necroNpc4Destroyer:9",
+                            "necroNpc3Deathmark:13",
+                            "necroNpc3Deathmark:13",
+                            "necroNpc3Deathmark:13",
+                            "necroNpc3Deathmark:13",
+                            "necroNpc3Deathmark:13",
+                            "necroNpc3Deathmark:13"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Psychic",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "11",
+                        "BoardId": "C1_56",
+                        "SpawnPointsSet": 5,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:3",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgDmgR005%3/4"
+                        },
+                        "enemies": [
+                            "necroBossSpyderLHE:1",
+                            "necroNpc5Swarm:12",
+                            "necroNpc5Swarm:12",
+                            "necroNpc2FlayedOne:14",
+                            "necroNpc2FlayedOne:14",
+                            "necroNpc2FlayedOne:14",
+                            "necroNpc2FlayedOne:14"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "RapidAssault",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 3,
+                "battles": [
+                    {
+                        "battleNr": "12",
+                        "BoardId": "C1_55",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgArmE008%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc5Swarm:16",
+                            "necroNpc1Warrior:15",
+                            "necroNpc1Warrior:15",
+                            "necroNpc2FlayedOne:18",
+                            "necroNpc2FlayedOne:18",
+                            "necroNpc2FlayedOne:18",
+                            "necroNpc3Deathmark:18",
+                            "necroNpc3Deathmark:18"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Flame",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "13",
+                        "BoardId": "C1_52",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgHpE003%3/4"
+                        },
+                        "enemies": [
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19",
+                            "necroNpc2FlayedOne:19"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "DamageType",
+                                "ObjectiveTarget": "Power",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "14",
+                        "BoardId": "C1_34",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgDmgE004%3/4"
+                        },
+                        "enemies": [
+                            "necroBossPlasmancerLHE:1",
+                            "necroNpc3Deathmark:20",
+                            "necroNpc3Deathmark:20",
+                            "necroNpc3Deathmark:20",
+                            "necroNpc2FlayedOne:20",
+                            "necroNpc2FlayedOne:20",
+                            "necroNpc2FlayedOne:20",
+                            "necroNpc5Swarm:19",
+                            "necroNpc5Swarm:19"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 4,
+                "battles": [
+                    {
+                        "battleNr": "15",
+                        "BoardId": "EC1_10",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Imperial",
+                            "chanceOf": "upgHpL117%3/4"
+                        },
+                        "enemies": [
+                            "necroBossWardenLHE:2",
+                            "necroNpc4Destroyer:18",
+                            "necroNpc4Destroyer:18",
+                            "necroNpc2FlayedOne:24",
+                            "necroNpc2FlayedOne:24",
+                            "necroNpc2FlayedOne:24",
+                            "necroNpc2FlayedOne:24",
+                            "necroNpc3Deathmark:24",
+                            "necroNpc3Deathmark:24",
+                            "necroNpc3Deathmark:24"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "16",
+                        "BoardId": "C1_31",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:5",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Imperial",
+                            "chanceOf": "upgDmgL001%3/4"
+                        },
+                        "enemies": [
+                            "necroBossPlasmancerLHE:2",
+                            "necroNpc2FlayedOne:28",
+                            "necroNpc2FlayedOne:28",
+                            "necroNpc2FlayedOne:28",
+                            "necroNpc2FlayedOne:23",
+                            "necroNpc2FlayedOne:23",
+                            "necroNpc4Destroyer:24",
+                            "necroNpc1Warrior:30",
+                            "necroNpc1Warrior:30",
+                            "necroNpc1Warrior:30"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 3,
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 5,
+                "battles": [
+                    {
+                        "battleNr": "17",
+                        "BoardId": "C1_74",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "custoKyrus_LHE:6",
+                        "lightningVictory": 5,
+                        "loot": {
+                            "base": [
+                                "gold:225-290",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_custoKyrus",
+                            "star2": "xpMythic",
+                            "star3": "abilityTokenMythic_Imperial",
+                            "chanceOf": "upgHpM001%1/6"
+                        },
+                        "enemies": [
+                            "necroBossOverlordLHE:1",
+                            "necroNpc3Deathmark:33",
+                            "necroNpc3Deathmark:33",
+                            "necroNpc3Deathmark:33",
+                            "necroNpc3Deathmark:33",
+                            "necroNpc4Destroyer:23",
+                            "necroNpc4Destroyer:23",
+                            "necroNpc4Destroyer:23",
+                            "necroNpc4Destroyer:23",
+                            "necroNpc2FlayedOne:32",
+                            "necroNpc2FlayedOne:32",
+                            "necroNpc2FlayedOne:32"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Blast",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "milestones": [
+            {
+                "scorePoints": 1000,
+                "chestId": "lhe_chest_1_01"
+            },
+            {
+                "scorePoints": 1800,
+                "chestId": "lhe_chest_1_02"
+            },
+            {
+                "scorePoints": 2500,
+                "chestId": "lhe_chest_1_03"
+            },
+            {
+                "scorePoints": 3100,
+                "chestId": "lhe_chest_1_04"
+            },
+            {
+                "scorePoints": 3600,
+                "chestId": "lhe_chest_1_05"
+            },
+            {
+                "scorePoints": 4100,
+                "chestId": "lhe_chest_1_06"
+            },
+            {
+                "scorePoints": 4700,
+                "chestId": "lhe_chest_1_07"
+            },
+            {
+                "scorePoints": 5300,
+                "chestId": "lhe_chest_1_08"
+            },
+            {
+                "scorePoints": 5700,
+                "chestId": "lhe_chest_1_09"
+            },
+            {
+                "scorePoints": 6220,
+                "chestId": "lhe_chest_1_10"
+            },
+            {
+                "scorePoints": 6600,
+                "chestId": "lhe_chest_1_11"
+            },
+            {
+                "scorePoints": 7000,
+                "chestId": "lhe_chest_1_12"
+            },
+            {
+                "scorePoints": 7300,
+                "chestId": "lhe_chest_1_13"
+            },
+            {
+                "scorePoints": 7700,
+                "chestId": "lhe_chest_1_14"
+            },
+            {
+                "scorePoints": 8200,
+                "chestId": "lhe_chest_1_15"
+            },
+            {
+                "scorePoints": 8500,
+                "chestId": "lhe_chest_1_16"
+            },
+            {
+                "scorePoints": 8800,
+                "chestId": "lhe_chest_1_17"
+            }
+        ],
+        "offerBundleBonus": {
+            "guaranteedRewards": [],
+            "rewardsPerStar": [
+                "shards_custoKyrus:2"
+            ]
+        },
+        "allowedFactions": [
+            "Custodes",
+            "Sisterhood",
+            "AstraMilitarum",
+            "Ultramarines"
+        ],
+        "scorePoints": {
+            "pointsPerStar": 100,
+            "maxPointsForLightningVictory": 100
+        }
+    },
+    "linear_hero_event_2": {
+        "eventType": "linearHeroEvent",
+        "eventName": "linear_hero_event_2",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "trackingAdditionalData": "{\"enemyFaction\":\"Orks\"}",
+        "trackingEventNumber": 72,
+        "trackingFeaturedFaction": "#N/A (Did not find value 'orksRedGobbo' in XLOOKUP evaluation.)",
+        "previewTitleLocaKey": "",
+        "visualId": "generic",
+        "trackingFeaturedHero": "orksRedGobbo",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "",
+        "unitId": "orksRedGobbo",
+        "maxStamina": 6,
+        "staminaRegenerationTime": 7200,
+        "staminaRegenerationAmount": 1,
+        "staminaRefillGemsCost": 50,
+        "tiers": [
+            {
+                "index": 0,
+                "battles": [
+                    {
+                        "battleNr": "1",
+                        "BoardId": "C3_15",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Xenos",
+                            "chanceOf": "upgDmgC001%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:3",
+                            "orksNpc7Squig:3",
+                            "orksNpc7Squig:3",
+                            "orksNpc1Grot:3",
+                            "orksNpc1Grot:3",
+                            "orksNpc1Grot:3",
+                            "orksNpc1Grot:3",
+                            "orksNpc2OrkBoy:3",
+                            "orksNpc2OrkBoy:3"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Mechanic",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "2",
+                        "BoardId": "C3_12",
+                        "SpawnPointsSet": 8,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Xenos",
+                            "chanceOf": "upgArmC004%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:3",
+                            "orksNpc7Squig:3",
+                            "orksNpc7Squig:3",
+                            "orksNpc2OrkBoy:3",
+                            "orksNpc2OrkBoy:4",
+                            "orksNpc2OrkBoy:4",
+                            "orksNpc1Grot:5",
+                            "orksNpc1Grot:5",
+                            "orksNpc1Grot:5",
+                            "orksNpc1Grot:5",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Mechanical",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "3",
+                        "BoardId": "C3_10",
+                        "SpawnPointsSet": 12,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Xenos",
+                            "chanceOf": "upgArmC003%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:6",
+                            "orksNpc7Squig:4",
+                            "orksNpc7Squig:4",
+                            "orksNpc7Squig:4",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Unstoppable",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 1,
+                "battles": [
+                    {
+                        "battleNr": "4",
+                        "BoardId": "SyncPvp_Arctic_02",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Xenos",
+                            "chanceOf": "upgArmU002%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:7",
+                            "orksNpc7Squig:7",
+                            "orksNpc7Squig:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 3,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "5",
+                        "BoardId": "PVP_arctic_01",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Xenos",
+                            "chanceOf": "upgDmgU004%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:8",
+                            "orksNpc7Squig:8",
+                            "orksNpc7Squig:8",
+                            "orksNpc2OrkBoy:9",
+                            "orksNpc2OrkBoy:9",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "BeastSnagga",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "6",
+                        "BoardId": "MC3_15",
+                        "SpawnPointsSet": 5,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:2",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Xenos",
+                            "chanceOf": "upgArmU008%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:11",
+                            "orksNpc7Squig:8",
+                            "orksNpc7Squig:8",
+                            "orksNpc7Squig:8",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc2OrkBoy:7",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 2,
+                "battles": [
+                    {
+                        "battleNr": "7",
+                        "BoardId": "EC3_11",
+                        "SpawnPointsSet": 5,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:3",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Xenos",
+                            "chanceOf": "upgHpR010%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:13",
+                            "orksNpc7Squig:13",
+                            "orksNpc7Squig:13",
+                            "orksNpc1Grot:15",
+                            "orksNpc1Grot:15",
+                            "orksNpc1Grot:15",
+                            "orksNpc1Grot:15",
+                            "orksNpc1Grot:15",
+                            "orksNpc2OrkBoy:14",
+                            "orksNpc2OrkBoy:14",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "CrushingStrike",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "8",
+                        "BoardId": "EC3_08",
+                        "SpawnPointsSet": 7,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Xenos",
+                            "chanceOf": "upgDmgR026%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:16",
+                            "orksNpc7Squig:16",
+                            "orksNpc7Squig:16",
+                            "orksNpc1Grot:19",
+                            "orksNpc1Grot:19",
+                            "orksNpc1Grot:19",
+                            "orksNpc1Grot:19",
+                            "orksNpc6Stormboy:17",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Eviscerate",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "9",
+                        "BoardId": "EC3_05",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:3",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Xenos",
+                            "chanceOf": "upgArmR026%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:15",
+                            "orksNpc7Squig:15",
+                            "orksNpc7Squig:15",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 3,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "10",
+                        "BoardId": "C3_60",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Xenos",
+                            "chanceOf": "upgHpR018%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:20",
+                            "orksNpc7Squig:20",
+                            "orksNpc7Squig:20",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "11",
+                        "BoardId": "C3_49",
+                        "SpawnPointsSet": 10,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Xenos",
+                            "chanceOf": "upgHpR019%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:20",
+                            "orksNpc7Squig:17",
+                            "orksNpc7Squig:17",
+                            "orksNpc7Squig:17",
+                            "orksNpc2OrkBoy:18",
+                            "orksNpc2OrkBoy:18",
+                            "orksNpc2OrkBoy:18",
+                            "orksNpc2OrkBoy:18",
+                            "orksNpc1Grot:22",
+                            "orksNpc1Grot:22",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Unstoppable",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 3,
+                "battles": [
+                    {
+                        "battleNr": "12",
+                        "BoardId": "C3_58",
+                        "SpawnPointsSet": 8,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Xenos",
+                            "chanceOf": "upgDmgE003%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:27",
+                            "orksNpc7Squig:27",
+                            "orksNpc7Squig:27",
+                            "orksNpc2OrkBoy:27",
+                            "orksNpc2OrkBoy:27",
+                            "orksNpc2OrkBoy:27",
+                            "orksNpc2OrkBoy:27",
+                            "orksNpc2OrkBoy:27",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "BeastSnagga",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "13",
+                        "BoardId": "C3_59",
+                        "SpawnPointsSet": 9,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Xenos",
+                            "chanceOf": "upgDmgE004%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:28",
+                            "orksNpc7Squig:28",
+                            "orksNpc7Squig:28",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "orksNpc1Grot:33",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Mechanic",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "14",
+                        "BoardId": "C3_46",
+                        "SpawnPointsSet": 9,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Xenos",
+                            "chanceOf": "upgHpE015%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:33",
+                            "orksNpc7Squig:28",
+                            "orksNpc7Squig:28",
+                            "orksNpc7Squig:28",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc1Grot:35",
+                            "orksNpc1Grot:35",
+                            "orksNpc1Grot:35",
+                            "orksNpc1Grot:35",
+                            "orksNpc6Stormboy:30",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "CrushingStrike",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 4,
+                "battles": [
+                    {
+                        "battleNr": "15",
+                        "BoardId": "SyncPvp_Arctic_04",
+                        "SpawnPointsSet": 2,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Xenos",
+                            "chanceOf": "upgHpL106%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc7Squig:35",
+                            "orksNpc7Squig:35",
+                            "orksNpc7Squig:35",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40",
+                            "orksNpc6Stormboy:35",
+                            "orksNpc6Stormboy:35",
+                            "orksNpc6Stormboy:35",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Eviscerate",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "16",
+                        "BoardId": "EC3_01",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Xenos",
+                            "chanceOf": "upgArmL203%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:44",
+                            "orksNpc7Squig:41",
+                            "orksNpc7Squig:41",
+                            "orksNpc7Squig:41",
+                            "orksNpc1Grot:48",
+                            "orksNpc1Grot:48",
+                            "orksNpc1Grot:48",
+                            "orksNpc1Grot:48",
+                            "orksNpc1Grot:48",
+                            "orksNpc2OrkBoy:44",
+                            "orksNpc2OrkBoy:44",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 5,
+                "battles": [
+                    {
+                        "battleNr": "17",
+                        "BoardId": "C3_06",
+                        "SpawnPointsSet": 10,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "orksRedGobbo_LHE:6",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:225-290",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_orksWarboss",
+                            "star2": "xpMythic",
+                            "star3": "abilityTokenMythic_Xenos",
+                            "chanceOf": "upgHpM001%1/6"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:50",
+                            "orksNpc7Squig:48",
+                            "orksNpc7Squig:48",
+                            "orksNpc7Squig:48",
+                            "orksNpc1Grot:50",
+                            "orksNpc1Grot:50",
+                            "orksNpc1Grot:50",
+                            "orksNpc1Grot:50",
+                            "orksNpc2OrkBoy:48",
+                            "orksNpc2OrkBoy:48",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Unstoppable",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "milestones": [
+            {
+                "scorePoints": 1000,
+                "chestId": "lhe_chest_2_01"
+            },
+            {
+                "scorePoints": 1800,
+                "chestId": "lhe_chest_2_02"
+            },
+            {
+                "scorePoints": 2500,
+                "chestId": "lhe_chest_2_03"
+            },
+            {
+                "scorePoints": 3100,
+                "chestId": "lhe_chest_2_04"
+            },
+            {
+                "scorePoints": 3600,
+                "chestId": "lhe_chest_2_05"
+            },
+            {
+                "scorePoints": 4100,
+                "chestId": "lhe_chest_2_06"
+            },
+            {
+                "scorePoints": 4700,
+                "chestId": "lhe_chest_2_07"
+            },
+            {
+                "scorePoints": 5300,
+                "chestId": "lhe_chest_2_08"
+            },
+            {
+                "scorePoints": 5700,
+                "chestId": "lhe_chest_2_09"
+            },
+            {
+                "scorePoints": 6220,
+                "chestId": "lhe_chest_2_10"
+            },
+            {
+                "scorePoints": 6600,
+                "chestId": "lhe_chest_2_11"
+            },
+            {
+                "scorePoints": 7000,
+                "chestId": "lhe_chest_2_12"
+            },
+            {
+                "scorePoints": 7300,
+                "chestId": "lhe_chest_2_13"
+            },
+            {
+                "scorePoints": 7700,
+                "chestId": "lhe_chest_2_14"
+            },
+            {
+                "scorePoints": 8200,
+                "chestId": "lhe_chest_2_15"
+            },
+            {
+                "scorePoints": 8500,
+                "chestId": "lhe_chest_2_16"
+            },
+            {
+                "scorePoints": 8600,
+                "chestId": "lhe_chest_2_17"
+            }
+        ],
+        "offerBundleBonus": {
+            "guaranteedRewards": [],
+            "rewardsPerStar": [
+                "shards_orksRedGobbo:2"
+            ]
+        },
+        "allowedFactions": [
+            "Orks"
+        ],
+        "scorePoints": {
+            "pointsPerStar": 100,
+            "maxPointsForLightningVictory": 100
+        },
+        "pointsPerStar": 100,
+        "maxPointsForLightningVictory": 100,
+        "avatarId": "orkss_redgobbo_01"
+    },
+    "linear_hero_event_3": {
+        "eventType": "linearHeroEvent",
+        "eventName": "linear_hero_event_3",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "trackingAdditionalData": "{\"enemyFaction\":\"BlackTemplars\"}",
+        "trackingEventNumber": 73,
+        "trackingFeaturedFaction": "EmperorsChildren",
+        "previewTitleLocaKey": "",
+        "visualId": "generic",
+        "trackingFeaturedHero": "emperFlawlessBlade",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "",
+        "unitId": "emperFlawlessBlade",
+        "maxStamina": 6,
+        "staminaRegenerationTime": 7200,
+        "staminaRegenerationAmount": 1,
+        "staminaRefillGemsCost": 50,
+        "tiers": [
+            {
+                "index": 0,
+                "battles": [
+                    {
+                        "battleNr": "1",
+                        "BoardId": "C3_04",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:1",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgArmC003%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "DoNoHealOrRepair",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Psychic",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "2",
+                        "BoardId": "C3_06",
+                        "SpawnPointsSet": 11,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgHpC007%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Power",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "3",
+                        "BoardId": "C3_08",
+                        "SpawnPointsSet": 10,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:1",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgDmgC014%3/4"
+                        },
+                        "enemies": [
+                            "templBossAncient_LHE:1",
+                            "templNpc2Neophyte:5",
+                            "templNpc2Neophyte:5",
+                            "templNpc2Neophyte:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "templNpc1Initiate:5",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "HasNoRangedAttack",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 1,
+                "battles": [
+                    {
+                        "battleNr": "4",
+                        "BoardId": "C3_11",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:2",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgHpU012%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:9",
+                            "templNpc1Initiate:9",
+                            "templNpc1Initiate:9",
+                            "templNpc1Initiate:9",
+                            "templNpc1Initiate:9",
+                            "templNpc1Initiate:9"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 3,
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Physical",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "5",
+                        "BoardId": "C3_13",
+                        "SpawnPointsSet": 9,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgDmgU014%3/4"
+                        },
+                        "enemies": [
+                            "templNpc4Aggressor:12",
+                            "templNpc1Initiate:8",
+                            "templNpc1Initiate:8",
+                            "templNpc1Initiate:8",
+                            "templNpc2Neophyte:9",
+                            "templNpc2Neophyte:9",
+                            "templNpc2Neophyte:9"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "UseNoSummons",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "6",
+                        "BoardId": "C3_23",
+                        "SpawnPointsSet": 9,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:2",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgDmgU019%3/4"
+                        },
+                        "enemies": [
+                            "templBossSwordBrother_LHE:1",
+                            "templNpc4Aggressor:9",
+                            "templNpc2Neophyte:10",
+                            "templNpc2Neophyte:10",
+                            "templNpc2Neophyte:10",
+                            "templNpc2Neophyte:10",
+                            "templNpc1Initiate:11",
+                            "templNpc1Initiate:11",
+                            "templNpc1Initiate:11",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 2,
+                "battles": [
+                    {
+                        "battleNr": "7",
+                        "BoardId": "C3_32",
+                        "SpawnPointsSet": 7,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:3",
+                        "lightningVictory": 1,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR039%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:17",
+                            "templNpc1Initiate:17",
+                            "templNpc1Initiate:17",
+                            "templNpc1Initiate:17",
+                            "templNpc1Initiate:17"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Psychic",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "RapidAssault",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "8",
+                        "BoardId": "C3_18",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 125,
+                        "deployedUnit": "emperFlawlessBlade_LHE:3",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgDmgR039%3/4"
+                        },
+                        "enemies": [
+                            "templNpc2Neophyte:14",
+                            "templNpc2Neophyte:14",
+                            "templNpc2Neophyte:14",
+                            "templNpc4Aggressor:13",
+                            "templNpc3InitiatePyreblaster:14"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MinHits",
+                                "ObjectiveTarget": 3,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "9",
+                        "BoardId": "C3_54",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgArmR039%3/4"
+                        },
+                        "enemies": [
+                            "templNpc4Aggressor:14",
+                            "templNpc4Aggressor:14",
+                            "templNpc4Aggressor:14",
+                            "powupDamage",
+                            "powupMeleeHits",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "UseNoSummons",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "10",
+                        "BoardId": "C3_31",
+                        "SpawnPointsSet": 8,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR018%3/4"
+                        },
+                        "enemies": [
+                            "templNpc3InitiatePyreblaster:15",
+                            "templNpc3InitiatePyreblaster:15",
+                            "templNpc3InitiatePyreblaster:15",
+                            "templNpc3InitiatePyreblaster:15",
+                            "templNpc2Neophyte:16",
+                            "templNpc2Neophyte:16",
+                            "templNpc2Neophyte:16",
+                            "powupReactivateAbility"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "FinalJustice",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "11",
+                        "BoardId": "EMC3_04",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR008%3/4"
+                        },
+                        "enemies": [
+                            "templBossChampion_LHE:1",
+                            "templNpc1Initiate:16",
+                            "templNpc1Initiate:16",
+                            "templNpc2Neophyte:16",
+                            "templNpc2Neophyte:16",
+                            "templNpc2Neophyte:16",
+                            "templNpc4Aggressor:16"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 4,
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 3,
+                "battles": [
+                    {
+                        "battleNr": "12",
+                        "BoardId": "EC3_11",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgDmgE010%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc1Initiate:18",
+                            "templNpc2Neophyte:19",
+                            "templNpc2Neophyte:19",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Resilient",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "13",
+                        "BoardId": "EMC3_03",
+                        "SpawnPointsSet": 3,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgDmgE004%3/4"
+                        },
+                        "enemies": [
+                            "templNpc1Initiate:20",
+                            "templNpc1Initiate:20",
+                            "templNpc1Initiate:20",
+                            "templNpc1Initiate:20",
+                            "templNpc1Initiate:20",
+                            "templNpc4Aggressor:19",
+                            "templNpc4Aggressor:19",
+                            "powupMeleeHits"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Psychic",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "14",
+                        "BoardId": "EC3_09",
+                        "SpawnPointsSet": 5,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:4",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgHpE012%3/4"
+                        },
+                        "enemies": [
+                            "templBossAggressor_LHE:1",
+                            "templNpc4Aggressor:20",
+                            "templNpc4Aggressor:20",
+                            "templNpc3InitiatePyreblaster:20",
+                            "templNpc3InitiatePyreblaster:20",
+                            "templNpc3InitiatePyreblaster:20",
+                            "templNpc3InitiatePyreblaster:20",
+                            "templNpc3InitiatePyreblaster:20",
+                            "templNpc3InitiatePyreblaster:20"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 4,
+                "battles": [
+                    {
+                        "battleNr": "15",
+                        "BoardId": "EC3_07",
+                        "SpawnPointsSet": 7,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Chaos",
+                            "chanceOf": "upgHpL119%3/4"
+                        },
+                        "enemies": [
+                            "templNpc3InitiatePyreblaster:28",
+                            "templNpc3InitiatePyreblaster:28",
+                            "templNpc3InitiatePyreblaster:28",
+                            "templNpc3InitiatePyreblaster:28",
+                            "templNpc3InitiatePyreblaster:28",
+                            "templNpc2Neophyte:28",
+                            "templNpc2Neophyte:28",
+                            "templNpc2Neophyte:28",
+                            "templNpc2Neophyte:28"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "UseNoSummons",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "16",
+                        "BoardId": "C3_69",
+                        "SpawnPointsSet": 6,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:5",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Chaos",
+                            "chanceOf": "upgArmL202%3/4"
+                        },
+                        "enemies": [
+                            "templBossHelbrecht_LHE:1",
+                            "templNpc4Aggressor:28",
+                            "templNpc4Aggressor:28",
+                            "templNpc4Aggressor:28",
+                            "templNpc3InitiatePyreblaster:31",
+                            "templNpc3InitiatePyreblaster:31",
+                            "templNpc2Neophyte:32",
+                            "templNpc2Neophyte:32",
+                            "templNpc2Neophyte:32",
+                            "templNpc2Neophyte:32",
+                            "powupReactivateAbility",
+                            "powupHits"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "HeavyRound",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 5,
+                "battles": [
+                    {
+                        "battleNr": "17",
+                        "BoardId": "C3_66",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "emperFlawlessBlade_LHE:6",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:225-290",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_emperFlawlessBlade",
+                            "star2": "xpMythic",
+                            "star3": "abilityTokenMythic_Chaos",
+                            "chanceOf": "upgHpM002%1/6"
+                        },
+                        "enemies": [
+                            "templBossHelbrecht_LHE:2",
+                            "templNpc4Aggressor:33",
+                            "templNpc2Neophyte:34",
+                            "templNpc2Neophyte:34",
+                            "templNpc2Neophyte:34",
+                            "templNpc2Neophyte:34",
+                            "templNpc3InitiatePyreblaster:35",
+                            "templNpc3InitiatePyreblaster:35",
+                            "templNpc3InitiatePyreblaster:35",
+                            "powupHealing",
+                            "powupHealing"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "DamageType",
+                                "ObjectiveTarget": "Piercing",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "milestones": [
+            {
+                "scorePoints": 1000,
+                "chestId": "lhe_chest_3_01"
+            },
+            {
+                "scorePoints": 1800,
+                "chestId": "lhe_chest_3_02"
+            },
+            {
+                "scorePoints": 2500,
+                "chestId": "lhe_chest_3_03"
+            },
+            {
+                "scorePoints": 3100,
+                "chestId": "lhe_chest_3_04"
+            },
+            {
+                "scorePoints": 3600,
+                "chestId": "lhe_chest_3_05"
+            },
+            {
+                "scorePoints": 4100,
+                "chestId": "lhe_chest_3_06"
+            },
+            {
+                "scorePoints": 4700,
+                "chestId": "lhe_chest_3_07"
+            },
+            {
+                "scorePoints": 5300,
+                "chestId": "lhe_chest_3_08"
+            },
+            {
+                "scorePoints": 5700,
+                "chestId": "lhe_chest_3_09"
+            },
+            {
+                "scorePoints": 6220,
+                "chestId": "lhe_chest_3_10"
+            },
+            {
+                "scorePoints": 6600,
+                "chestId": "lhe_chest_3_11"
+            },
+            {
+                "scorePoints": 7000,
+                "chestId": "lhe_chest_3_12"
+            },
+            {
+                "scorePoints": 7300,
+                "chestId": "lhe_chest_3_13"
+            },
+            {
+                "scorePoints": 7700,
+                "chestId": "lhe_chest_3_14"
+            },
+            {
+                "scorePoints": 8200,
+                "chestId": "lhe_chest_3_15"
+            },
+            {
+                "scorePoints": 8500,
+                "chestId": "lhe_chest_3_16"
+            },
+            {
+                "scorePoints": 8800,
+                "chestId": "lhe_chest_3_17"
+            }
+        ],
+        "offerBundleBonus": {
+            "guaranteedRewards": [],
+            "rewardsPerStar": [
+                "shards_emperFlawlessBlade:2"
+            ]
+        },
+        "allowedFactions": [
+            "EmperorsChildren",
+            "WorldEaters",
+            "DeathGuard",
+            "BlackLegion",
+            "ThousandSons"
+        ],
+        "scorePoints": {
+            "pointsPerStar": 100,
+            "maxPointsForLightningVictory": 100
+        }
+    },
+    "linear_hero_event_4": {
+        "eventType": "linearHeroEvent",
+        "eventName": "linear_hero_event_4",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "trackingAdditionalData": "{\"enemyFaction\":\"Orks\"}",
+        "trackingEventNumber": 74,
+        "trackingFeaturedFaction": "BlackLegion",
+        "previewTitleLocaKey": "",
+        "visualId": "generic",
+        "trackingFeaturedHero": "blackPossession",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "",
+        "unitId": "blackPossession",
+        "maxStamina": 6,
+        "staminaRegenerationTime": 7200,
+        "staminaRegenerationAmount": 1,
+        "staminaRefillGemsCost": 50,
+        "tiers": [
+            {
+                "index": 0,
+                "battles": [
+                    {
+                        "battleNr": "1",
+                        "BoardId": "SR_01",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:1",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgHpC010%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Power",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "2",
+                        "BoardId": "SR_02",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:1",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgDmgC014%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:4",
+                            "orksNpc3GrotTank:4",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "3",
+                        "BoardId": "SR_03",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Chaos",
+                            "chanceOf": "upgDmgC003%3/4"
+                        },
+                        "enemies": [
+                            "orksBossNobLHE:3",
+                            "orksNpc3GrotTank:4",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6",
+                            "orksNpc1Grot:6"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 1,
+                "battles": [
+                    {
+                        "battleNr": "4",
+                        "BoardId": "SR_04",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgDmgU011%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:9",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10",
+                            "orksNpc1Grot:10"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Flame",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Piercing",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "5",
+                        "BoardId": "SR_05",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:2",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgArmU007%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:10",
+                            "orksNpc2OrkBoy:10",
+                            "orksNpc2OrkBoy:10",
+                            "orksNpc2OrkBoy:10",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "HasRangedAttack",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "6",
+                        "BoardId": "SR_06",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:2",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Chaos",
+                            "chanceOf": "upgDmgU019%3/4"
+                        },
+                        "enemies": [
+                            "orksBossBigMekLHE:3",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc3GrotTank:9",
+                            "orksNpc2OrkBoy:10",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12",
+                            "orksNpc1Grot:12"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 2,
+                "battles": [
+                    {
+                        "battleNr": "7",
+                        "BoardId": "SR_08",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR023%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:14",
+                            "orksNpc2OrkBoy:14",
+                            "orksNpc2OrkBoy:14",
+                            "orksNpc2OrkBoy:14"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Chain",
+                                "Score": 100
+                            },
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "HeavyRound",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "8",
+                        "BoardId": "SR_07",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 125,
+                        "deployedUnit": "blackPossession_LHE:3",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgDmgR023%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc1Grot:20",
+                            "orksNpc1Grot:20",
+                            "orksNpc1Grot:20"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "Trait",
+                                "ObjectiveTarget": "Psyker",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "9",
+                        "BoardId": "SR_09",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgArmR023%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16",
+                            "orksNpc2OrkBoy:16"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotFaction",
+                                "ObjectiveTarget": "ThousandSons",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "10",
+                        "BoardId": "SR_10",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:3",
+                        "lightningVictory": 5,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR008%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc3GrotTank:16",
+                            "orksNpc6Stormboy:16",
+                            "orksNpc6Stormboy:16",
+                            "orksNpc6Stormboy:16",
+                            "orksNpc6Stormboy:16",
+                            "orksNpc6Stormboy:16",
+                            "orksNpc6Stormboy:16"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "MaxHits",
+                                "ObjectiveTarget": 4,
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "11",
+                        "BoardId": "SR_11",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:3",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Chaos",
+                            "chanceOf": "upgHpR014%3/4"
+                        },
+                        "enemies": [
+                            "orksBossKillaKanLHE:3",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc2OrkBoy:17",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23",
+                            "orksNpc1Grot:23"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "TeleportStrike",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 3,
+                "battles": [
+                    {
+                        "battleNr": "12",
+                        "BoardId": "SR_12",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:4",
+                        "lightningVictory": 2,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgDmgE010%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:30",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Flying",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "13",
+                        "BoardId": "SR_13",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 4,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:4",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgDmgE003%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc6Stormboy:30",
+                            "orksNpc6Stormboy:30",
+                            "orksNpc6Stormboy:30",
+                            "orksNpc6Stormboy:30",
+                            "orksNpc6Stormboy:30",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28",
+                            "orksNpc2OrkBoy:28"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Eviscerate",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "14",
+                        "BoardId": "SR_14",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Chaos",
+                            "chanceOf": "upgDmgE001%3/4"
+                        },
+                        "enemies": [
+                            "orksBossRuntherdLHE:2",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc1Grot:34",
+                            "orksNpc2OrkBoy:31",
+                            "orksNpc2OrkBoy:31",
+                            "orksNpc2OrkBoy:31"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "Daemon",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 4,
+                "battles": [
+                    {
+                        "battleNr": "15",
+                        "BoardId": "SR_15",
+                        "SpawnPointsSet": 4,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Chaos",
+                            "chanceOf": "upgHpL103%3/4"
+                        },
+                        "enemies": [
+                            "orksNpc3GrotTank:35",
+                            "orksNpc3GrotTank:35",
+                            "orksNpc3GrotTank:35",
+                            "orksNpc6Stormboy:35",
+                            "orksNpc6Stormboy:35",
+                            "orksNpc6Stormboy:35",
+                            "orksNpc2OrkBoy:35",
+                            "orksNpc2OrkBoy:35",
+                            "orksNpc2OrkBoy:35",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40",
+                            "orksNpc1Grot:40"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Flame",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "16",
+                        "BoardId": "GB_Dakka_support_01",
+                        "SpawnPointsSet": 1,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:5",
+                        "lightningVictory": 4,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Chaos",
+                            "chanceOf": "upgDmgL202%3/4"
+                        },
+                        "enemies": [
+                            "orksBossWarbossLHE:3",
+                            "orksNpc3GrotTank:43",
+                            "orksNpc3GrotTank:43",
+                            "orksNpc2OrkBoy:43",
+                            "orksNpc2OrkBoy:43",
+                            "orksNpc2OrkBoy:43",
+                            "orksNpc2OrkBoy:43",
+                            "orksNpc2OrkBoy:43"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotTrait",
+                                "ObjectiveTarget": "SuppressiveFire",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 5,
+                "battles": [
+                    {
+                        "battleNr": "17",
+                        "BoardId": "GB_Dakka_support_06",
+                        "SpawnPointsSet": 1,
+                        "spawnpoints": 5,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "blackPossession_LHE:6",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:225-290",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_blackPossession",
+                            "star2": "xpMythic",
+                            "star3": "abilityTokenMythic_Chaos",
+                            "chanceOf": "upgHpM002%1/6"
+                        },
+                        "enemies": [
+                            "orksBossWarbossLHE:4",
+                            "orksNpc3GrotTank:45",
+                            "orksNpc3GrotTank:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc2OrkBoy:45",
+                            "orksNpc6Stormboy:45"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NotDamageType",
+                                "ObjectiveTarget": "Piercing",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "milestones": [
+            {
+                "scorePoints": 1000,
+                "chestId": "lhe_chest_4_01"
+            },
+            {
+                "scorePoints": 1800,
+                "chestId": "lhe_chest_4_02"
+            },
+            {
+                "scorePoints": 2500,
+                "chestId": "lhe_chest_4_03"
+            },
+            {
+                "scorePoints": 3100,
+                "chestId": "lhe_chest_4_04"
+            },
+            {
+                "scorePoints": 3600,
+                "chestId": "lhe_chest_4_05"
+            },
+            {
+                "scorePoints": 4100,
+                "chestId": "lhe_chest_4_06"
+            },
+            {
+                "scorePoints": 4700,
+                "chestId": "lhe_chest_4_07"
+            },
+            {
+                "scorePoints": 5300,
+                "chestId": "lhe_chest_4_08"
+            },
+            {
+                "scorePoints": 5700,
+                "chestId": "lhe_chest_4_09"
+            },
+            {
+                "scorePoints": 6220,
+                "chestId": "lhe_chest_4_10"
+            },
+            {
+                "scorePoints": 6600,
+                "chestId": "lhe_chest_4_11"
+            },
+            {
+                "scorePoints": 7000,
+                "chestId": "lhe_chest_4_12"
+            },
+            {
+                "scorePoints": 7300,
+                "chestId": "lhe_chest_4_13"
+            },
+            {
+                "scorePoints": 7700,
+                "chestId": "lhe_chest_4_14"
+            },
+            {
+                "scorePoints": 8200,
+                "chestId": "lhe_chest_4_15"
+            },
+            {
+                "scorePoints": 8500,
+                "chestId": "lhe_chest_4_16"
+            },
+            {
+                "scorePoints": 8800,
+                "chestId": "lhe_chest_4_17"
+            }
+        ],
+        "offerBundleBonus": {
+            "guaranteedRewards": [],
+            "rewardsPerStar": [
+                "shards_blackPossession:2"
+            ]
+        },
+        "allowedFactions": [
+            "BlackLegion",
+            "WorldEaters",
+            "DeathGuard",
+            "EmperorsChildren",
+            "ThousandSons"
+        ],
+        "scorePoints": {
+            "pointsPerStar": 100,
+            "maxPointsForLightningVictory": 100
+        }
+    },
+    "linear_hero_event_5": {
+        "eventType": "linearHeroEvent",
+        "eventName": "linear_hero_event_5",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "trackingAdditionalData": "{\"enemyFaction\":\"Aeldari\"}",
+        "trackingEventNumber": 75,
+        "trackingFeaturedFaction": "SpaceWolves",
+        "previewTitleLocaKey": "",
+        "visualId": "generic",
+        "trackingFeaturedHero": "spaceWolfPriest",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "",
+        "unitId": "spaceWolfPriest",
+        "maxStamina": 6,
+        "staminaRegenerationTime": 7200,
+        "staminaRegenerationAmount": 1,
+        "staminaRefillGemsCost": 50,
+        "tiers": [
+            {
+                "index": 0,
+                "battles": [
+                    {
+                        "battleNr": "1",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgArmC002%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "2",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgHpC013%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "3",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:1",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:25-30",
+                                "goldOrUpgradesCommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpCommon",
+                            "star3": "abilityTokenCommon_Imperial",
+                            "chanceOf": "upgArmC001%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 1,
+                "battles": [
+                    {
+                        "battleNr": "4",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgArmU009%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "5",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgArmU005%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "6",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:2",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:40-50",
+                                "goldOrUpgradesCommonToUncommon"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpUncommon",
+                            "star3": "abilityTokenUncommon_Imperial",
+                            "chanceOf": "upgArmU001%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 2,
+                "battles": [
+                    {
+                        "battleNr": "7",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgHpR031%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "8",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgDmgR031%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "9",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgArmR031%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "10",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgArmR005%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "11",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:3",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:60-75",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpRare",
+                            "star3": "abilityTokenRare_Imperial",
+                            "chanceOf": "upgArmR015%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 3,
+                "battles": [
+                    {
+                        "battleNr": "12",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgHpE003%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "13",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgDmgE011%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "14",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:4",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:90-115",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpEpic",
+                            "star3": "abilityTokenEpic_Imperial",
+                            "chanceOf": "upgArmE013%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 4,
+                "battles": [
+                    {
+                        "battleNr": "15",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Imperial",
+                            "chanceOf": "upgHpL111%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    },
+                    {
+                        "battleNr": "16",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:5",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:150-175",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpLegendary",
+                            "star3": "abilityTokenLegendary_Imperial",
+                            "chanceOf": "upgDmgL001%3/4"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "index": 5,
+                "battles": [
+                    {
+                        "battleNr": "17",
+                        "BoardId": "C4_01",
+                        "spawnpoints": 3,
+                        "difficultyMultiplier": 100,
+                        "deployedUnit": "spaceWolfPriest_LHE:6",
+                        "lightningVictory": 3,
+                        "loot": {
+                            "base": [
+                                "gold:225-290",
+                                "goldOrUpgradesCommonToRare"
+                            ],
+                            "star1": "shards_spaceWolfPriest",
+                            "star2": "xpMythic",
+                            "star3": "abilityTokenMythic_Imperial",
+                            "chanceOf": "upgHpM001%1/6"
+                        },
+                        "enemies": [
+                            "eldarNpc1Guardian:1"
+                        ],
+                        "Objectives": [
+                            {
+                                "ObjectiveType": "NoDamageTakenByAnyHero",
+                                "Score": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "milestones": [
+            {
+                "scorePoints": 1000,
+                "chestId": "lhe_chest_5_01"
+            },
+            {
+                "scorePoints": 1800,
+                "chestId": "lhe_chest_5_02"
+            },
+            {
+                "scorePoints": 2500,
+                "chestId": "lhe_chest_5_03"
+            },
+            {
+                "scorePoints": 3100,
+                "chestId": "lhe_chest_5_04"
+            },
+            {
+                "scorePoints": 3600,
+                "chestId": "lhe_chest_5_05"
+            },
+            {
+                "scorePoints": 4100,
+                "chestId": "lhe_chest_5_06"
+            },
+            {
+                "scorePoints": 4700,
+                "chestId": "lhe_chest_5_07"
+            },
+            {
+                "scorePoints": 5300,
+                "chestId": "lhe_chest_5_08"
+            },
+            {
+                "scorePoints": 5700,
+                "chestId": "lhe_chest_5_09"
+            },
+            {
+                "scorePoints": 6220,
+                "chestId": "lhe_chest_5_10"
+            },
+            {
+                "scorePoints": 6600,
+                "chestId": "lhe_chest_5_11"
+            },
+            {
+                "scorePoints": 7000,
+                "chestId": "lhe_chest_5_12"
+            },
+            {
+                "scorePoints": 7300,
+                "chestId": "lhe_chest_5_13"
+            },
+            {
+                "scorePoints": 7700,
+                "chestId": "lhe_chest_5_14"
+            },
+            {
+                "scorePoints": 8200,
+                "chestId": "lhe_chest_5_15"
+            },
+            {
+                "scorePoints": 8500,
+                "chestId": "lhe_chest_5_16"
+            },
+            {
+                "scorePoints": 8600,
+                "chestId": "lhe_chest_5_17"
+            }
+        ],
+        "offerBundleBonus": {
+            "guaranteedRewards": [],
+            "rewardsPerStar": [
+                "shards_spaceWolfPriest:2"
+            ]
+        },
+        "allowedFactions": [
+            "SpaceWolves",
+            "Ultramarines",
+            "BlackTemplars",
+            "BloodAngels",
+            "DarkAngels"
+        ],
+        "scorePoints": {
+            "pointsPerStar": 100,
+            "maxPointsForLightningVictory": 100
+        }
+    }
+}

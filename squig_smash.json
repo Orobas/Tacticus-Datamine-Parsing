@@ -1,0 +1,77 @@
+[
+    {
+        "eventType": "homeScreenEvent",
+        "eventName": "squig_smash_tier_high",
+        "subtitleLocaKey": "",
+        "titleLocaKey": "",
+        "previewTitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Header",
+        "visualId": "homescreenevent_squig_smash",
+        "offerId": "",
+        "shortDescriptionLocaKey": "",
+        "longDescriptionLocaKey": "",
+        "removalDelayAfterPurchase": "",
+        "previewSubtitleLocaKey": "HomeScreenEvents/HomeScreenEvent_squig_smash_Interstitial_Description",
+        "eventId": "squig_smash_tier_high",
+        "rewardProgressId": "hse_squig_smash_tier_high",
+        "theme": "squig_smash",
+        "tradeInResourceCurrency": "gold",
+        "tradeInResourceAmountPerPoint": 150,
+        "endRewardTitle": "Inbox/SeasonalEvent_UnclaimedRewards_Title",
+        "endRewardBody": "Inbox/SeasonalEvent_UnclaimedRewards_Body",
+        "endRewardSender": "Inbox/Sender_Tacticus",
+        "initialOfferIds": [
+            "offer_homescreen_event_squig_smash_tier_high_bundle",
+            "offer_homescreen_event_squig_smash_tier_high_playmore"
+        ],
+        "modifiers": [
+            {
+                "type": "battleEnvironmentAbility",
+                "abilityId": "EnvSquigSmash",
+                "locaKey": "HomeScreenEvents/Modifier_battleEnvironmentAbility_squig_smash_Description_2",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP",
+                        "TreasureBeach",
+                        "Waves"
+                    ]
+                }
+            }
+        ],
+        "trackers": [
+            {
+                "type": "killUnits",
+                "scope": "personal",
+                "points": 1,
+                "unitId": "orksNpc7Squig",
+                "locaKey": "HomeScreenEvents/Tracker_killunits_squig_smash_Description_2",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "PvP",
+                        "TreasureBeach",
+                        "Waves",
+                        "SyncPVP",
+                        "MachinesOfWarEvent",
+                        "GuildWars",
+                        "LinearHeroEvent"
+                    ]
+                }
+            },
+            {
+                "type": "raidBattles",
+                "scope": "personal",
+                "points": 1,
+                "pointsBasedOnEnemiesInBattle": true,
+                "unitId": "orksNpc7Squig",
+                "locaKey": "HomeScreenEvents/Tracker_raidbattles_Description",
+                "gameModeRestrictions": {
+                    "allowed": [
+                        "MachinesOfWarEvent"
+                    ]
+                }
+            }
+        ],
+        "unlockRequirements": {
+            "PowerLevel": 7
+        }
+    }
+]

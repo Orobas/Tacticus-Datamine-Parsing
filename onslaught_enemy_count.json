@@ -1,0 +1,4940 @@
+{
+    "Imperial": {
+        "1": {
+            "Name": "I",
+            "Battles": {
+                "Alpha": 23,
+                "Beta": 27,
+                "Gamma": 30
+            }
+        },
+        "2": {
+            "Name": "II",
+            "Battles": {
+                "Alpha": 30,
+                "Beta": 35,
+                "Gamma": 41
+            }
+        },
+        "3": {
+            "Name": "III",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 45,
+                "Gamma": 44
+            }
+        },
+        "4": {
+            "Name": "IV",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 48,
+                "Gamma": 54,
+                "Delta": 54
+            }
+        },
+        "5": {
+            "Name": "V",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 48,
+                "Gamma": 50,
+                "Delta": 56,
+                "Epsilon": 49
+            }
+        },
+        "6": {
+            "Name": "VI",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 57,
+                "Gamma": 48,
+                "Delta": 54,
+                "Epsilon": 57
+            }
+        },
+        "7": {
+            "Name": "VII",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 46,
+                "Gamma": 46,
+                "Delta": 47,
+                "Epsilon": 49
+            }
+        },
+        "8": {
+            "Name": "VIII",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 52,
+                "Gamma": 47,
+                "Delta": 48,
+                "Epsilon": 48
+            }
+        },
+        "9": {
+            "Name": "IX",
+            "Battles": {
+                "Alpha": 53,
+                "Beta": 60,
+                "Gamma": 45,
+                "Delta": 58,
+                "Epsilon": 60
+            }
+        },
+        "10": {
+            "Name": "X",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 57,
+                "Gamma": 51,
+                "Delta": 57,
+                "Epsilon": 59
+            }
+        },
+        "11": {
+            "Name": "XI",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 56,
+                "Gamma": 64,
+                "Delta": 56,
+                "Epsilon": 59,
+                "Zeta": 67
+            }
+        },
+        "12": {
+            "Name": "XII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 65,
+                "Gamma": 70,
+                "Delta": 70,
+                "Epsilon": 73,
+                "Zeta": 53
+            }
+        },
+        "13": {
+            "Name": "XIII",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 33,
+                "Gamma": 42,
+                "Delta": 56,
+                "Epsilon": 53,
+                "Zeta": 46
+            }
+        },
+        "14": {
+            "Name": "XIV",
+            "Battles": {
+                "Alpha": 57,
+                "Beta": 48,
+                "Gamma": 59,
+                "Delta": 53,
+                "Epsilon": 49,
+                "Zeta": 49
+            }
+        },
+        "15": {
+            "Name": "XV",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 40,
+                "Gamma": 49,
+                "Delta": 46,
+                "Epsilon": 49,
+                "Zeta": 60
+            }
+        },
+        "16": {
+            "Name": "XVI",
+            "Battles": {
+                "Alpha": 39,
+                "Beta": 42,
+                "Gamma": 56,
+                "Delta": 36,
+                "Epsilon": 43,
+                "Zeta": 43
+            }
+        },
+        "17": {
+            "Name": "XVII",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 43,
+                "Gamma": 33,
+                "Delta": 35,
+                "Epsilon": 35,
+                "Zeta": 46
+            }
+        },
+        "18": {
+            "Name": "XVIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 41,
+                "Gamma": 35,
+                "Delta": 49,
+                "Epsilon": 35,
+                "Zeta": 36
+            }
+        },
+        "19": {
+            "Name": "XIX",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 40,
+                "Gamma": 49,
+                "Delta": 40,
+                "Epsilon": 38,
+                "Zeta": 46
+            }
+        },
+        "20": {
+            "Name": "XX",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 53,
+                "Gamma": 42,
+                "Delta": 49,
+                "Epsilon": 37,
+                "Zeta": 36
+            }
+        },
+        "21": {
+            "Name": "XXI",
+            "Battles": {
+                "Alpha": 57,
+                "Beta": 44,
+                "Gamma": 42,
+                "Delta": 34,
+                "Epsilon": 35,
+                "Zeta": 49
+            }
+        },
+        "22": {
+            "Name": "XXII",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 49,
+                "Gamma": 53,
+                "Delta": 41,
+                "Epsilon": 42,
+                "Zeta": 42
+            }
+        },
+        "23": {
+            "Name": "XXIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 28,
+                "Gamma": 56,
+                "Delta": 42,
+                "Epsilon": 42,
+                "Zeta": 45
+            }
+        },
+        "24": {
+            "Name": "XXIV",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 42,
+                "Gamma": 37,
+                "Delta": 42,
+                "Epsilon": 35,
+                "Zeta": 34
+            }
+        },
+        "25": {
+            "Name": "XXV",
+            "Battles": {
+                "Alpha": 33,
+                "Beta": 30,
+                "Gamma": 33,
+                "Delta": 42,
+                "Epsilon": 37,
+                "Zeta": 35
+            }
+        },
+        "26": {
+            "Name": "XXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 56,
+                "Epsilon": 35,
+                "Zeta": 49
+            }
+        },
+        "27": {
+            "Name": "XXVII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 42,
+                "Gamma": 46,
+                "Delta": 53,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "28": {
+            "Name": "XXVIII",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 42,
+                "Gamma": 50,
+                "Delta": 50,
+                "Epsilon": 50,
+                "Zeta": 33
+            }
+        },
+        "29": {
+            "Name": "XXIX",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 53,
+                "Gamma": 41,
+                "Delta": 49,
+                "Epsilon": 36,
+                "Zeta": 37
+            }
+        },
+        "30": {
+            "Name": "XXX",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 57,
+                "Zeta": 42
+            }
+        },
+        "31": {
+            "Name": "XXXI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 33,
+                "Gamma": 59,
+                "Delta": 34,
+                "Epsilon": 42,
+                "Zeta": 46
+            }
+        },
+        "32": {
+            "Name": "XXXII",
+            "Battles": {
+                "Alpha": 57,
+                "Beta": 44,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 41,
+                "Zeta": 47
+            }
+        },
+        "33": {
+            "Name": "XXXIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 40,
+                "Gamma": 35,
+                "Delta": 49,
+                "Epsilon": 35,
+                "Zeta": 40
+            }
+        },
+        "34": {
+            "Name": "XXXIV",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 36,
+                "Gamma": 54,
+                "Delta": 48,
+                "Epsilon": 40,
+                "Zeta": 57
+            }
+        },
+        "35": {
+            "Name": "XXXV",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 46,
+                "Gamma": 56,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 49
+            }
+        },
+        "36": {
+            "Name": "XXXVI",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 45,
+                "Gamma": 44,
+                "Delta": 58,
+                "Epsilon": 71,
+                "Zeta": 58
+            }
+        },
+        "37": {
+            "Name": "XXXVII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 50,
+                "Gamma": 63,
+                "Delta": 54,
+                "Epsilon": 62,
+                "Zeta": 63
+            }
+        },
+        "38": {
+            "Name": "XXXVIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 45,
+                "Epsilon": 53,
+                "Zeta": 47
+            }
+        },
+        "39": {
+            "Name": "XXXIX",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 42,
+                "Gamma": 45,
+                "Delta": 48,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "40": {
+            "Name": "XL",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 66,
+                "Gamma": 84,
+                "Delta": 22,
+                "Epsilon": 48,
+                "Zeta": 59
+            }
+        },
+        "41": {
+            "Name": "XLI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 41,
+                "Gamma": 59,
+                "Delta": 33,
+                "Epsilon": 28,
+                "Zeta": 67
+            }
+        },
+        "42": {
+            "Name": "XLII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 46,
+                "Gamma": 39,
+                "Delta": 36,
+                "Epsilon": 35,
+                "Zeta": 59
+            }
+        },
+        "43": {
+            "Name": "XLIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 50,
+                "Gamma": 49,
+                "Delta": 42,
+                "Epsilon": 33,
+                "Zeta": 51
+            }
+        },
+        "44": {
+            "Name": "XLIV",
+            "Battles": {
+                "Alpha": 25,
+                "Beta": 81,
+                "Gamma": 53,
+                "Delta": 48,
+                "Epsilon": 54,
+                "Zeta": 51
+            }
+        },
+        "45": {
+            "Name": "XLV",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 42,
+                "Gamma": 36,
+                "Delta": 52,
+                "Epsilon": 32,
+                "Zeta": 55
+            }
+        },
+        "46": {
+            "Name": "XLVI",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 52,
+                "Zeta": 35
+            }
+        },
+        "47": {
+            "Name": "XLVII",
+            "Battles": {
+                "Alpha": 38,
+                "Beta": 42,
+                "Gamma": 39,
+                "Delta": 39,
+                "Epsilon": 39,
+                "Zeta": 34
+            }
+        },
+        "48": {
+            "Name": "XLVIII",
+            "Battles": {
+                "Alpha": 23,
+                "Beta": 24,
+                "Gamma": 26,
+                "Delta": 44,
+                "Epsilon": 45,
+                "Zeta": 39
+            }
+        },
+        "49": {
+            "Name": "XLIX",
+            "Battles": {
+                "Alpha": 37,
+                "Beta": 48,
+                "Gamma": 41,
+                "Delta": 38,
+                "Epsilon": 41,
+                "Zeta": 36
+            }
+        },
+        "50": {
+            "Name": "L",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 51,
+                "Gamma": 56,
+                "Delta": 50,
+                "Epsilon": 25,
+                "Zeta": 27
+            }
+        },
+        "51": {
+            "Name": "LI",
+            "Battles": {
+                "Alpha": 32,
+                "Beta": 30,
+                "Gamma": 35,
+                "Delta": 43,
+                "Epsilon": 51,
+                "Zeta": 27
+            }
+        },
+        "52": {
+            "Name": "LII",
+            "Battles": {
+                "Alpha": 51,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 51,
+                "Epsilon": 39,
+                "Zeta": 35
+            }
+        },
+        "53": {
+            "Name": "LIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 51,
+                "Gamma": 29,
+                "Delta": 42,
+                "Epsilon": 50,
+                "Zeta": 49
+            }
+        },
+        "54": {
+            "Name": "LIV",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 42,
+                "Gamma": 53,
+                "Delta": 59,
+                "Epsilon": 49,
+                "Zeta": 59
+            }
+        },
+        "55": {
+            "Name": "LV",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 49,
+                "Delta": 50,
+                "Epsilon": 39,
+                "Zeta": 42
+            }
+        },
+        "56": {
+            "Name": "LVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 42,
+                "Delta": 46,
+                "Epsilon": 47,
+                "Zeta": 44
+            }
+        },
+        "57": {
+            "Name": "LVII",
+            "Battles": {
+                "Alpha": 39,
+                "Beta": 40,
+                "Gamma": 33,
+                "Delta": 40,
+                "Epsilon": 57,
+                "Zeta": 31
+            }
+        },
+        "58": {
+            "Name": "LVIII",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 30,
+                "Gamma": 56,
+                "Delta": 34,
+                "Epsilon": 23,
+                "Zeta": 31
+            }
+        },
+        "59": {
+            "Name": "LIX",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 59,
+                "Gamma": 26,
+                "Delta": 52,
+                "Epsilon": 36,
+                "Zeta": 49
+            }
+        },
+        "60": {
+            "Name": "LX",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 63,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 47,
+                "Zeta": 41
+            }
+        },
+        "61": {
+            "Name": "LXI",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 31,
+                "Epsilon": 40,
+                "Zeta": 48
+            }
+        },
+        "62": {
+            "Name": "LXII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 64,
+                "Gamma": 49,
+                "Delta": 45,
+                "Epsilon": 31,
+                "Zeta": 46
+            }
+        },
+        "63": {
+            "Name": "LXIII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 43,
+                "Delta": 41,
+                "Epsilon": 34,
+                "Zeta": 35
+            }
+        },
+        "64": {
+            "Name": "LXIV",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 35,
+                "Gamma": 36,
+                "Delta": 37,
+                "Epsilon": 38,
+                "Zeta": 39
+            }
+        },
+        "65": {
+            "Name": "LXV",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 41,
+                "Delta": 42,
+                "Epsilon": 42,
+                "Zeta": 42
+            }
+        },
+        "66": {
+            "Name": "LXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 43,
+                "Delta": 44,
+                "Epsilon": 44,
+                "Zeta": 44
+            }
+        },
+        "67": {
+            "Name": "LXVII",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 45,
+                "Gamma": 45,
+                "Delta": 46,
+                "Epsilon": 46,
+                "Zeta": 46
+            }
+        },
+        "68": {
+            "Name": "LXVIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "69": {
+            "Name": "LXIX",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "70": {
+            "Name": "LXX",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "71": {
+            "Name": "LXXI",
+            "Battles": {
+                "Alpha": 53,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 54,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "72": {
+            "Name": "LXXII",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 56,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "73": {
+            "Name": "LXXIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 56,
+                "Epsilon": 56,
+                "Zeta": 56
+            }
+        },
+        "74": {
+            "Name": "LXXIV",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 55,
+                "Gamma": 55,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "75": {
+            "Name": "LXXV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "76": {
+            "Name": "LXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "77": {
+            "Name": "LXXVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "78": {
+            "Name": "LXXVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "79": {
+            "Name": "LXXIX",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "80": {
+            "Name": "LXXX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "81": {
+            "Name": "LXXXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "82": {
+            "Name": "LXXXII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 59,
+                "Gamma": 59,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "83": {
+            "Name": "LXXXIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "84": {
+            "Name": "LXXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "85": {
+            "Name": "LXXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "86": {
+            "Name": "LXXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "87": {
+            "Name": "LXXXVII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 61,
+                "Gamma": 61,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "88": {
+            "Name": "LXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "89": {
+            "Name": "LXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "90": {
+            "Name": "XC",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "91": {
+            "Name": "XCI",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 50,
+                "Gamma": 50,
+                "Delta": 51,
+                "Epsilon": 51,
+                "Zeta": 51
+            }
+        },
+        "92": {
+            "Name": "XCII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 52,
+                "Gamma": 52,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "93": {
+            "Name": "XCIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "94": {
+            "Name": "XCIV",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "95": {
+            "Name": "XCV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "96": {
+            "Name": "XCVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "97": {
+            "Name": "XCVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "98": {
+            "Name": "XCVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "99": {
+            "Name": "XCIX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "100": {
+            "Name": "C",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "101": {
+            "Name": "CI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "102": {
+            "Name": "CII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "103": {
+            "Name": "CIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "104": {
+            "Name": "CIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "105": {
+            "Name": "CV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "106": {
+            "Name": "CVI",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 57,
+                "Delta": 53,
+                "Epsilon": 54,
+                "Zeta": 55
+            }
+        },
+        "107": {
+            "Name": "CVII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 61,
+                "Delta": 58,
+                "Epsilon": 58,
+                "Zeta": 58
+            }
+        },
+        "108": {
+            "Name": "CVIII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 62,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 65,
+                "Zeta": 66
+            }
+        },
+        "109": {
+            "Name": "CIX",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 68,
+                "Gamma": 69,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "110": {
+            "Name": "CX",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 66,
+                "Epsilon": 67,
+                "Zeta": 68
+            }
+        },
+        "111": {
+            "Name": "CXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "112": {
+            "Name": "CXII",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "113": {
+            "Name": "CXIII",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "114": {
+            "Name": "CXIV",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "115": {
+            "Name": "CXV",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 77,
+                "Epsilon": 77,
+                "Zeta": 77
+            }
+        },
+        "116": {
+            "Name": "CXVI",
+            "Battles": {
+                "Alpha": 78,
+                "Beta": 78,
+                "Gamma": 78,
+                "Delta": 79,
+                "Epsilon": 79,
+                "Zeta": 79
+            }
+        },
+        "117": {
+            "Name": "CXVII",
+            "Battles": {
+                "Alpha": 80,
+                "Beta": 80,
+                "Gamma": 80,
+                "Delta": 81,
+                "Epsilon": 81,
+                "Zeta": 81
+            }
+        },
+        "118": {
+            "Name": "CXVIII",
+            "Battles": {
+                "Alpha": 82,
+                "Beta": 82,
+                "Gamma": 82,
+                "Delta": 83,
+                "Epsilon": 83,
+                "Zeta": 83
+            }
+        },
+        "119": {
+            "Name": "CXIX",
+            "Battles": {
+                "Alpha": 84,
+                "Beta": 84,
+                "Gamma": 84,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "120": {
+            "Name": "CXX",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "121": {
+            "Name": "CXXI",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "122": {
+            "Name": "CXXII",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "123": {
+            "Name": "CXXIII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "124": {
+            "Name": "CXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "125": {
+            "Name": "CXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "126": {
+            "Name": "CXXVI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "127": {
+            "Name": "CXXVII",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "128": {
+            "Name": "CXXVIII",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "129": {
+            "Name": "CXXIX",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "130": {
+            "Name": "CXXX",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "131": {
+            "Name": "CXXXI",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "132": {
+            "Name": "CXXXII",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "133": {
+            "Name": "CXXXIII",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "134": {
+            "Name": "CXXXIV",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "135": {
+            "Name": "CXXXV",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "136": {
+            "Name": "CXXXVI",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "137": {
+            "Name": "CXXXVII",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "138": {
+            "Name": "CXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "139": {
+            "Name": "CXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "140": {
+            "Name": "CXL",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "141": {
+            "Name": "CXLI",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "142": {
+            "Name": "CXLII",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "143": {
+            "Name": "CXLIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "144": {
+            "Name": "CXLIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "145": {
+            "Name": "CXLV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "146": {
+            "Name": "CXLVI",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "147": {
+            "Name": "CXLVII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "148": {
+            "Name": "CXLVIII",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "149": {
+            "Name": "CXLIX",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "150": {
+            "Name": "CL",
+            "Battles": {
+                "Alpha": 79,
+                "Beta": 79,
+                "Gamma": 79,
+                "Delta": 80,
+                "Epsilon": 80,
+                "Zeta": 80
+            }
+        },
+        "151": {
+            "Name": "CLI",
+            "Battles": {
+                "Alpha": 81,
+                "Beta": 81,
+                "Gamma": 81,
+                "Delta": 82,
+                "Epsilon": 82,
+                "Zeta": 82
+            }
+        }
+    },
+    "Xenos": {
+        "1": {
+            "Name": "I",
+            "Battles": {
+                "Alpha": 24,
+                "Beta": 25,
+                "Gamma": 30
+            }
+        },
+        "2": {
+            "Name": "II",
+            "Battles": {
+                "Alpha": 23,
+                "Beta": 29,
+                "Gamma": 25
+            }
+        },
+        "3": {
+            "Name": "III",
+            "Battles": {
+                "Alpha": 30,
+                "Beta": 35,
+                "Gamma": 40
+            }
+        },
+        "4": {
+            "Name": "IV",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 53,
+                "Gamma": 48,
+                "Delta": 57
+            }
+        },
+        "5": {
+            "Name": "V",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 45,
+                "Gamma": 48,
+                "Delta": 51,
+                "Epsilon": 36
+            }
+        },
+        "6": {
+            "Name": "VI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 47,
+                "Gamma": 42,
+                "Delta": 54,
+                "Epsilon": 48
+            }
+        },
+        "7": {
+            "Name": "VII",
+            "Battles": {
+                "Alpha": 40,
+                "Beta": 50,
+                "Gamma": 57,
+                "Delta": 51,
+                "Epsilon": 40
+            }
+        },
+        "8": {
+            "Name": "VIII",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 52,
+                "Gamma": 42,
+                "Delta": 47,
+                "Epsilon": 54
+            }
+        },
+        "9": {
+            "Name": "IX",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 63,
+                "Gamma": 48,
+                "Delta": 56,
+                "Epsilon": 54
+            }
+        },
+        "10": {
+            "Name": "X",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 55,
+                "Gamma": 46,
+                "Delta": 42,
+                "Epsilon": 42
+            }
+        },
+        "11": {
+            "Name": "XI",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 49,
+                "Gamma": 58,
+                "Delta": 56,
+                "Epsilon": 58,
+                "Zeta": 46
+            }
+        },
+        "12": {
+            "Name": "XII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 62,
+                "Gamma": 63,
+                "Delta": 70,
+                "Epsilon": 69,
+                "Zeta": 53
+            }
+        },
+        "13": {
+            "Name": "XIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 63,
+                "Gamma": 49,
+                "Delta": 35,
+                "Epsilon": 56,
+                "Zeta": 48
+            }
+        },
+        "14": {
+            "Name": "XIV",
+            "Battles": {
+                "Alpha": 39,
+                "Beta": 49,
+                "Gamma": 49,
+                "Delta": 35,
+                "Epsilon": 42,
+                "Zeta": 70
+            }
+        },
+        "15": {
+            "Name": "XV",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 38,
+                "Gamma": 41,
+                "Delta": 45,
+                "Epsilon": 35,
+                "Zeta": 54
+            }
+        },
+        "16": {
+            "Name": "XVI",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 44,
+                "Gamma": 49,
+                "Delta": 33,
+                "Epsilon": 42,
+                "Zeta": 42
+            }
+        },
+        "17": {
+            "Name": "XVII",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 35,
+                "Gamma": 32,
+                "Delta": 36,
+                "Epsilon": 42,
+                "Zeta": 39
+            }
+        },
+        "18": {
+            "Name": "XVIII",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 35,
+                "Gamma": 63,
+                "Delta": 42,
+                "Epsilon": 36,
+                "Zeta": 39
+            }
+        },
+        "19": {
+            "Name": "XIX",
+            "Battles": {
+                "Alpha": 40,
+                "Beta": 38,
+                "Gamma": 31,
+                "Delta": 43,
+                "Epsilon": 38,
+                "Zeta": 40
+            }
+        },
+        "20": {
+            "Name": "XX",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 49,
+                "Gamma": 61,
+                "Delta": 42,
+                "Epsilon": 45,
+                "Zeta": 49
+            }
+        },
+        "21": {
+            "Name": "XXI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 35,
+                "Gamma": 54,
+                "Delta": 43,
+                "Epsilon": 42,
+                "Zeta": 50
+            }
+        },
+        "22": {
+            "Name": "XXII",
+            "Battles": {
+                "Alpha": 51,
+                "Beta": 39,
+                "Gamma": 56,
+                "Delta": 32,
+                "Epsilon": 32,
+                "Zeta": 39
+            }
+        },
+        "23": {
+            "Name": "XXIII",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 36,
+                "Gamma": 36,
+                "Delta": 43,
+                "Epsilon": 42,
+                "Zeta": 36
+            }
+        },
+        "24": {
+            "Name": "XXIV",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 42,
+                "Gamma": 37,
+                "Delta": 42,
+                "Epsilon": 35,
+                "Zeta": 34
+            }
+        },
+        "25": {
+            "Name": "XXV",
+            "Battles": {
+                "Alpha": 33,
+                "Beta": 30,
+                "Gamma": 33,
+                "Delta": 42,
+                "Epsilon": 37,
+                "Zeta": 35
+            }
+        },
+        "26": {
+            "Name": "XXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 56,
+                "Epsilon": 35,
+                "Zeta": 49
+            }
+        },
+        "27": {
+            "Name": "XXVII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 42,
+                "Gamma": 46,
+                "Delta": 53,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "28": {
+            "Name": "XXVIII",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 42,
+                "Gamma": 50,
+                "Delta": 50,
+                "Epsilon": 50,
+                "Zeta": 33
+            }
+        },
+        "29": {
+            "Name": "XXIX",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 53,
+                "Gamma": 41,
+                "Delta": 49,
+                "Epsilon": 36,
+                "Zeta": 37
+            }
+        },
+        "30": {
+            "Name": "XXX",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 57,
+                "Zeta": 42
+            }
+        },
+        "31": {
+            "Name": "XXXI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 33,
+                "Gamma": 59,
+                "Delta": 34,
+                "Epsilon": 42,
+                "Zeta": 46
+            }
+        },
+        "32": {
+            "Name": "XXXII",
+            "Battles": {
+                "Alpha": 57,
+                "Beta": 44,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 41,
+                "Zeta": 47
+            }
+        },
+        "33": {
+            "Name": "XXXIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 40,
+                "Gamma": 35,
+                "Delta": 49,
+                "Epsilon": 35,
+                "Zeta": 40
+            }
+        },
+        "34": {
+            "Name": "XXXIV",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 36,
+                "Gamma": 54,
+                "Delta": 48,
+                "Epsilon": 40,
+                "Zeta": 57
+            }
+        },
+        "35": {
+            "Name": "XXXV",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 46,
+                "Gamma": 56,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 49
+            }
+        },
+        "36": {
+            "Name": "XXXVI",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 45,
+                "Gamma": 44,
+                "Delta": 58,
+                "Epsilon": 71,
+                "Zeta": 58
+            }
+        },
+        "37": {
+            "Name": "XXXVII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 50,
+                "Gamma": 63,
+                "Delta": 54,
+                "Epsilon": 62,
+                "Zeta": 63
+            }
+        },
+        "38": {
+            "Name": "XXXVIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 45,
+                "Epsilon": 53,
+                "Zeta": 47
+            }
+        },
+        "39": {
+            "Name": "XXXIX",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 42,
+                "Gamma": 45,
+                "Delta": 48,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "40": {
+            "Name": "XL",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 66,
+                "Gamma": 84,
+                "Delta": 22,
+                "Epsilon": 48,
+                "Zeta": 59
+            }
+        },
+        "41": {
+            "Name": "XLI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 41,
+                "Gamma": 59,
+                "Delta": 33,
+                "Epsilon": 28,
+                "Zeta": 67
+            }
+        },
+        "42": {
+            "Name": "XLII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 46,
+                "Gamma": 39,
+                "Delta": 36,
+                "Epsilon": 35,
+                "Zeta": 59
+            }
+        },
+        "43": {
+            "Name": "XLIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 50,
+                "Gamma": 49,
+                "Delta": 42,
+                "Epsilon": 33,
+                "Zeta": 51
+            }
+        },
+        "44": {
+            "Name": "XLIV",
+            "Battles": {
+                "Alpha": 25,
+                "Beta": 81,
+                "Gamma": 53,
+                "Delta": 48,
+                "Epsilon": 54,
+                "Zeta": 51
+            }
+        },
+        "45": {
+            "Name": "XLV",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 42,
+                "Gamma": 36,
+                "Delta": 52,
+                "Epsilon": 32,
+                "Zeta": 55
+            }
+        },
+        "46": {
+            "Name": "XLVI",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 52,
+                "Zeta": 35
+            }
+        },
+        "47": {
+            "Name": "XLVII",
+            "Battles": {
+                "Alpha": 38,
+                "Beta": 42,
+                "Gamma": 39,
+                "Delta": 39,
+                "Epsilon": 39,
+                "Zeta": 34
+            }
+        },
+        "48": {
+            "Name": "XLVIII",
+            "Battles": {
+                "Alpha": 23,
+                "Beta": 24,
+                "Gamma": 26,
+                "Delta": 44,
+                "Epsilon": 45,
+                "Zeta": 39
+            }
+        },
+        "49": {
+            "Name": "XLIX",
+            "Battles": {
+                "Alpha": 37,
+                "Beta": 48,
+                "Gamma": 41,
+                "Delta": 38,
+                "Epsilon": 41,
+                "Zeta": 36
+            }
+        },
+        "50": {
+            "Name": "L",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 51,
+                "Gamma": 56,
+                "Delta": 50,
+                "Epsilon": 25,
+                "Zeta": 27
+            }
+        },
+        "51": {
+            "Name": "LI",
+            "Battles": {
+                "Alpha": 32,
+                "Beta": 30,
+                "Gamma": 35,
+                "Delta": 43,
+                "Epsilon": 51,
+                "Zeta": 27
+            }
+        },
+        "52": {
+            "Name": "LII",
+            "Battles": {
+                "Alpha": 51,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 51,
+                "Epsilon": 39,
+                "Zeta": 35
+            }
+        },
+        "53": {
+            "Name": "LIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 51,
+                "Gamma": 29,
+                "Delta": 42,
+                "Epsilon": 50,
+                "Zeta": 49
+            }
+        },
+        "54": {
+            "Name": "LIV",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 42,
+                "Gamma": 53,
+                "Delta": 59,
+                "Epsilon": 49,
+                "Zeta": 59
+            }
+        },
+        "55": {
+            "Name": "LV",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 49,
+                "Delta": 50,
+                "Epsilon": 39,
+                "Zeta": 42
+            }
+        },
+        "56": {
+            "Name": "LVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 42,
+                "Delta": 46,
+                "Epsilon": 47,
+                "Zeta": 44
+            }
+        },
+        "57": {
+            "Name": "LVII",
+            "Battles": {
+                "Alpha": 39,
+                "Beta": 40,
+                "Gamma": 33,
+                "Delta": 40,
+                "Epsilon": 57,
+                "Zeta": 31
+            }
+        },
+        "58": {
+            "Name": "LVIII",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 30,
+                "Gamma": 56,
+                "Delta": 34,
+                "Epsilon": 23,
+                "Zeta": 31
+            }
+        },
+        "59": {
+            "Name": "LIX",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 59,
+                "Gamma": 26,
+                "Delta": 52,
+                "Epsilon": 36,
+                "Zeta": 49
+            }
+        },
+        "60": {
+            "Name": "LX",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 63,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 47,
+                "Zeta": 41
+            }
+        },
+        "61": {
+            "Name": "LXI",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 31,
+                "Epsilon": 40,
+                "Zeta": 48
+            }
+        },
+        "62": {
+            "Name": "LXII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 64,
+                "Gamma": 49,
+                "Delta": 45,
+                "Epsilon": 31,
+                "Zeta": 46
+            }
+        },
+        "63": {
+            "Name": "LXIII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 43,
+                "Delta": 41,
+                "Epsilon": 34,
+                "Zeta": 35
+            }
+        },
+        "64": {
+            "Name": "LXIV",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 35,
+                "Gamma": 36,
+                "Delta": 37,
+                "Epsilon": 38,
+                "Zeta": 39
+            }
+        },
+        "65": {
+            "Name": "LXV",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 41,
+                "Delta": 42,
+                "Epsilon": 42,
+                "Zeta": 42
+            }
+        },
+        "66": {
+            "Name": "LXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 43,
+                "Delta": 44,
+                "Epsilon": 44,
+                "Zeta": 44
+            }
+        },
+        "67": {
+            "Name": "LXVII",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 45,
+                "Gamma": 45,
+                "Delta": 46,
+                "Epsilon": 46,
+                "Zeta": 46
+            }
+        },
+        "68": {
+            "Name": "LXVIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "69": {
+            "Name": "LXIX",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "70": {
+            "Name": "LXX",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "71": {
+            "Name": "LXXI",
+            "Battles": {
+                "Alpha": 53,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 54,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "72": {
+            "Name": "LXXII",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 56,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "73": {
+            "Name": "LXXIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 56,
+                "Epsilon": 56,
+                "Zeta": 56
+            }
+        },
+        "74": {
+            "Name": "LXXIV",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 55,
+                "Gamma": 55,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "75": {
+            "Name": "LXXV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "76": {
+            "Name": "LXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "77": {
+            "Name": "LXXVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "78": {
+            "Name": "LXXVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "79": {
+            "Name": "LXXIX",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "80": {
+            "Name": "LXXX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "81": {
+            "Name": "LXXXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "82": {
+            "Name": "LXXXII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 59,
+                "Gamma": 59,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "83": {
+            "Name": "LXXXIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "84": {
+            "Name": "LXXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "85": {
+            "Name": "LXXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "86": {
+            "Name": "LXXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "87": {
+            "Name": "LXXXVII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 61,
+                "Gamma": 61,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "88": {
+            "Name": "LXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "89": {
+            "Name": "LXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "90": {
+            "Name": "XC",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "91": {
+            "Name": "XCI",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 50,
+                "Gamma": 50,
+                "Delta": 51,
+                "Epsilon": 51,
+                "Zeta": 51
+            }
+        },
+        "92": {
+            "Name": "XCII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 52,
+                "Gamma": 52,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "93": {
+            "Name": "XCIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "94": {
+            "Name": "XCIV",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "95": {
+            "Name": "XCV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "96": {
+            "Name": "XCVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "97": {
+            "Name": "XCVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "98": {
+            "Name": "XCVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "99": {
+            "Name": "XCIX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "100": {
+            "Name": "C",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "101": {
+            "Name": "CI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "102": {
+            "Name": "CII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "103": {
+            "Name": "CIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "104": {
+            "Name": "CIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "105": {
+            "Name": "CV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "106": {
+            "Name": "CVI",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 57,
+                "Delta": 53,
+                "Epsilon": 54,
+                "Zeta": 55
+            }
+        },
+        "107": {
+            "Name": "CVII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 61,
+                "Delta": 58,
+                "Epsilon": 58,
+                "Zeta": 58
+            }
+        },
+        "108": {
+            "Name": "CVIII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 62,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 65,
+                "Zeta": 66
+            }
+        },
+        "109": {
+            "Name": "CIX",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 68,
+                "Gamma": 69,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "110": {
+            "Name": "CX",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 66,
+                "Epsilon": 67,
+                "Zeta": 68
+            }
+        },
+        "111": {
+            "Name": "CXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "112": {
+            "Name": "CXII",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "113": {
+            "Name": "CXIII",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "114": {
+            "Name": "CXIV",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "115": {
+            "Name": "CXV",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 77,
+                "Epsilon": 77,
+                "Zeta": 77
+            }
+        },
+        "116": {
+            "Name": "CXVI",
+            "Battles": {
+                "Alpha": 78,
+                "Beta": 78,
+                "Gamma": 78,
+                "Delta": 79,
+                "Epsilon": 79,
+                "Zeta": 79
+            }
+        },
+        "117": {
+            "Name": "CXVII",
+            "Battles": {
+                "Alpha": 80,
+                "Beta": 80,
+                "Gamma": 80,
+                "Delta": 81,
+                "Epsilon": 81,
+                "Zeta": 81
+            }
+        },
+        "118": {
+            "Name": "CXVIII",
+            "Battles": {
+                "Alpha": 82,
+                "Beta": 82,
+                "Gamma": 82,
+                "Delta": 83,
+                "Epsilon": 83,
+                "Zeta": 83
+            }
+        },
+        "119": {
+            "Name": "CXIX",
+            "Battles": {
+                "Alpha": 84,
+                "Beta": 84,
+                "Gamma": 84,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "120": {
+            "Name": "CXX",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "121": {
+            "Name": "CXXI",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "122": {
+            "Name": "CXXII",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "123": {
+            "Name": "CXXIII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "124": {
+            "Name": "CXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "125": {
+            "Name": "CXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "126": {
+            "Name": "CXXVI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "127": {
+            "Name": "CXXVII",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "128": {
+            "Name": "CXXVIII",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "129": {
+            "Name": "CXXIX",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "130": {
+            "Name": "CXXX",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "131": {
+            "Name": "CXXXI",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "132": {
+            "Name": "CXXXII",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "133": {
+            "Name": "CXXXIII",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "134": {
+            "Name": "CXXXIV",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "135": {
+            "Name": "CXXXV",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "136": {
+            "Name": "CXXXVI",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "137": {
+            "Name": "CXXXVII",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "138": {
+            "Name": "CXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "139": {
+            "Name": "CXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "140": {
+            "Name": "CXL",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "141": {
+            "Name": "CXLI",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "142": {
+            "Name": "CXLII",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "143": {
+            "Name": "CXLIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "144": {
+            "Name": "CXLIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "145": {
+            "Name": "CXLV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "146": {
+            "Name": "CXLVI",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "147": {
+            "Name": "CXLVII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "148": {
+            "Name": "CXLVIII",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "149": {
+            "Name": "CXLIX",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "150": {
+            "Name": "CL",
+            "Battles": {
+                "Alpha": 79,
+                "Beta": 79,
+                "Gamma": 79,
+                "Delta": 80,
+                "Epsilon": 80,
+                "Zeta": 80
+            }
+        },
+        "151": {
+            "Name": "CLI",
+            "Battles": {
+                "Alpha": 81,
+                "Beta": 81,
+                "Gamma": 81,
+                "Delta": 82,
+                "Epsilon": 82,
+                "Zeta": 82
+            }
+        }
+    },
+    "Chaos": {
+        "1": {
+            "Name": "I",
+            "Battles": {
+                "Alpha": 22,
+                "Beta": 27,
+                "Gamma": 30
+            }
+        },
+        "2": {
+            "Name": "II",
+            "Battles": {
+                "Alpha": 27,
+                "Beta": 32,
+                "Gamma": 33
+            }
+        },
+        "3": {
+            "Name": "III",
+            "Battles": {
+                "Alpha": 33,
+                "Beta": 39,
+                "Gamma": 36
+            }
+        },
+        "4": {
+            "Name": "IV",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 49,
+                "Gamma": 46,
+                "Delta": 53
+            }
+        },
+        "5": {
+            "Name": "V",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 44,
+                "Gamma": 41,
+                "Delta": 44,
+                "Epsilon": 38
+            }
+        },
+        "6": {
+            "Name": "VI",
+            "Battles": {
+                "Alpha": 38,
+                "Beta": 52,
+                "Gamma": 39,
+                "Delta": 46,
+                "Epsilon": 48
+            }
+        },
+        "7": {
+            "Name": "VII",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 50,
+                "Gamma": 57,
+                "Delta": 52,
+                "Epsilon": 39
+            }
+        },
+        "8": {
+            "Name": "VIII",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 48,
+                "Gamma": 30,
+                "Delta": 52,
+                "Epsilon": 44
+            }
+        },
+        "9": {
+            "Name": "IX",
+            "Battles": {
+                "Alpha": 37,
+                "Beta": 54,
+                "Gamma": 57,
+                "Delta": 45,
+                "Epsilon": 54
+            }
+        },
+        "10": {
+            "Name": "X",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 60,
+                "Gamma": 56,
+                "Delta": 54,
+                "Epsilon": 57
+            }
+        },
+        "11": {
+            "Name": "XI",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 52,
+                "Gamma": 68,
+                "Delta": 56,
+                "Epsilon": 42,
+                "Zeta": 63
+            }
+        },
+        "12": {
+            "Name": "XII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 32,
+                "Zeta": 56
+            }
+        },
+        "13": {
+            "Name": "XIII",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 61,
+                "Gamma": 55,
+                "Delta": 69,
+                "Epsilon": 45,
+                "Zeta": 42
+            }
+        },
+        "14": {
+            "Name": "XIV",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 56,
+                "Gamma": 45,
+                "Delta": 45,
+                "Epsilon": 56,
+                "Zeta": 39
+            }
+        },
+        "15": {
+            "Name": "XV",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 35,
+                "Gamma": 38,
+                "Delta": 42,
+                "Epsilon": 43,
+                "Zeta": 49
+            }
+        },
+        "16": {
+            "Name": "XVI",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 34,
+                "Gamma": 35,
+                "Delta": 42,
+                "Epsilon": 42,
+                "Zeta": 36
+            }
+        },
+        "17": {
+            "Name": "XVII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 35,
+                "Gamma": 49,
+                "Delta": 35,
+                "Epsilon": 39,
+                "Zeta": 39
+            }
+        },
+        "18": {
+            "Name": "XVIII",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 39,
+                "Gamma": 35,
+                "Delta": 36,
+                "Epsilon": 36,
+                "Zeta": 39
+            }
+        },
+        "19": {
+            "Name": "XIX",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 40,
+                "Epsilon": 35,
+                "Zeta": 37
+            }
+        },
+        "20": {
+            "Name": "XX",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 46,
+                "Epsilon": 49,
+                "Zeta": 46
+            }
+        },
+        "21": {
+            "Name": "XXI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 49,
+                "Gamma": 42,
+                "Delta": 42,
+                "Epsilon": 31,
+                "Zeta": 37
+            }
+        },
+        "22": {
+            "Name": "XXII",
+            "Battles": {
+                "Alpha": 44,
+                "Beta": 36,
+                "Gamma": 35,
+                "Delta": 34,
+                "Epsilon": 35,
+                "Zeta": 43
+            }
+        },
+        "23": {
+            "Name": "XXIII",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 49,
+                "Gamma": 42,
+                "Delta": 40,
+                "Epsilon": 42,
+                "Zeta": 45
+            }
+        },
+        "24": {
+            "Name": "XXIV",
+            "Battles": {
+                "Alpha": 35,
+                "Beta": 42,
+                "Gamma": 37,
+                "Delta": 42,
+                "Epsilon": 35,
+                "Zeta": 34
+            }
+        },
+        "25": {
+            "Name": "XXV",
+            "Battles": {
+                "Alpha": 33,
+                "Beta": 30,
+                "Gamma": 33,
+                "Delta": 42,
+                "Epsilon": 37,
+                "Zeta": 35
+            }
+        },
+        "26": {
+            "Name": "XXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 56,
+                "Epsilon": 35,
+                "Zeta": 49
+            }
+        },
+        "27": {
+            "Name": "XXVII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 42,
+                "Gamma": 46,
+                "Delta": 53,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "28": {
+            "Name": "XXVIII",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 42,
+                "Gamma": 50,
+                "Delta": 50,
+                "Epsilon": 50,
+                "Zeta": 33
+            }
+        },
+        "29": {
+            "Name": "XXIX",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 53,
+                "Gamma": 41,
+                "Delta": 49,
+                "Epsilon": 36,
+                "Zeta": 37
+            }
+        },
+        "30": {
+            "Name": "XXX",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 57,
+                "Zeta": 42
+            }
+        },
+        "31": {
+            "Name": "XXXI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 33,
+                "Gamma": 59,
+                "Delta": 34,
+                "Epsilon": 42,
+                "Zeta": 46
+            }
+        },
+        "32": {
+            "Name": "XXXII",
+            "Battles": {
+                "Alpha": 57,
+                "Beta": 44,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 41,
+                "Zeta": 47
+            }
+        },
+        "33": {
+            "Name": "XXXIII",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 40,
+                "Gamma": 35,
+                "Delta": 49,
+                "Epsilon": 35,
+                "Zeta": 40
+            }
+        },
+        "34": {
+            "Name": "XXXIV",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 36,
+                "Gamma": 54,
+                "Delta": 48,
+                "Epsilon": 40,
+                "Zeta": 57
+            }
+        },
+        "35": {
+            "Name": "XXXV",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 46,
+                "Gamma": 56,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 49
+            }
+        },
+        "36": {
+            "Name": "XXXVI",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 45,
+                "Gamma": 44,
+                "Delta": 58,
+                "Epsilon": 71,
+                "Zeta": 58
+            }
+        },
+        "37": {
+            "Name": "XXXVII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 50,
+                "Gamma": 63,
+                "Delta": 54,
+                "Epsilon": 62,
+                "Zeta": 63
+            }
+        },
+        "38": {
+            "Name": "XXXVIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 41,
+                "Gamma": 39,
+                "Delta": 45,
+                "Epsilon": 53,
+                "Zeta": 47
+            }
+        },
+        "39": {
+            "Name": "XXXIX",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 42,
+                "Gamma": 45,
+                "Delta": 48,
+                "Epsilon": 36,
+                "Zeta": 56
+            }
+        },
+        "40": {
+            "Name": "XL",
+            "Battles": {
+                "Alpha": 48,
+                "Beta": 66,
+                "Gamma": 84,
+                "Delta": 22,
+                "Epsilon": 48,
+                "Zeta": 59
+            }
+        },
+        "41": {
+            "Name": "XLI",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 41,
+                "Gamma": 59,
+                "Delta": 33,
+                "Epsilon": 28,
+                "Zeta": 67
+            }
+        },
+        "42": {
+            "Name": "XLII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 46,
+                "Gamma": 39,
+                "Delta": 36,
+                "Epsilon": 35,
+                "Zeta": 59
+            }
+        },
+        "43": {
+            "Name": "XLIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 50,
+                "Gamma": 49,
+                "Delta": 42,
+                "Epsilon": 33,
+                "Zeta": 51
+            }
+        },
+        "44": {
+            "Name": "XLIV",
+            "Battles": {
+                "Alpha": 25,
+                "Beta": 81,
+                "Gamma": 53,
+                "Delta": 48,
+                "Epsilon": 54,
+                "Zeta": 51
+            }
+        },
+        "45": {
+            "Name": "XLV",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 42,
+                "Gamma": 36,
+                "Delta": 52,
+                "Epsilon": 32,
+                "Zeta": 55
+            }
+        },
+        "46": {
+            "Name": "XLVI",
+            "Battles": {
+                "Alpha": 46,
+                "Beta": 43,
+                "Gamma": 50,
+                "Delta": 41,
+                "Epsilon": 52,
+                "Zeta": 35
+            }
+        },
+        "47": {
+            "Name": "XLVII",
+            "Battles": {
+                "Alpha": 38,
+                "Beta": 42,
+                "Gamma": 39,
+                "Delta": 39,
+                "Epsilon": 39,
+                "Zeta": 34
+            }
+        },
+        "48": {
+            "Name": "XLVIII",
+            "Battles": {
+                "Alpha": 23,
+                "Beta": 24,
+                "Gamma": 26,
+                "Delta": 44,
+                "Epsilon": 45,
+                "Zeta": 39
+            }
+        },
+        "49": {
+            "Name": "XLIX",
+            "Battles": {
+                "Alpha": 37,
+                "Beta": 48,
+                "Gamma": 41,
+                "Delta": 38,
+                "Epsilon": 41,
+                "Zeta": 36
+            }
+        },
+        "50": {
+            "Name": "L",
+            "Battles": {
+                "Alpha": 42,
+                "Beta": 51,
+                "Gamma": 56,
+                "Delta": 50,
+                "Epsilon": 25,
+                "Zeta": 27
+            }
+        },
+        "51": {
+            "Name": "LI",
+            "Battles": {
+                "Alpha": 32,
+                "Beta": 30,
+                "Gamma": 35,
+                "Delta": 43,
+                "Epsilon": 51,
+                "Zeta": 27
+            }
+        },
+        "52": {
+            "Name": "LII",
+            "Battles": {
+                "Alpha": 51,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 51,
+                "Epsilon": 39,
+                "Zeta": 35
+            }
+        },
+        "53": {
+            "Name": "LIII",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 51,
+                "Gamma": 29,
+                "Delta": 42,
+                "Epsilon": 50,
+                "Zeta": 49
+            }
+        },
+        "54": {
+            "Name": "LIV",
+            "Battles": {
+                "Alpha": 49,
+                "Beta": 42,
+                "Gamma": 53,
+                "Delta": 59,
+                "Epsilon": 49,
+                "Zeta": 59
+            }
+        },
+        "55": {
+            "Name": "LV",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 49,
+                "Delta": 50,
+                "Epsilon": 39,
+                "Zeta": 42
+            }
+        },
+        "56": {
+            "Name": "LVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 42,
+                "Delta": 46,
+                "Epsilon": 47,
+                "Zeta": 44
+            }
+        },
+        "57": {
+            "Name": "LVII",
+            "Battles": {
+                "Alpha": 39,
+                "Beta": 40,
+                "Gamma": 33,
+                "Delta": 40,
+                "Epsilon": 57,
+                "Zeta": 31
+            }
+        },
+        "58": {
+            "Name": "LVIII",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 30,
+                "Gamma": 56,
+                "Delta": 34,
+                "Epsilon": 23,
+                "Zeta": 31
+            }
+        },
+        "59": {
+            "Name": "LIX",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 59,
+                "Gamma": 26,
+                "Delta": 52,
+                "Epsilon": 36,
+                "Zeta": 49
+            }
+        },
+        "60": {
+            "Name": "LX",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 63,
+                "Gamma": 45,
+                "Delta": 47,
+                "Epsilon": 47,
+                "Zeta": 41
+            }
+        },
+        "61": {
+            "Name": "LXI",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 42,
+                "Gamma": 42,
+                "Delta": 31,
+                "Epsilon": 40,
+                "Zeta": 48
+            }
+        },
+        "62": {
+            "Name": "LXII",
+            "Battles": {
+                "Alpha": 47,
+                "Beta": 64,
+                "Gamma": 49,
+                "Delta": 45,
+                "Epsilon": 31,
+                "Zeta": 46
+            }
+        },
+        "63": {
+            "Name": "LXIII",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 43,
+                "Delta": 41,
+                "Epsilon": 34,
+                "Zeta": 35
+            }
+        },
+        "64": {
+            "Name": "LXIV",
+            "Battles": {
+                "Alpha": 36,
+                "Beta": 35,
+                "Gamma": 36,
+                "Delta": 37,
+                "Epsilon": 38,
+                "Zeta": 39
+            }
+        },
+        "65": {
+            "Name": "LXV",
+            "Battles": {
+                "Alpha": 41,
+                "Beta": 41,
+                "Gamma": 41,
+                "Delta": 42,
+                "Epsilon": 42,
+                "Zeta": 42
+            }
+        },
+        "66": {
+            "Name": "LXVI",
+            "Battles": {
+                "Alpha": 43,
+                "Beta": 43,
+                "Gamma": 43,
+                "Delta": 44,
+                "Epsilon": 44,
+                "Zeta": 44
+            }
+        },
+        "67": {
+            "Name": "LXVII",
+            "Battles": {
+                "Alpha": 45,
+                "Beta": 45,
+                "Gamma": 45,
+                "Delta": 46,
+                "Epsilon": 46,
+                "Zeta": 46
+            }
+        },
+        "68": {
+            "Name": "LXVIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "69": {
+            "Name": "LXIX",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "70": {
+            "Name": "LXX",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "71": {
+            "Name": "LXXI",
+            "Battles": {
+                "Alpha": 53,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 54,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "72": {
+            "Name": "LXXII",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 56,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "73": {
+            "Name": "LXXIII",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 56,
+                "Epsilon": 56,
+                "Zeta": 56
+            }
+        },
+        "74": {
+            "Name": "LXXIV",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 55,
+                "Gamma": 55,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "75": {
+            "Name": "LXXV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "76": {
+            "Name": "LXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "77": {
+            "Name": "LXXVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "78": {
+            "Name": "LXXVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "79": {
+            "Name": "LXXIX",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "80": {
+            "Name": "LXXX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "81": {
+            "Name": "LXXXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "82": {
+            "Name": "LXXXII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 59,
+                "Gamma": 59,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "83": {
+            "Name": "LXXXIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "84": {
+            "Name": "LXXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "85": {
+            "Name": "LXXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "86": {
+            "Name": "LXXXVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 60,
+                "Epsilon": 60,
+                "Zeta": 60
+            }
+        },
+        "87": {
+            "Name": "LXXXVII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 61,
+                "Gamma": 61,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "88": {
+            "Name": "LXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "89": {
+            "Name": "LXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "90": {
+            "Name": "XC",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "91": {
+            "Name": "XCI",
+            "Battles": {
+                "Alpha": 50,
+                "Beta": 50,
+                "Gamma": 50,
+                "Delta": 51,
+                "Epsilon": 51,
+                "Zeta": 51
+            }
+        },
+        "92": {
+            "Name": "XCII",
+            "Battles": {
+                "Alpha": 52,
+                "Beta": 52,
+                "Gamma": 52,
+                "Delta": 53,
+                "Epsilon": 53,
+                "Zeta": 53
+            }
+        },
+        "93": {
+            "Name": "XCIII",
+            "Battles": {
+                "Alpha": 54,
+                "Beta": 54,
+                "Gamma": 54,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "94": {
+            "Name": "XCIV",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "95": {
+            "Name": "XCV",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "96": {
+            "Name": "XCVI",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "97": {
+            "Name": "XCVII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "98": {
+            "Name": "XCVIII",
+            "Battles": {
+                "Alpha": 64,
+                "Beta": 64,
+                "Gamma": 64,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "99": {
+            "Name": "XCIX",
+            "Battles": {
+                "Alpha": 66,
+                "Beta": 66,
+                "Gamma": 66,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "100": {
+            "Name": "C",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "101": {
+            "Name": "CI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 65,
+                "Epsilon": 65,
+                "Zeta": 65
+            }
+        },
+        "102": {
+            "Name": "CII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "103": {
+            "Name": "CIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "104": {
+            "Name": "CIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "105": {
+            "Name": "CV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "106": {
+            "Name": "CVI",
+            "Battles": {
+                "Alpha": 55,
+                "Beta": 56,
+                "Gamma": 57,
+                "Delta": 53,
+                "Epsilon": 54,
+                "Zeta": 55
+            }
+        },
+        "107": {
+            "Name": "CVII",
+            "Battles": {
+                "Alpha": 59,
+                "Beta": 60,
+                "Gamma": 61,
+                "Delta": 58,
+                "Epsilon": 58,
+                "Zeta": 58
+            }
+        },
+        "108": {
+            "Name": "CVIII",
+            "Battles": {
+                "Alpha": 61,
+                "Beta": 62,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 65,
+                "Zeta": 66
+            }
+        },
+        "109": {
+            "Name": "CIX",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 68,
+                "Gamma": 69,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "110": {
+            "Name": "CX",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 66,
+                "Epsilon": 67,
+                "Zeta": 68
+            }
+        },
+        "111": {
+            "Name": "CXI",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "112": {
+            "Name": "CXII",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "113": {
+            "Name": "CXIII",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "114": {
+            "Name": "CXIV",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "115": {
+            "Name": "CXV",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 77,
+                "Epsilon": 77,
+                "Zeta": 77
+            }
+        },
+        "116": {
+            "Name": "CXVI",
+            "Battles": {
+                "Alpha": 78,
+                "Beta": 78,
+                "Gamma": 78,
+                "Delta": 79,
+                "Epsilon": 79,
+                "Zeta": 79
+            }
+        },
+        "117": {
+            "Name": "CXVII",
+            "Battles": {
+                "Alpha": 80,
+                "Beta": 80,
+                "Gamma": 80,
+                "Delta": 81,
+                "Epsilon": 81,
+                "Zeta": 81
+            }
+        },
+        "118": {
+            "Name": "CXVIII",
+            "Battles": {
+                "Alpha": 82,
+                "Beta": 82,
+                "Gamma": 82,
+                "Delta": 83,
+                "Epsilon": 83,
+                "Zeta": 83
+            }
+        },
+        "119": {
+            "Name": "CXIX",
+            "Battles": {
+                "Alpha": 84,
+                "Beta": 84,
+                "Gamma": 84,
+                "Delta": 55,
+                "Epsilon": 55,
+                "Zeta": 55
+            }
+        },
+        "120": {
+            "Name": "CXX",
+            "Battles": {
+                "Alpha": 56,
+                "Beta": 56,
+                "Gamma": 56,
+                "Delta": 57,
+                "Epsilon": 57,
+                "Zeta": 57
+            }
+        },
+        "121": {
+            "Name": "CXXI",
+            "Battles": {
+                "Alpha": 58,
+                "Beta": 58,
+                "Gamma": 58,
+                "Delta": 59,
+                "Epsilon": 59,
+                "Zeta": 59
+            }
+        },
+        "122": {
+            "Name": "CXXII",
+            "Battles": {
+                "Alpha": 60,
+                "Beta": 60,
+                "Gamma": 60,
+                "Delta": 61,
+                "Epsilon": 61,
+                "Zeta": 61
+            }
+        },
+        "123": {
+            "Name": "CXXIII",
+            "Battles": {
+                "Alpha": 62,
+                "Beta": 62,
+                "Gamma": 62,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "124": {
+            "Name": "CXXIV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 63,
+                "Epsilon": 63,
+                "Zeta": 63
+            }
+        },
+        "125": {
+            "Name": "CXXV",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "126": {
+            "Name": "CXXVI",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "127": {
+            "Name": "CXXVII",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "128": {
+            "Name": "CXXVIII",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "129": {
+            "Name": "CXXIX",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "130": {
+            "Name": "CXXX",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "131": {
+            "Name": "CXXXI",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "132": {
+            "Name": "CXXXII",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 67,
+                "Epsilon": 67,
+                "Zeta": 67
+            }
+        },
+        "133": {
+            "Name": "CXXXIII",
+            "Battles": {
+                "Alpha": 68,
+                "Beta": 68,
+                "Gamma": 68,
+                "Delta": 69,
+                "Epsilon": 69,
+                "Zeta": 69
+            }
+        },
+        "134": {
+            "Name": "CXXXIV",
+            "Battles": {
+                "Alpha": 70,
+                "Beta": 70,
+                "Gamma": 70,
+                "Delta": 71,
+                "Epsilon": 71,
+                "Zeta": 71
+            }
+        },
+        "135": {
+            "Name": "CXXXV",
+            "Battles": {
+                "Alpha": 72,
+                "Beta": 72,
+                "Gamma": 72,
+                "Delta": 73,
+                "Epsilon": 73,
+                "Zeta": 73
+            }
+        },
+        "136": {
+            "Name": "CXXXVI",
+            "Battles": {
+                "Alpha": 74,
+                "Beta": 74,
+                "Gamma": 74,
+                "Delta": 75,
+                "Epsilon": 75,
+                "Zeta": 75
+            }
+        },
+        "137": {
+            "Name": "CXXXVII",
+            "Battles": {
+                "Alpha": 76,
+                "Beta": 76,
+                "Gamma": 76,
+                "Delta": 62,
+                "Epsilon": 62,
+                "Zeta": 62
+            }
+        },
+        "138": {
+            "Name": "CXXXVIII",
+            "Battles": {
+                "Alpha": 63,
+                "Beta": 63,
+                "Gamma": 63,
+                "Delta": 64,
+                "Epsilon": 64,
+                "Zeta": 64
+            }
+        },
+        "139": {
+            "Name": "CXXXIX",
+            "Battles": {
+                "Alpha": 65,
+                "Beta": 65,
+                "Gamma": 65,
+                "Delta": 66,
+                "Epsilon": 66,
+                "Zeta": 66
+            }
+        },
+        "140": {
+            "Name": "CXL",
+            "Battles": {
+                "Alpha": 67,
+                "Beta": 67,
+                "Gamma": 67,
+                "Delta": 68,
+                "Epsilon": 68,
+                "Zeta": 68
+            }
+        },
+        "141": {
+            "Name": "CXLI",
+            "Battles": {
+                "Alpha": 69,
+                "Beta": 69,
+                "Gamma": 69,
+                "Delta": 70,
+                "Epsilon": 70,
+                "Zeta": 70
+            }
+        },
+        "142": {
+            "Name": "CXLII",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "143": {
+            "Name": "CXLIII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "144": {
+            "Name": "CXLIV",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "145": {
+            "Name": "CXLV",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "146": {
+            "Name": "CXLVI",
+            "Battles": {
+                "Alpha": 71,
+                "Beta": 71,
+                "Gamma": 71,
+                "Delta": 72,
+                "Epsilon": 72,
+                "Zeta": 72
+            }
+        },
+        "147": {
+            "Name": "CXLVII",
+            "Battles": {
+                "Alpha": 73,
+                "Beta": 73,
+                "Gamma": 73,
+                "Delta": 74,
+                "Epsilon": 74,
+                "Zeta": 74
+            }
+        },
+        "148": {
+            "Name": "CXLVIII",
+            "Battles": {
+                "Alpha": 75,
+                "Beta": 75,
+                "Gamma": 75,
+                "Delta": 76,
+                "Epsilon": 76,
+                "Zeta": 76
+            }
+        },
+        "149": {
+            "Name": "CXLIX",
+            "Battles": {
+                "Alpha": 77,
+                "Beta": 77,
+                "Gamma": 77,
+                "Delta": 78,
+                "Epsilon": 78,
+                "Zeta": 78
+            }
+        },
+        "150": {
+            "Name": "CL",
+            "Battles": {
+                "Alpha": 79,
+                "Beta": 79,
+                "Gamma": 79,
+                "Delta": 80,
+                "Epsilon": 80,
+                "Zeta": 80
+            }
+        },
+        "151": {
+            "Name": "CLI",
+            "Battles": {
+                "Alpha": 81,
+                "Beta": 81,
+                "Gamma": 81,
+                "Delta": 82,
+                "Epsilon": 82,
+                "Zeta": 82
+            }
+        }
+    }
+}

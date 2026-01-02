@@ -1,0 +1,4806 @@
+{
+    "alpha": {
+        "1": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Stone 2",
+                        "Stars": "Star 1",
+                        "Damage": 14,
+                        "Health": 50,
+                        "Armor": 21
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Stone 2",
+                        "Stars": "Star 0",
+                        "Damage": 13,
+                        "Health": 45,
+                        "Armor": 19
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Stone 1",
+                        "Stars": "Star 0",
+                        "Damage": 10,
+                        "Health": 36,
+                        "Armor": 15
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Stone 3",
+                        "Stars": "Star 1",
+                        "Damage": 18,
+                        "Health": 63,
+                        "Armor": 26
+                    }
+                }
+            ]
+        },
+        "2": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 17,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 1",
+                        "Damage": 23,
+                        "Health": 79,
+                        "Armor": 33
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 25,
+                        "Health": 86,
+                        "Armor": 36
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 1",
+                        "Damage": 39,
+                        "Health": 119,
+                        "Armor": 10
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 43,
+                        "Health": 130,
+                        "Armor": 11
+                    }
+                }
+            ]
+        },
+        "3": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 31,
+                        "Health": 108,
+                        "Armor": 45
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 1",
+                        "Damage": 23,
+                        "Health": 79,
+                        "Armor": 33
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 39,
+                        "Health": 135,
+                        "Armor": 56
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 54,
+                        "Health": 163,
+                        "Armor": 14
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 68,
+                        "Health": 204,
+                        "Armor": 18
+                    }
+                }
+            ]
+        },
+        "4": {
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 100,
+                        "Health": 373,
+                        "Armor": 124
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 3",
+                        "Damage": 81,
+                        "Health": 303,
+                        "Armor": 101
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 3",
+                        "Damage": 65,
+                        "Health": 242,
+                        "Armor": 81
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 27,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 3",
+                        "Damage": 53,
+                        "Health": 183,
+                        "Armor": 76
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 3",
+                        "Damage": 42,
+                        "Health": 146,
+                        "Armor": 61
+                    }
+                }
+            ]
+        },
+        "5": {
+            "Electro-priest": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 143,
+                        "Health": 427,
+                        "Armor": 39
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 125,
+                        "Health": 467,
+                        "Armor": 155
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 100,
+                        "Health": 373,
+                        "Armor": 124
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 147,
+                        "Health": 548,
+                        "Armor": 182
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 81,
+                        "Health": 282,
+                        "Armor": 118
+                    }
+                },
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 65,
+                        "Health": 225,
+                        "Armor": 94
+                    }
+                }
+            ]
+        },
+        "6": {
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 187,
+                        "Health": 694,
+                        "Armor": 230
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 125,
+                        "Health": 467,
+                        "Armor": 155
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 147,
+                        "Health": 548,
+                        "Armor": 182
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 167,
+                        "Health": 621,
+                        "Armor": 206
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 121,
+                        "Health": 419,
+                        "Armor": 177
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 95,
+                        "Health": 331,
+                        "Armor": 139
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 108,
+                        "Health": 375,
+                        "Armor": 158
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 182,
+                        "Health": 182,
+                        "Armor": 47
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 206,
+                        "Health": 206,
+                        "Armor": 53
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 168,
+                        "Health": 501,
+                        "Armor": 46
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 190,
+                        "Health": 568,
+                        "Armor": 52
+                    }
+                }
+            ]
+        },
+        "7": {
+            "Electro-priest": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 237,
+                        "Health": 711,
+                        "Armor": 65
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 212,
+                        "Health": 635,
+                        "Armor": 58
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 209,
+                        "Health": 777,
+                        "Armor": 258
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 234,
+                        "Health": 868,
+                        "Armor": 288
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 187,
+                        "Health": 694,
+                        "Armor": 230
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 167,
+                        "Health": 621,
+                        "Armor": 206
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 136,
+                        "Health": 469,
+                        "Armor": 198
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 121,
+                        "Health": 419,
+                        "Armor": 177
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 230,
+                        "Health": 230,
+                        "Armor": 59
+                    }
+                }
+            ]
+        },
+        "8": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 18,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 152,
+                        "Health": 524,
+                        "Armor": 221
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 180,
+                        "Health": 622,
+                        "Armor": 262
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 234,
+                        "Health": 868,
+                        "Armor": 288
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 278,
+                        "Health": 1030,
+                        "Armor": 342
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 331,
+                        "Health": 995,
+                        "Armor": 92
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 265,
+                        "Health": 795,
+                        "Armor": 73
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 288,
+                        "Health": 288,
+                        "Armor": 74
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 258,
+                        "Health": 258,
+                        "Armor": 66
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 342,
+                        "Health": 342,
+                        "Armor": 88
+                    }
+                }
+            ]
+        },
+        "9": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 250,
+                        "Health": 866,
+                        "Armor": 366
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 225,
+                        "Health": 779,
+                        "Armor": 329
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 190,
+                        "Health": 657,
+                        "Armor": 277
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 314,
+                        "Health": 943,
+                        "Armor": 87
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 393,
+                        "Health": 1180,
+                        "Armor": 109
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 293,
+                        "Health": 1087,
+                        "Armor": 361
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 278,
+                        "Health": 1030,
+                        "Armor": 342
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 476,
+                        "Health": 476,
+                        "Armor": 122
+                    }
+                }
+            ]
+        },
+        "10": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 23,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 225,
+                        "Health": 779,
+                        "Armor": 329
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 393,
+                        "Health": 1180,
+                        "Armor": 109
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 437,
+                        "Health": 1311,
+                        "Armor": 121
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 331,
+                        "Health": 995,
+                        "Armor": 92
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 348,
+                        "Health": 1289,
+                        "Armor": 428
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 596,
+                        "Health": 596,
+                        "Armor": 153
+                    }
+                }
+            ]
+        },
+        "11": {
+            "Cadian Mortar Team": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 746,
+                        "Health": 746,
+                        "Armor": 192
+                    }
+                }
+            ],
+            "Cadian Guardsman": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 701,
+                        "Health": 1465,
+                        "Armor": 302
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 485,
+                        "Health": 1793,
+                        "Armor": 596
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 190,
+                        "Health": 657,
+                        "Armor": 277
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 547,
+                        "Health": 1641,
+                        "Armor": 151
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 437,
+                        "Health": 1311,
+                        "Armor": 121
+                    }
+                }
+            ]
+        },
+        "12": {
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 485,
+                        "Health": 1793,
+                        "Armor": 596
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 387,
+                        "Health": 1432,
+                        "Armor": 476
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 348,
+                        "Health": 1289,
+                        "Armor": 428
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 313,
+                        "Health": 1084,
+                        "Armor": 458
+                    }
+                },
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 225,
+                        "Health": 779,
+                        "Armor": 329
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 437,
+                        "Health": 1311,
+                        "Armor": 121
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 547,
+                        "Health": 1641,
+                        "Armor": 151
+                    }
+                }
+            ],
+            "Actus": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1528,
+                        "Health": 5808,
+                        "Armor": 1162
+                    }
+                }
+            ],
+            "Sy-gex": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1528,
+                        "Health": 5808,
+                        "Armor": 1039
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 626,
+                        "Health": 626,
+                        "Armor": 161
+                    }
+                }
+            ]
+        },
+        "13": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 412,
+                        "Health": 1425,
+                        "Armor": 603
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 392,
+                        "Health": 1357,
+                        "Armor": 574
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 329,
+                        "Health": 1138,
+                        "Armor": 481
+                    }
+                }
+            ],
+            "Cadian Guardsman": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 922,
+                        "Health": 1926,
+                        "Armor": 397
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 760,
+                        "Health": 2810,
+                        "Armor": 934
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 607,
+                        "Health": 2245,
+                        "Armor": 746
+                    }
+                }
+            ],
+            "Exitor-Rho": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1454,
+                        "Health": 3894,
+                        "Armor": 831
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 574,
+                        "Health": 1723,
+                        "Armor": 159
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 718,
+                        "Health": 2157,
+                        "Armor": 200
+                    }
+                }
+            ],
+            "Tan Gi'da": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2140,
+                        "Health": 5196,
+                        "Armor": 978
+                    }
+                }
+            ],
+            "Vitruvius": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3057,
+                        "Health": 5502,
+                        "Armor": 1100
+                    }
+                }
+            ]
+        },
+        "14": {
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 760,
+                        "Health": 2810,
+                        "Armor": 934
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 17,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 516,
+                        "Health": 1784,
+                        "Armor": 755
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 615,
+                        "Health": 2127,
+                        "Armor": 900
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1072,
+                        "Health": 3221,
+                        "Armor": 298
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1170,
+                        "Health": 1170,
+                        "Armor": 302
+                    }
+                }
+            ]
+        },
+        "15": {
+            "Skitarii Vanguard": [
+                {
+                    "Count": 22,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 770,
+                        "Health": 2663,
+                        "Armor": 1127
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 809,
+                        "Health": 2796,
+                        "Armor": 1183
+                    }
+                }
+            ],
+            "Cadian Guardsman": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 1652,
+                        "Health": 3452,
+                        "Armor": 712
+                    }
+                }
+            ],
+            "Electro-priest": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1410,
+                        "Health": 4235,
+                        "Armor": 392
+                    }
+                },
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1343,
+                        "Health": 4033,
+                        "Armor": 373
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1000,
+                        "Health": 3695,
+                        "Armor": 1229
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1192,
+                        "Health": 4406,
+                        "Armor": 1465
+                    }
+                }
+            ]
+        },
+        "16": {
+            "Electro-priest": [
+                {
+                    "Count": 18,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1681,
+                        "Health": 5050,
+                        "Armor": 467
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 2315,
+                        "Health": 6955,
+                        "Armor": 642
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1926,
+                        "Health": 1926,
+                        "Armor": 497
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 2056,
+                        "Health": 7597,
+                        "Armor": 2526
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1493,
+                        "Health": 5516,
+                        "Armor": 1834
+                    }
+                }
+            ],
+            "Cadian Guardsman": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 1982,
+                        "Health": 4142,
+                        "Armor": 854
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Mythic",
+                        "Damage": 2068,
+                        "Health": 4322,
+                        "Armor": 891
+                    }
+                }
+            ]
+        },
+        "17": {
+            "Electro-priest": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 2315,
+                        "Health": 6955,
+                        "Armor": 642
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2766,
+                        "Health": 8312,
+                        "Armor": 767
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2525,
+                        "Health": 7587,
+                        "Armor": 700
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 1328,
+                        "Health": 4592,
+                        "Armor": 1943
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1586,
+                        "Health": 5488,
+                        "Armor": 2321
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 1448,
+                        "Health": 5010,
+                        "Armor": 2119
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2456,
+                        "Health": 9078,
+                        "Armor": 3019
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2242,
+                        "Health": 8287,
+                        "Armor": 2756
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 3",
+                        "Damage": 2641,
+                        "Health": 2642,
+                        "Armor": 682
+                    }
+                }
+            ]
+        },
+        "18": {
+            "Electro-priest": [
+                {
+                    "Count": 13,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2525,
+                        "Health": 7587,
+                        "Armor": 700
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2766,
+                        "Health": 8312,
+                        "Armor": 767
+                    }
+                }
+            ],
+            "Tech-Priest Enginseer": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2456,
+                        "Health": 9078,
+                        "Armor": 3019
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 2573,
+                        "Health": 9510,
+                        "Armor": 3163
+                    }
+                }
+            ],
+            "Skitarii Vanguard": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 1662,
+                        "Health": 5749,
+                        "Armor": 2432
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 1448,
+                        "Health": 5010,
+                        "Armor": 2119
+                    }
+                }
+            ],
+            "Cadian Mortar Team": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3163,
+                        "Health": 3164,
+                        "Armor": 817
+                    }
+                }
+            ],
+            "Cadian Guardsman": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Mythic",
+                        "Damage": 2068,
+                        "Health": 4322,
+                        "Armor": 891
+                    }
+                }
+            ]
+        }
+    },
+    "beta": {
+        "1": {
+            "Kroot": [
+                {
+                    "Count": 19,
+                    "Stats": {
+                        "Rank": "Stone 2",
+                        "Stars": "Star 1",
+                        "Damage": 36,
+                        "Health": 62,
+                        "Armor": 7
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Stone 3",
+                        "Stars": "Star 1",
+                        "Damage": 45,
+                        "Health": 78,
+                        "Armor": 9
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Stone 2",
+                        "Stars": "Star 1",
+                        "Damage": 20,
+                        "Health": 55,
+                        "Armor": 21
+                    }
+                }
+            ]
+        },
+        "2": {
+            "Kroot": [
+                {
+                    "Count": 19,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 61,
+                        "Health": 107,
+                        "Armor": 12
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 76,
+                        "Health": 134,
+                        "Armor": 15
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 34,
+                        "Health": 94,
+                        "Armor": 36
+                    }
+                }
+            ]
+        },
+        "3": {
+            "Fire Warrior": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 3",
+                        "Damage": 82,
+                        "Health": 160,
+                        "Armor": 65
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 15,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 95,
+                        "Health": 168,
+                        "Armor": 19
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 3",
+                        "Damage": 103,
+                        "Health": 182,
+                        "Armor": 21
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 3",
+                        "Damage": 114,
+                        "Health": 81,
+                        "Armor": 21
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 105,
+                        "Health": 75,
+                        "Armor": 19
+                    }
+                }
+            ]
+        },
+        "4": {
+            "Fire Warrior": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 127,
+                        "Health": 246,
+                        "Armor": 100
+                    }
+                },
+                {
+                    "Count": 20,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 3",
+                        "Damage": 103,
+                        "Health": 200,
+                        "Armor": 81
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 159,
+                        "Health": 308,
+                        "Armor": 125
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 176,
+                        "Health": 124,
+                        "Armor": 32
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 220,
+                        "Health": 155,
+                        "Armor": 40
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 159,
+                        "Health": 281,
+                        "Armor": 32
+                    }
+                }
+            ]
+        },
+        "5": {
+            "Kroot": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 199,
+                        "Health": 352,
+                        "Armor": 40
+                    }
+                },
+                {
+                    "Count": 22,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 234,
+                        "Health": 413,
+                        "Armor": 47
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 187,
+                        "Health": 362,
+                        "Armor": 147
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 118,
+                        "Health": 654,
+                        "Armor": 159
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 114,
+                        "Health": 308,
+                        "Armor": 118
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 220,
+                        "Health": 155,
+                        "Armor": 40
+                    }
+                }
+            ]
+        },
+        "6": {
+            "Stealth Battlesuit": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 139,
+                        "Health": 768,
+                        "Armor": 187
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 134,
+                        "Health": 362,
+                        "Armor": 139
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 17,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 234,
+                        "Health": 413,
+                        "Armor": 47
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 265,
+                        "Health": 468,
+                        "Armor": 53
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Star 5",
+                        "Damage": 187,
+                        "Health": 362,
+                        "Armor": 147
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 220,
+                        "Health": 155,
+                        "Armor": 40
+                    }
+                }
+            ]
+        },
+        "7": {
+            "Kroot": [
+                {
+                    "Count": 18,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 371,
+                        "Health": 655,
+                        "Armor": 74
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 351,
+                        "Health": 680,
+                        "Armor": 278
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 296,
+                        "Health": 573,
+                        "Armor": 234
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 13,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 408,
+                        "Health": 288,
+                        "Armor": 74
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 4",
+                        "Damage": 170,
+                        "Health": 458,
+                        "Armor": 177
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 212,
+                        "Health": 573,
+                        "Armor": 221
+                    }
+                }
+            ]
+        },
+        "8": {
+            "Fire Warrior": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 351,
+                        "Health": 680,
+                        "Armor": 278
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 221,
+                        "Health": 1217,
+                        "Armor": 296
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 198,
+                        "Health": 1089,
+                        "Armor": 265
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 440,
+                        "Health": 777,
+                        "Armor": 88
+                    }
+                },
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 371,
+                        "Health": 655,
+                        "Armor": 74
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 511,
+                        "Health": 361,
+                        "Armor": 93
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 408,
+                        "Health": 288,
+                        "Armor": 74
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 212,
+                        "Health": 573,
+                        "Armor": 221
+                    }
+                }
+            ]
+        },
+        "9": {
+            "Fire Warrior": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 767,
+                        "Health": 1485,
+                        "Armor": 607
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 489,
+                        "Health": 947,
+                        "Armor": 387
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 440,
+                        "Health": 852,
+                        "Armor": 348
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 611,
+                        "Health": 1081,
+                        "Armor": 122
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 550,
+                        "Health": 973,
+                        "Armor": 110
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 349,
+                        "Health": 947,
+                        "Armor": 366
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 265,
+                        "Health": 718,
+                        "Armor": 277
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 366,
+                        "Health": 2007,
+                        "Armor": 489
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 329,
+                        "Health": 1806,
+                        "Armor": 440
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 606,
+                        "Health": 428,
+                        "Armor": 110
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 673,
+                        "Health": 476,
+                        "Armor": 122
+                    }
+                }
+            ]
+        },
+        "10": {
+            "Kroot": [
+                {
+                    "Count": 15,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 611,
+                        "Health": 1081,
+                        "Armor": 122
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 765,
+                        "Health": 1353,
+                        "Armor": 153
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 612,
+                        "Health": 1186,
+                        "Armor": 485
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 440,
+                        "Health": 852,
+                        "Armor": 348
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 843,
+                        "Health": 596,
+                        "Armor": 153
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 673,
+                        "Health": 476,
+                        "Armor": 122
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 329,
+                        "Health": 1806,
+                        "Armor": 440
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 349,
+                        "Health": 947,
+                        "Armor": 366
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 314,
+                        "Health": 852,
+                        "Armor": 329
+                    }
+                }
+            ]
+        },
+        "11": {
+            "Kroot": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 803,
+                        "Health": 1421,
+                        "Armor": 161
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 957,
+                        "Health": 1694,
+                        "Armor": 192
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 366,
+                        "Health": 2007,
+                        "Armor": 489
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 329,
+                        "Health": 1806,
+                        "Armor": 440
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 458,
+                        "Health": 2513,
+                        "Armor": 612
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 349,
+                        "Health": 947,
+                        "Armor": 366
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 767,
+                        "Health": 1485,
+                        "Armor": 607
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 612,
+                        "Health": 1186,
+                        "Armor": 485
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 643,
+                        "Health": 1245,
+                        "Armor": 509
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 885,
+                        "Health": 626,
+                        "Armor": 161
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 843,
+                        "Health": 596,
+                        "Armor": 153
+                    }
+                }
+            ]
+        },
+        "12": {
+            "Stealth Battlesuit": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 603,
+                        "Health": 3304,
+                        "Armor": 805
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 481,
+                        "Health": 2639,
+                        "Armor": 643
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 803,
+                        "Health": 1421,
+                        "Armor": 161
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 957,
+                        "Health": 1694,
+                        "Armor": 192
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1005,
+                        "Health": 1779,
+                        "Armor": 202
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 643,
+                        "Health": 1245,
+                        "Armor": 509
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 767,
+                        "Health": 1485,
+                        "Armor": 607
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1055,
+                        "Health": 746,
+                        "Armor": 192
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 843,
+                        "Health": 596,
+                        "Armor": 153
+                    }
+                }
+            ],
+            "Darkstrider": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1163,
+                        "Health": 3488,
+                        "Armor": 791
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 547,
+                        "Health": 1485,
+                        "Armor": 574
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 459,
+                        "Health": 1245,
+                        "Armor": 481
+                    }
+                }
+            ],
+            "Re'vas": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 326,
+                        "Health": 4883,
+                        "Armor": 1163
+                    }
+                }
+            ]
+        },
+        "13": {
+            "Stealth Battlesuit": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 603,
+                        "Health": 3304,
+                        "Armor": 805
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 574,
+                        "Health": 3147,
+                        "Armor": 767
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 481,
+                        "Health": 2639,
+                        "Armor": 643
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1005,
+                        "Health": 1779,
+                        "Armor": 202
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1198,
+                        "Health": 2121,
+                        "Armor": 241
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1055,
+                        "Health": 746,
+                        "Armor": 192
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 18,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 643,
+                        "Health": 1245,
+                        "Armor": 509
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 805,
+                        "Health": 1559,
+                        "Armor": 637
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 574,
+                        "Health": 1559,
+                        "Armor": 603
+                    }
+                }
+            ],
+            "Shadowsun": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1456,
+                        "Health": 4658,
+                        "Armor": 1048
+                    }
+                }
+            ],
+            "Sho'syl": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 2329,
+                        "Health": 3784,
+                        "Armor": 932
+                    }
+                }
+            ],
+            "Aun'Shi": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 757,
+                        "Health": 4949,
+                        "Armor": 932
+                    }
+                }
+            ]
+        },
+        "14": {
+            "Fire Warrior": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1202,
+                        "Health": 2328,
+                        "Armor": 952
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1505,
+                        "Health": 2914,
+                        "Armor": 1192
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1262,
+                        "Health": 2444,
+                        "Armor": 1000
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 856,
+                        "Health": 2328,
+                        "Armor": 900
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 2071,
+                        "Health": 1465,
+                        "Armor": 378
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1737,
+                        "Health": 1229,
+                        "Armor": 317
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 755,
+                        "Health": 4137,
+                        "Armor": 1008
+                    }
+                }
+            ]
+        },
+        "15": {
+            "Kroot": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1878,
+                        "Health": 3324,
+                        "Armor": 378
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 2351,
+                        "Health": 4161,
+                        "Armor": 473
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2469,
+                        "Health": 4369,
+                        "Armor": 497
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1343,
+                        "Health": 3649,
+                        "Armor": 1411
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 13,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1580,
+                        "Health": 3060,
+                        "Armor": 1252
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1884,
+                        "Health": 3649,
+                        "Armor": 1493
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1127,
+                        "Health": 6177,
+                        "Armor": 1505
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 2593,
+                        "Health": 1834,
+                        "Armor": 473
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2175,
+                        "Health": 1538,
+                        "Armor": 397
+                    }
+                }
+            ],
+            "Darkstrider": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1456,
+                        "Health": 4367,
+                        "Armor": 990
+                    }
+                }
+            ]
+        },
+        "16": {
+            "Stealth Battlesuit": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1411,
+                        "Health": 7734,
+                        "Armor": 1884
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 20,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2476,
+                        "Health": 4796,
+                        "Armor": 1963
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1978,
+                        "Health": 3831,
+                        "Armor": 1568
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3409,
+                        "Health": 2411,
+                        "Armor": 622
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3091,
+                        "Health": 5470,
+                        "Armor": 622
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1410,
+                        "Health": 3831,
+                        "Armor": 1482
+                    }
+                }
+            ],
+            "Farsight": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1917,
+                        "Health": 9583,
+                        "Armor": 1917
+                    }
+                }
+            ]
+        },
+        "17": {
+            "Sniper Drone": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 4267,
+                        "Health": 3019,
+                        "Armor": 780
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 4673,
+                        "Health": 3307,
+                        "Armor": 854
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3100,
+                        "Health": 6003,
+                        "Armor": 2456
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 3396,
+                        "Health": 6575,
+                        "Armor": 2690
+                    }
+                },
+                {
+                    "Count": 19,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2830,
+                        "Health": 5480,
+                        "Armor": 2242
+                    }
+                }
+            ],
+            "Stealth Battlesuit": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 1943,
+                        "Health": 10651,
+                        "Armor": 2594
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 3",
+                        "Damage": 2031,
+                        "Health": 11135,
+                        "Armor": 2712
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 3532,
+                        "Health": 6250,
+                        "Armor": 712
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 4053,
+                        "Health": 7173,
+                        "Armor": 817
+                    }
+                }
+            ]
+        },
+        "18": {
+            "Stealth Battlesuit": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 1943,
+                        "Health": 10651,
+                        "Armor": 2594
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2119,
+                        "Health": 11619,
+                        "Armor": 2830
+                    }
+                }
+            ],
+            "Kroot": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Mythic",
+                        "Damage": 4421,
+                        "Health": 7825,
+                        "Armor": 891
+                    }
+                },
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 4237,
+                        "Health": 7499,
+                        "Armor": 854
+                    }
+                }
+            ],
+            "Shield Drone": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 2420,
+                        "Health": 6575,
+                        "Armor": 2543
+                    }
+                }
+            ],
+            "Fire Warrior": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 3396,
+                        "Health": 6575,
+                        "Armor": 2690
+                    }
+                }
+            ],
+            "Sniper Drone": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 4673,
+                        "Health": 3307,
+                        "Armor": 854
+                    }
+                }
+            ]
+        }
+    },
+    "gamma": {
+        "1": {
+            "Grot": [
+                {
+                    "Count": 15,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 1",
+                        "Damage": 44,
+                        "Health": 86,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Stone 3",
+                        "Stars": "Star 1",
+                        "Damage": 35,
+                        "Health": 69,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Stone 2",
+                        "Stars": "Star 1",
+                        "Damage": 28,
+                        "Health": 55,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 1",
+                        "Damage": 61,
+                        "Health": 98,
+                        "Armor": 33
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Stone 3",
+                        "Stars": "Star 1",
+                        "Damage": 49,
+                        "Health": 78,
+                        "Armor": 26
+                    }
+                }
+            ]
+        },
+        "2": {
+            "Grot": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 75,
+                        "Health": 148,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 48,
+                        "Health": 94,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 60,
+                        "Health": 118,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Iron 1",
+                        "Stars": "Star 2",
+                        "Damage": 67,
+                        "Health": 107,
+                        "Armor": 36
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 84,
+                        "Health": 134,
+                        "Armor": 45
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Iron 2",
+                        "Stars": "Star 2",
+                        "Damage": 74,
+                        "Health": 207,
+                        "Armor": 60
+                    }
+                }
+            ]
+        },
+        "3": {
+            "Large Squig": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 4",
+                        "Damage": 103,
+                        "Health": 278,
+                        "Armor": 65
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 88,
+                        "Health": 238,
+                        "Armor": 56
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 25,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 75,
+                        "Health": 148,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 105,
+                        "Health": 168,
+                        "Armor": 56
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 2",
+                        "Damage": 93,
+                        "Health": 259,
+                        "Armor": 75
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 4",
+                        "Damage": 109,
+                        "Health": 302,
+                        "Armor": 88
+                    }
+                }
+            ]
+        },
+        "4": {
+            "Ork Boy": [
+                {
+                    "Count": 17,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 4",
+                        "Damage": 154,
+                        "Health": 245,
+                        "Armor": 82
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 5",
+                        "Damage": 165,
+                        "Health": 263,
+                        "Armor": 88
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Iron 3",
+                        "Stars": "Star 5",
+                        "Damage": 132,
+                        "Health": 210,
+                        "Armor": 70
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 1",
+                        "Stars": "Star 4",
+                        "Damage": 137,
+                        "Health": 379,
+                        "Armor": 110
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Star 4",
+                        "Damage": 172,
+                        "Health": 474,
+                        "Armor": 138
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 18,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Star 5",
+                        "Damage": 148,
+                        "Health": 289,
+                        "Armor": 0
+                    }
+                }
+            ]
+        },
+        "5": {
+            "Large Squig": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 185,
+                        "Health": 498,
+                        "Armor": 117
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 2",
+                        "Damage": 197,
+                        "Health": 529,
+                        "Armor": 124
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Star 5",
+                        "Damage": 173,
+                        "Health": 467,
+                        "Armor": 110
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 1",
+                        "Damage": 232,
+                        "Health": 623,
+                        "Armor": 146
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Star 5",
+                        "Damage": 184,
+                        "Health": 508,
+                        "Armor": 148
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 221,
+                        "Health": 351,
+                        "Armor": 117
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Star 5",
+                        "Damage": 207,
+                        "Health": 329,
+                        "Armor": 110
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 15,
+                    "Stats": {
+                        "Rank": "Bronze 2",
+                        "Stars": "Red Star 2",
+                        "Damage": 168,
+                        "Health": 327,
+                        "Armor": 0
+                    }
+                }
+            ]
+        },
+        "6": {
+            "Ork Boy": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 294,
+                        "Health": 468,
+                        "Armor": 155
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 311,
+                        "Health": 496,
+                        "Armor": 164
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 210,
+                        "Health": 409,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 222,
+                        "Health": 433,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 13,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 327,
+                        "Health": 513,
+                        "Armor": 169
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 275,
+                        "Health": 763,
+                        "Armor": 222
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 262,
+                        "Health": 701,
+                        "Armor": 164
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Bronze 3",
+                        "Stars": "Red Star 1",
+                        "Damage": 232,
+                        "Health": 623,
+                        "Armor": 146
+                    }
+                }
+            ]
+        },
+        "7": {
+            "Ork Boy": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 346,
+                        "Health": 551,
+                        "Armor": 182
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 368,
+                        "Health": 585,
+                        "Armor": 193
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 3",
+                        "Damage": 277,
+                        "Health": 542,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 292,
+                        "Health": 572,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Star 5",
+                        "Damage": 287,
+                        "Health": 796,
+                        "Armor": 232
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 2",
+                        "Damage": 325,
+                        "Health": 902,
+                        "Armor": 262
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 306,
+                        "Health": 849,
+                        "Armor": 247
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 1",
+                        "Damage": 291,
+                        "Health": 780,
+                        "Armor": 182
+                    }
+                }
+            ]
+        },
+        "8": {
+            "Ork Boy": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 412,
+                        "Health": 653,
+                        "Armor": 215
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 2",
+                        "Damage": 461,
+                        "Health": 731,
+                        "Armor": 241
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 434,
+                        "Health": 688,
+                        "Armor": 227
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 3",
+                        "Damage": 488,
+                        "Health": 774,
+                        "Armor": 255
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 364,
+                        "Health": 977,
+                        "Armor": 227
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 1",
+                        "Stars": "Red Star 4",
+                        "Damage": 363,
+                        "Health": 1008,
+                        "Armor": 292
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 2",
+                        "Damage": 407,
+                        "Health": 1129,
+                        "Armor": 327
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 2",
+                        "Damage": 512,
+                        "Health": 805,
+                        "Armor": 264
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 1",
+                        "Damage": 482,
+                        "Health": 758,
+                        "Armor": 248
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 365,
+                        "Health": 717,
+                        "Armor": 0
+                    }
+                }
+            ]
+        },
+        "9": {
+            "Ork Boy": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 611,
+                        "Health": 969,
+                        "Armor": 319
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 577,
+                        "Health": 915,
+                        "Armor": 301
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 571,
+                        "Health": 1528,
+                        "Armor": 354
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 485,
+                        "Health": 1299,
+                        "Armor": 301
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 602,
+                        "Health": 1182,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 481,
+                        "Health": 944,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 2",
+                        "Damage": 510,
+                        "Health": 1412,
+                        "Armor": 409
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 540,
+                        "Health": 1495,
+                        "Armor": 433
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 679,
+                        "Health": 1066,
+                        "Armor": 352
+                    }
+                }
+            ]
+        },
+        "10": {
+            "Ork Boy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 611,
+                        "Health": 969,
+                        "Armor": 319
+                    }
+                },
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 679,
+                        "Health": 1077,
+                        "Armor": 354
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 679,
+                        "Health": 1066,
+                        "Armor": 352
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 754,
+                        "Health": 1184,
+                        "Armor": 391
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 754,
+                        "Health": 1480,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 600,
+                        "Health": 1661,
+                        "Armor": 481
+                    }
+                },
+                {
+                    "Count": 7,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 540,
+                        "Health": 1495,
+                        "Armor": 433
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 571,
+                        "Health": 1528,
+                        "Armor": 354
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 514,
+                        "Health": 1375,
+                        "Armor": 319
+                    }
+                }
+            ]
+        },
+        "11": {
+            "Ork Boy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 893,
+                        "Health": 1415,
+                        "Armor": 465
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1065,
+                        "Health": 1687,
+                        "Armor": 554
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 715,
+                        "Health": 1913,
+                        "Armor": 443
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 944,
+                        "Health": 1482,
+                        "Armor": 490
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 679,
+                        "Health": 1066,
+                        "Armor": 352
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 600,
+                        "Health": 1661,
+                        "Armor": 481
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 540,
+                        "Health": 1495,
+                        "Armor": 433
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 12,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 754,
+                        "Health": 1480,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 792,
+                        "Health": 1554,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Gibbascrapz": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 882,
+                        "Health": 2646,
+                        "Armor": 1059
+                    }
+                }
+            ],
+            "Snappawrecka": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 4",
+                        "Damage": 812,
+                        "Health": 3176,
+                        "Armor": 706
+                    }
+                }
+            ]
+        },
+        "12": {
+            "Ork Boy": [
+                {
+                    "Count": 19,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 850,
+                        "Health": 1348,
+                        "Armor": 443
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 611,
+                        "Health": 969,
+                        "Armor": 319
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 715,
+                        "Health": 1913,
+                        "Armor": 443
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 571,
+                        "Health": 1528,
+                        "Armor": 354
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 15,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 944,
+                        "Health": 1853,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 792,
+                        "Health": 1554,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 789,
+                        "Health": 2184,
+                        "Armor": 632
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Silver 3",
+                        "Stars": "Red Star 3",
+                        "Damage": 540,
+                        "Health": 1495,
+                        "Armor": 433
+                    }
+                }
+            ],
+            "Tanksmasha": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1116,
+                        "Health": 4650,
+                        "Armor": 698
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 944,
+                        "Health": 1482,
+                        "Armor": 490
+                    }
+                }
+            ],
+            "Snotflogga": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1395,
+                        "Health": 5580,
+                        "Armor": 837
+                    }
+                }
+            ],
+            "Gulgortz": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1209,
+                        "Health": 4650,
+                        "Armor": 1209
+                    }
+                }
+            ]
+        },
+        "13": {
+            "Ork Boy": [
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1669,
+                        "Health": 2645,
+                        "Armor": 869
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1065,
+                        "Health": 1687,
+                        "Armor": 554
+                    }
+                },
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1333,
+                        "Health": 2112,
+                        "Armor": 694
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1241,
+                        "Health": 2436,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1177,
+                        "Health": 3149,
+                        "Armor": 729
+                    }
+                },
+                {
+                    "Count": 17,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 940,
+                        "Health": 2515,
+                        "Armor": 582
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Gold 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 941,
+                        "Health": 2604,
+                        "Armor": 754
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1480,
+                        "Health": 2323,
+                        "Armor": 769
+                    }
+                }
+            ]
+        },
+        "14": {
+            "Ork Boy": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1400,
+                        "Health": 2218,
+                        "Armor": 729
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1752,
+                        "Health": 2777,
+                        "Armor": 912
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1669,
+                        "Health": 2645,
+                        "Armor": 869
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Gold 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 1178,
+                        "Health": 3260,
+                        "Armor": 944
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1475,
+                        "Health": 4082,
+                        "Armor": 1182
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 16,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1480,
+                        "Health": 2905,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1756,
+                        "Health": 4702,
+                        "Armor": 1087
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1473,
+                        "Health": 3943,
+                        "Armor": 912
+                    }
+                }
+            ]
+        },
+        "15": {
+            "Large Squig": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1756,
+                        "Health": 4702,
+                        "Armor": 1087
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Red Star 5",
+                        "Damage": 1403,
+                        "Health": 3755,
+                        "Armor": 869
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1473,
+                        "Health": 3943,
+                        "Armor": 912
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 1",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1752,
+                        "Health": 2777,
+                        "Armor": 912
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 2089,
+                        "Health": 3311,
+                        "Armor": 1087
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Red Star 5",
+                        "Damage": 2615,
+                        "Health": 4146,
+                        "Armor": 1361
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2193,
+                        "Health": 3477,
+                        "Armor": 1141
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1847,
+                        "Health": 5111,
+                        "Armor": 1480
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1939,
+                        "Health": 5367,
+                        "Armor": 1554
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 1480,
+                        "Health": 2905,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 1554,
+                        "Health": 3050,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 9,
+                    "Stats": {
+                        "Rank": "Diamond 2",
+                        "Stars": "Red Star 5",
+                        "Damage": 2320,
+                        "Health": 3640,
+                        "Armor": 1204
+                    }
+                }
+            ]
+        },
+        "16": {
+            "Ork Boy": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3602,
+                        "Health": 5710,
+                        "Armor": 1874
+                    }
+                },
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 3930,
+                        "Health": 6230,
+                        "Armor": 2044
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2746,
+                        "Health": 4353,
+                        "Armor": 1429
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 2552,
+                        "Health": 5009,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2784,
+                        "Health": 5465,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3029,
+                        "Health": 8108,
+                        "Armor": 1874
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 1,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 3475,
+                        "Health": 9616,
+                        "Armor": 2784
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3185,
+                        "Health": 8814,
+                        "Armor": 2552
+                    }
+                }
+            ]
+        },
+        "17": {
+            "Ork Boy": [
+                {
+                    "Count": 11,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 4305,
+                        "Health": 6825,
+                        "Armor": 2239
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 4510,
+                        "Health": 7150,
+                        "Armor": 2346
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 3",
+                        "Damage": 3766,
+                        "Health": 5970,
+                        "Armor": 1959
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3050,
+                        "Health": 5987,
+                        "Armor": 0
+                    }
+                },
+                {
+                    "Count": 2,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 2784,
+                        "Health": 5465,
+                        "Armor": 0
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 3475,
+                        "Health": 9616,
+                        "Armor": 2784
+                    }
+                },
+                {
+                    "Count": 8,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 3",
+                        "Damage": 3330,
+                        "Health": 9215,
+                        "Armor": 2668
+                    }
+                },
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Diamond 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 2428,
+                        "Health": 6720,
+                        "Armor": 1946
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3185,
+                        "Health": 8814,
+                        "Armor": 2552
+                    }
+                }
+            ],
+            "Stormboy": [
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Blue Star 3",
+                        "Damage": 4183,
+                        "Health": 6561,
+                        "Armor": 2169
+                    }
+                }
+            ],
+            "Large Squig": [
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 1",
+                        "Stars": "Mythic",
+                        "Damage": 3305,
+                        "Health": 8846,
+                        "Armor": 2044
+                    }
+                }
+            ]
+        },
+        "18": {
+            "Large Squig": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 3",
+                        "Damage": 3965,
+                        "Health": 10613,
+                        "Armor": 2453
+                    }
+                }
+            ],
+            "Grot Tank": [
+                {
+                    "Count": 14,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 3988,
+                        "Health": 11036,
+                        "Armor": 3195
+                    }
+                },
+                {
+                    "Count": 5,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 1",
+                        "Damage": 3807,
+                        "Health": 10534,
+                        "Armor": 3050
+                    }
+                }
+            ],
+            "Ork Boy": [
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Blue Star 2",
+                        "Damage": 4510,
+                        "Health": 7150,
+                        "Armor": 2346
+                    }
+                },
+                {
+                    "Count": 3,
+                    "Stats": {
+                        "Rank": "Adamantine 3",
+                        "Stars": "Mythic",
+                        "Damage": 6161,
+                        "Health": 9766,
+                        "Armor": 3206
+                    }
+                },
+                {
+                    "Count": 6,
+                    "Stats": {
+                        "Rank": "Adamantine 3",
+                        "Stars": "Blue Star 1",
+                        "Damage": 5390,
+                        "Health": 8545,
+                        "Armor": 2804
+                    }
+                },
+                {
+                    "Count": 4,
+                    "Stats": {
+                        "Rank": "Adamantine 2",
+                        "Stars": "Mythic",
+                        "Damage": 4920,
+                        "Health": 7800,
+                        "Armor": 2560
+                    }
+                }
+            ],
+            "Grot": [
+                {
+                    "Count": 10,
+                    "Stats": {
+                        "Rank": "Adamantine 3",
+                        "Stars": "Mythic",
+                        "Damage": 4364,
+                        "Health": 8566,
+                        "Armor": 0
+                    }
+                }
+            ]
+        }
+    }
+}

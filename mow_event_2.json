@@ -1,0 +1,939 @@
+{
+    "index": 5,
+    "rarity": "Rare",
+    "battles": [
+        {
+            "battleId": "1",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_06",
+            "SpawnPointsSet": 5,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "machinesOfWarAmmo:3",
+                "star2": "upgHpU007:2",
+                "star3": "upgArmR005"
+            },
+            "enemies": [
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc1PinkHorror:14",
+                "thousNpc1PinkHorror:14",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15"
+            ]
+        },
+        {
+            "battleId": "2",
+            "difficultyMultiplier": 100,
+            "BoardId": "MoW_Thous_01",
+            "SpawnPointsSet": 1,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "upgHpC008:2",
+                "star2": "shards_thousDaemonPrince",
+                "star3": "upgHpR029"
+            },
+            "enemies": [
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15"
+            ]
+        },
+        {
+            "battleId": "3",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_09",
+            "SpawnPointsSet": 9,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "upgDmgC004:2",
+                "star2": "upgHpU017:2",
+                "star3": "shards_thousDaemonPrince"
+            },
+            "enemies": [
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14"
+            ],
+            "enemyMow": "thousNpcMowDaemonPrince:14"
+        },
+        {
+            "battleId": "4",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_07",
+            "SpawnPointsSet": 10,
+            "lightningVictory": 2,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "upgHpC006:2",
+                "star2": "shards_thousDaemonPrince:2",
+                "star3": "upgArmR029"
+            },
+            "enemies": [
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc2Screamer:15",
+                "thousNpc2Screamer:15"
+            ]
+        },
+        {
+            "battleId": "5",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_10",
+            "SpawnPointsSet": 7,
+            "lightningVictory": 4,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "machinesOfWarToken_Chaos:4",
+                "star2": "upgDmgU014:2",
+                "star3": "upgHpR008"
+            },
+            "enemies": [
+                "thousNpcTzaangor:11",
+                "thousNpc4Terminator:13",
+                "thousNpc4Terminator:13",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14"
+            ]
+        },
+        {
+            "battleId": "6",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_11",
+            "SpawnPointsSet": 6,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "shards_thousDaemonPrince:2",
+                "star2": "upgArmU006:2",
+                "star3": "upgArmR015"
+            },
+            "enemies": [
+                "thousNpc4Terminator:13",
+                "thousNpc4Terminator:13",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc2Screamer:14",
+                "thousNpc2Screamer:14",
+                "thousNpc2Screamer:14",
+                "thousNpc2Screamer:14"
+            ]
+        },
+        {
+            "battleId": "7",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_15",
+            "SpawnPointsSet": 6,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:140-170"
+                ],
+                "star1": "upgDmgC014:2",
+                "star2": "shards_thousDaemonPrince:2",
+                "star3": "shards_thousDaemonPrince:3"
+            },
+            "enemies": [
+                "thousNpc4Terminator:13",
+                "thousNpc4Terminator:13",
+                "thousNpc4Terminator:13",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc3RubricMarine:14",
+                "thousNpc1PinkHorror:15",
+                "thousNpc1PinkHorror:15"
+            ]
+        },
+        {
+            "battleId": "8",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_19",
+            "SpawnPointsSet": 6,
+            "lightningVictory": 5,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "upgArmC013:2",
+                "star2": "upgDmgU019:2",
+                "star3": "upgDmgR002"
+            },
+            "enemies": [
+                "thousNpcInfernalMaster:11",
+                "thousNpc4Terminator:14",
+                "thousNpc4Terminator:14",
+                "thousNpc4Terminator:14",
+                "thousNpc3RubricMarine:15",
+                "thousNpc3RubricMarine:15",
+                "thousNpc3RubricMarine:15",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16"
+            ]
+        },
+        {
+            "battleId": "9",
+            "difficultyMultiplier": 100,
+            "BoardId": "MoW_Thous_03",
+            "SpawnPointsSet": 1,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "upgArmC002:2",
+                "star2": "shards_thousDaemonPrince:2",
+                "star3": "upgHpR029"
+            },
+            "enemies": [
+                "thousNpcTerminator:11",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc4Terminator:14",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16"
+            ],
+            "enemyMow": "thousNpcMowDaemonPrince:15"
+        },
+        {
+            "battleId": "10",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_29",
+            "SpawnPointsSet": 6,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "machinesOfWarToken_Chaos:4",
+                "star2": "upgHpU009:2",
+                "star3": "upgDmgR029"
+            },
+            "enemies": [
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc1PinkHorror:18",
+                "thousNpc1PinkHorror:18",
+                "thousNpc1PinkHorror:18",
+                "thousNpc1PinkHorror:18",
+                "thousNpc1PinkHorror:18"
+            ]
+        },
+        {
+            "battleId": "11",
+            "difficultyMultiplier": 100,
+            "BoardId": "MoW_Thous_02",
+            "SpawnPointsSet": 1,
+            "lightningVictory": 4,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "abilityTokenRare_Chaos",
+                "star2": "abilityTokenRare_Chaos",
+                "star3": "abilityTokenRare_Chaos"
+            },
+            "enemies": [
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc4Terminator:14",
+                "thousNpc4Terminator:14",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16"
+            ]
+        },
+        {
+            "battleId": "12",
+            "difficultyMultiplier": 100,
+            "BoardId": "EC4_02",
+            "SpawnPointsSet": 3,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "itemAscensionResource_Rare:2",
+                "star2": "itemAscensionResource_Rare:3",
+                "star3": "upgHpR008"
+            },
+            "enemies": [
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17",
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15"
+            ]
+        },
+        {
+            "battleId": "13",
+            "difficultyMultiplier": 100,
+            "BoardId": "EMC4_03",
+            "SpawnPointsSet": 2,
+            "lightningVictory": 3,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "shards_thousDaemonPrince:2",
+                "star2": "upgHpU012:2",
+                "star3": "upgArmR015"
+            },
+            "enemies": [
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc1PinkHorror:15",
+                "thousNpc1PinkHorror:15",
+                "thousNpc1PinkHorror:15",
+                "thousNpc1PinkHorror:15"
+            ]
+        },
+        {
+            "battleId": "14",
+            "difficultyMultiplier": 100,
+            "BoardId": "MC4_05",
+            "SpawnPointsSet": 6,
+            "lightningVictory": 4,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "machinesOfWarToken_Chaos:4",
+                "star2": "upgDmgU011:2",
+                "star3": "upgDmgR003"
+            },
+            "enemies": [
+                "thousNpc4Terminator:15",
+                "thousNpc4Terminator:15",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17"
+            ]
+        },
+        {
+            "battleId": "15",
+            "difficultyMultiplier": 100,
+            "BoardId": "C4_14",
+            "SpawnPointsSet": 8,
+            "lightningVictory": 5,
+            "spawnpoints": 5,
+            "loot": {
+                "base": [
+                    "gold:70-85"
+                ],
+                "star1": "abilityTokenRare_Chaos:2",
+                "star2": "heroAscensionOrbRare_Chaos:2",
+                "star3": "heroAscensionOrbRare_Chaos:3"
+            },
+            "enemies": [
+                "thousNpcSorcerer:11",
+                "thousNpcAhriman:11",
+                "thousNpc4Terminator:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc3RubricMarine:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc1PinkHorror:16",
+                "thousNpc2Screamer:17",
+                "thousNpc2Screamer:17"
+            ],
+            "enemyMow": "thousNpcMowDaemonPrince:16"
+        }
+    ],
+    "nodes": [
+        {
+            "nodeDepth": 0,
+            "type": "incursionBattle",
+            "nodeName": "1",
+            "index": 0,
+            "battleType": "normal",
+            "battleId": "1"
+        },
+        {
+            "nodeDepth": 1,
+            "type": "incursionEnhancement",
+            "nodeName": "E1",
+            "enhancementId": "HitBoost_01",
+            "index": 1,
+            "exclusiveWith": [
+                2,
+                3
+            ],
+            "unlockedBy": [
+                {
+                    "index": 0
+                }
+            ]
+        },
+        {
+            "nodeDepth": 1,
+            "type": "incursionBattle",
+            "nodeName": "2",
+            "index": 2,
+            "battleType": "normal",
+            "battleId": "2",
+            "exclusiveWith": [
+                1,
+                3
+            ],
+            "unlockedBy": [
+                {
+                    "index": 0
+                }
+            ]
+        },
+        {
+            "nodeDepth": 1,
+            "type": "incursionEnhancement",
+            "nodeName": "E2",
+            "enhancementId": "Regeneration_01",
+            "index": 3,
+            "exclusiveWith": [
+                1,
+                2
+            ],
+            "unlockedBy": [
+                {
+                    "index": 0
+                }
+            ]
+        },
+        {
+            "nodeDepth": 2,
+            "type": "incursionBattle",
+            "nodeName": "3",
+            "index": 4,
+            "battleType": "normal",
+            "battleId": "3",
+            "unlockedBy": [
+                {
+                    "index": 1
+                },
+                {
+                    "index": 2
+                },
+                {
+                    "index": 3
+                }
+            ]
+        },
+        {
+            "nodeDepth": 3,
+            "type": "incursionEnhancement",
+            "nodeName": "E1",
+            "enhancementId": "LifeSteal_01",
+            "index": 5,
+            "exclusiveWith": [
+                6,
+                7
+            ],
+            "unlockedBy": [
+                {
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "nodeDepth": 3,
+            "type": "incursionEnhancement",
+            "nodeName": "E2",
+            "enhancementId": "PierceBoost_01",
+            "index": 6,
+            "exclusiveWith": [
+                5,
+                7
+            ],
+            "unlockedBy": [
+                {
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "nodeDepth": 3,
+            "type": "incursionEnhancement",
+            "nodeName": "E3",
+            "enhancementId": "HitBoost_01",
+            "index": 7,
+            "exclusiveWith": [
+                5,
+                6
+            ],
+            "unlockedBy": [
+                {
+                    "index": 4
+                }
+            ]
+        },
+        {
+            "nodeDepth": 4,
+            "type": "chest",
+            "nodeName": "C",
+            "index": 8,
+            "chestId": "mowe_thousDaemonPrince_05_01",
+            "unlockedBy": [
+                {
+                    "index": 5
+                },
+                {
+                    "index": 6
+                },
+                {
+                    "index": 7
+                }
+            ]
+        },
+        {
+            "nodeDepth": 5,
+            "type": "incursionBattle",
+            "nodeName": "4",
+            "index": 9,
+            "battleType": "normal",
+            "battleId": "4",
+            "exclusiveWith": [
+                10
+            ],
+            "unlockedBy": [
+                {
+                    "index": 8
+                }
+            ]
+        },
+        {
+            "nodeDepth": 5,
+            "type": "incursionBattle",
+            "nodeName": "4B",
+            "index": 10,
+            "battleType": "challenge",
+            "battleId": "5",
+            "exclusiveWith": [
+                9
+            ],
+            "unlockedBy": [
+                {
+                    "index": 8
+                }
+            ]
+        },
+        {
+            "nodeDepth": 6,
+            "type": "incursionBattle",
+            "nodeName": "5",
+            "index": 11,
+            "battleType": "normal",
+            "battleId": "6",
+            "unlockedBy": [
+                {
+                    "index": 9
+                },
+                {
+                    "index": 10
+                }
+            ]
+        },
+        {
+            "nodeDepth": 7,
+            "type": "incursionBattle",
+            "nodeName": "6",
+            "index": 12,
+            "battleType": "normal",
+            "battleId": "7",
+            "exclusiveWith": [
+                13
+            ],
+            "unlockedBy": [
+                {
+                    "index": 11
+                }
+            ]
+        },
+        {
+            "nodeDepth": 7,
+            "type": "incursionEnhancement",
+            "nodeName": "E",
+            "enhancementId": "LifeSteal_01",
+            "index": 13,
+            "exclusiveWith": [
+                12
+            ],
+            "unlockedBy": [
+                {
+                    "index": 11
+                }
+            ]
+        },
+        {
+            "nodeDepth": 8,
+            "type": "chest",
+            "nodeName": "C",
+            "index": 14,
+            "chestId": "mowe_thousDaemonPrince_05_02",
+            "unlockedBy": [
+                {
+                    "index": 12
+                },
+                {
+                    "index": 13
+                }
+            ]
+        },
+        {
+            "nodeDepth": 9,
+            "type": "incursionEnhancement",
+            "nodeName": "E1",
+            "enhancementId": "Summons_01",
+            "index": 15,
+            "exclusiveWith": [
+                16,
+                17
+            ],
+            "unlockedBy": [
+                {
+                    "index": 14
+                }
+            ]
+        },
+        {
+            "nodeDepth": 9,
+            "type": "incursionEnhancement",
+            "nodeName": "E2",
+            "enhancementId": "PierceBoost_01",
+            "index": 16,
+            "exclusiveWith": [
+                15,
+                17
+            ],
+            "unlockedBy": [
+                {
+                    "index": 14
+                }
+            ]
+        },
+        {
+            "nodeDepth": 9,
+            "type": "incursionEnhancement",
+            "nodeName": "E3",
+            "enhancementId": "Regeneration_01",
+            "index": 17,
+            "exclusiveWith": [
+                15,
+                16
+            ],
+            "unlockedBy": [
+                {
+                    "index": 14
+                }
+            ]
+        },
+        {
+            "nodeDepth": 10,
+            "type": "incursionBattle",
+            "nodeName": "7B",
+            "index": 18,
+            "battleType": "challenge",
+            "battleId": "8",
+            "exclusiveWith": [
+                19
+            ],
+            "unlockedBy": [
+                {
+                    "index": 15
+                },
+                {
+                    "index": 16
+                }
+            ]
+        },
+        {
+            "nodeDepth": 10,
+            "type": "incursionBattle",
+            "nodeName": "7",
+            "index": 19,
+            "battleType": "normal",
+            "battleId": "9",
+            "exclusiveWith": [
+                18
+            ],
+            "unlockedBy": [
+                {
+                    "index": 16
+                },
+                {
+                    "index": 17
+                }
+            ]
+        },
+        {
+            "nodeDepth": 11,
+            "type": "incursionBattle",
+            "nodeName": "8",
+            "index": 20,
+            "battleType": "normal",
+            "battleId": "10",
+            "unlockedBy": [
+                {
+                    "index": 18
+                },
+                {
+                    "index": 19
+                }
+            ]
+        },
+        {
+            "nodeDepth": 12,
+            "type": "chest",
+            "nodeName": "C",
+            "index": 21,
+            "chestId": "mowe_thousDaemonPrince_05_03",
+            "unlockedBy": [
+                {
+                    "index": 20
+                }
+            ]
+        },
+        {
+            "nodeDepth": 13,
+            "type": "incursionEnhancement",
+            "nodeName": "E1",
+            "enhancementId": "HitBoost_01",
+            "index": 22,
+            "exclusiveWith": [
+                23,
+                24
+            ],
+            "unlockedBy": [
+                {
+                    "index": 21
+                }
+            ]
+        },
+        {
+            "nodeDepth": 13,
+            "type": "incursionBattle",
+            "nodeName": "9",
+            "index": 23,
+            "battleType": "normal",
+            "battleId": "11",
+            "exclusiveWith": [
+                22,
+                24
+            ],
+            "unlockedBy": [
+                {
+                    "index": 21
+                }
+            ]
+        },
+        {
+            "nodeDepth": 13,
+            "type": "incursionEnhancement",
+            "nodeName": "E2",
+            "enhancementId": "Regeneration_01",
+            "index": 24,
+            "exclusiveWith": [
+                22,
+                23
+            ],
+            "unlockedBy": [
+                {
+                    "index": 21
+                }
+            ]
+        },
+        {
+            "nodeDepth": 14,
+            "type": "incursionBattle",
+            "nodeName": "10",
+            "index": 25,
+            "battleType": "normal",
+            "battleId": "12",
+            "exclusiveWith": [
+                26
+            ],
+            "unlockedBy": [
+                {
+                    "index": 22
+                },
+                {
+                    "index": 23
+                }
+            ]
+        },
+        {
+            "nodeDepth": 14,
+            "type": "incursionEnhancement",
+            "nodeName": "E",
+            "enhancementId": "Summons_01",
+            "index": 26,
+            "exclusiveWith": [
+                25
+            ],
+            "unlockedBy": [
+                {
+                    "index": 23
+                },
+                {
+                    "index": 24
+                }
+            ]
+        },
+        {
+            "nodeDepth": 15,
+            "type": "chest",
+            "nodeName": "C",
+            "index": 27,
+            "chestId": "mowe_thousDaemonPrince_05_04",
+            "unlockedBy": [
+                {
+                    "index": 25
+                },
+                {
+                    "index": 26
+                }
+            ]
+        },
+        {
+            "nodeDepth": 16,
+            "type": "incursionBattle",
+            "nodeName": "11",
+            "index": 28,
+            "battleType": "normal",
+            "battleId": "13",
+            "unlockedBy": [
+                {
+                    "index": 27
+                }
+            ]
+        },
+        {
+            "nodeDepth": 17,
+            "type": "incursionBattle",
+            "nodeName": "12",
+            "index": 29,
+            "battleType": "normal",
+            "battleId": "14",
+            "exclusiveWith": [
+                30
+            ],
+            "unlockedBy": [
+                {
+                    "index": 28
+                }
+            ]
+        },
+        {
+            "nodeDepth": 17,
+            "type": "incursionEnhancement",
+            "nodeName": "E2",
+            "enhancementId": "PierceBoost_01",
+            "index": 30,
+            "exclusiveWith": [
+                29
+            ],
+            "unlockedBy": [
+                {
+                    "index": 28
+                }
+            ]
+        },
+        {
+            "nodeDepth": 18,
+            "type": "incursionBattle",
+            "nodeName": "13",
+            "index": 31,
+            "battleType": "normal",
+            "battleId": "15",
+            "unlockedBy": [
+                {
+                    "index": 29
+                },
+                {
+                    "index": 30
+                }
+            ]
+        },
+        {
+            "nodeDepth": 19,
+            "type": "chest",
+            "nodeName": "C",
+            "index": 32,
+            "chestId": "mowe_thousDaemonPrince_05_05",
+            "unlockedBy": [
+                {
+                    "index": 31
+                }
+            ]
+        }
+    ]
+}
