@@ -1,0 +1,10 @@
+{
+    "itemBinding": {
+        "Mythic": {
+            "unbindCosts": [
+                "itemAscensionResource_Mythic",
+                "mythicDust:100"
+            ]
+        }
+    }
+}

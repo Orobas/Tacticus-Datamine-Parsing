@@ -1,0 +1,76 @@
+{
+    "tiers": [
+        {
+            "tierId": "tier_0",
+            "pointsPerDollarWeb": 5,
+            "pointsPerDollarMobile": 5,
+            "gemsPerDollar": 5,
+            "loyaltyCurrencyPerDollar": 1,
+            "progressRewardId": "lp_progress_rewards_0",
+            "visualConfig": "tier_corporal"
+        },
+        {
+            "tierId": "tier_1",
+            "pointsPerDollarWeb": 12,
+            "pointsPerDollarMobile": 9,
+            "gemsPerDollar": 5,
+            "loyaltyCurrencyPerDollar": 1,
+            "progressRewardId": "lp_progress_rewards_1",
+            "visualConfig": "tier_sergeant"
+        },
+        {
+            "tierId": "tier_2",
+            "pointsPerDollarWeb": 25,
+            "pointsPerDollarMobile": 15,
+            "gemsPerDollar": 6,
+            "loyaltyCurrencyPerDollar": 1,
+            "progressRewardId": "lp_progress_rewards_2",
+            "visualConfig": "tier_lieutenant"
+        },
+        {
+            "tierId": "tier_3",
+            "pointsPerDollarWeb": 55,
+            "pointsPerDollarMobile": 28,
+            "gemsPerDollar": 6,
+            "loyaltyCurrencyPerDollar": 2,
+            "progressRewardId": "lp_progress_rewards_3",
+            "visualConfig": "tier_commissar"
+        },
+        {
+            "tierId": "tier_4",
+            "pointsPerDollarWeb": 115,
+            "pointsPerDollarMobile": 52,
+            "gemsPerDollar": 6,
+            "loyaltyCurrencyPerDollar": 2,
+            "progressRewardId": "lp_progress_rewards_4",
+            "visualConfig": "tier_colonel"
+        },
+        {
+            "tierId": "tier_5",
+            "pointsPerDollarWeb": 250,
+            "pointsPerDollarMobile": 103,
+            "gemsPerDollar": 7,
+            "loyaltyCurrencyPerDollar": 2,
+            "progressRewardId": "lp_progress_rewards_5",
+            "visualConfig": "tier_castellan"
+        },
+        {
+            "tierId": "tier_6",
+            "pointsPerDollarWeb": 500,
+            "pointsPerDollarMobile": 189,
+            "gemsPerDollar": 7,
+            "loyaltyCurrencyPerDollar": 2,
+            "progressRewardId": "lp_progress_rewards_6",
+            "visualConfig": "tier_general"
+        },
+        {
+            "tierId": "tier_7",
+            "pointsPerDollarWeb": 800,
+            "pointsPerDollarMobile": 283,
+            "gemsPerDollar": 7,
+            "loyaltyCurrencyPerDollar": 3,
+            "progressRewardId": "lp_progress_rewards_7",
+            "visualConfig": "tier_high_marshal"
+        }
+    ]
+}

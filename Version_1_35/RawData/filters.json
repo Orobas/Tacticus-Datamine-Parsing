@@ -1,0 +1,198 @@
+{
+    "filter_subscription": [
+        {
+            "Invert": false,
+            "Tags": [
+                "subscription"
+            ]
+        }
+    ],
+    "filter_not_subscription": [
+        {
+            "Invert": true,
+            "Tags": [
+                "subscription"
+            ]
+        }
+    ],
+    "filter_shared_in_guild": [
+        {
+            "Invert": false,
+            "Tags": [
+                "sharedInGuild"
+            ]
+        }
+    ],
+    "filter_not_shared_in_guild": [
+        {
+            "Invert": true,
+            "Tags": [
+                "sharedInGuild"
+            ]
+        }
+    ],
+    "filter_subscription_shared_in_guild": [
+        {
+            "Invert": false,
+            "Tags": [
+                "subscription"
+            ]
+        },
+        {
+            "Invert": false,
+            "Tags": [
+                "sharedInGuild"
+            ]
+        }
+    ],
+    "filter_subscription_not_shared_in_guild": [
+        {
+            "Invert": false,
+            "Tags": [
+                "subscription"
+            ]
+        },
+        {
+            "Invert": true,
+            "Tags": [
+                "sharedInGuild"
+            ]
+        }
+    ],
+    "filter_not_subscription_not_shared_in_guild": [
+        {
+            "Invert": true,
+            "Tags": [
+                "subscription"
+            ]
+        },
+        {
+            "Invert": true,
+            "Tags": [
+                "sharedInGuild"
+            ]
+        }
+    ],
+    "filter_from_chest": [
+        {
+            "Invert": false,
+            "Tags": [
+                "fromChest"
+            ]
+        }
+    ],
+    "filter_bp_character_unlocked_A": [
+        {
+            "Invert": false,
+            "Tags": [
+                "bloodDeathCompany"
+            ]
+        }
+    ],
+    "filter_bp_character_unlocked_B": [
+        {
+            "Invert": false,
+            "Tags": [
+                "ultraCalgar"
+            ]
+        }
+    ],
+    "filter_bp_character_unlocked_C": [
+        {
+            "Invert": false,
+            "Tags": [
+                "emperExultant"
+            ]
+        }
+    ],
+    "filter_bp_character_unlocked_D": [
+        {
+            "Invert": false,
+            "Tags": [
+                "bloodIntercessor"
+            ]
+        }
+    ],
+    "filter_ce2_character_unlocked": [
+        {
+            "Invert": false,
+            "Tags": [
+                "ultraTitus"
+            ]
+        }
+    ],
+    "filter_mowe_bonus_shards": [
+        {
+            "Invert": true,
+            "Tags": [
+                "mowEcBonus"
+            ]
+        }
+    ],
+    "filter_visible_offer": [
+        {
+            "Invert": true,
+            "Tags": [
+                "offer_seasonal_event_december_2025_pass"
+            ]
+        }
+    ],
+    "filter_platform_desktop": [
+        {
+            "Invert": false,
+            "Tags": [
+                "Windows",
+                "macOS",
+                "Editor"
+            ]
+        }
+    ],
+    "filter_ce1_leg_offer": [
+        {
+            "Invert": false,
+            "Tags": [
+                "deathBlightlord"
+            ]
+        },
+        {
+            "Invert": false,
+            "Tags": [
+                "deathBlightbringer"
+            ]
+        },
+        {
+            "Invert": false,
+            "Tags": [
+                "deathPutrifier"
+            ]
+        }
+    ],
+    "filter_ce2_leg_offer": [
+        {
+            "Invert": false,
+            "Tags": [
+                "ultraTitus"
+            ]
+        },
+        {
+            "Invert": false,
+            "Tags": [
+                "ultraInceptorSgt"
+            ]
+        },
+        {
+            "Invert": false,
+            "Tags": [
+                "ultraApothecary"
+            ]
+        }
+    ],
+    "filter_store_stashpay": [
+        {
+            "Invert": false,
+            "Tags": [
+                "StashPay"
+            ]
+        }
+    ]
+}

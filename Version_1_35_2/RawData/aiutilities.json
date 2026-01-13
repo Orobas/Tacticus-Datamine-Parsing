@@ -1,0 +1,346 @@
+{
+    "Default": {
+        "TileEffects": {
+            "Shrub_BonusDefense": 25,
+            "FirstAidHeal": 20,
+            "Thorns_DefenseReduction": -25,
+            "SpiderWeb": -25,
+            "Fire": -25,
+            "Ice": -25,
+            "Contaminated": 0,
+            "DryBush_DefenseBonus": 15,
+            "LightCover": 9,
+            "Trench": 25,
+            "TargetingProtocols_PendingAttack": -40,
+            "AnnihilatorBeam_PendingAttack": -40,
+            "NeedsMoreDakka_PendingTarget": -40,
+            "EreWeGo_PendingTarget": -40,
+            "PoundThemToDust_PendingTarget": -40,
+            "GunnersKillOnSight_MarkedTile": -40,
+            "TheWildHost_Tile": -40,
+            "TheWailingDoomSweeps_PendingTarget": -40,
+            "TheWailingDoomStrikes_PendingTarget": -40,
+            "StormboyzStrike_AlreadyUsedTile": -100
+        },
+        "UnitEffectsAdjacent": {
+            "InfernalPacts_AdditionalHits": 20,
+            "HunterOfSouls_ExtraDamage": 20
+        },
+        "UnitEffectsSurrounding": {
+            "FirstAmongTraitors_ExtraDmg": 10,
+            "VexillaImperius_ExtraArmor": 10
+        },
+        "UnitEffectsRanged": {
+            "PathOfCommand_ExtraDmg": 10,
+            "DaughterOfTheAbyss_FriendlyDmgReductionPct": 10
+        },
+        "Elevation": {
+            "HighestElevation": 10,
+            "LowestElevation": -5,
+            "Multiplier": 10
+        },
+        "KillUnit": {
+            "PossibleKill": 50,
+            "DefinitelyKill": 100
+        },
+        "OverkillUnit": {
+            "PossibleOverkill": 15,
+            "DefinitelyOverkill": 40
+        },
+        "AddedTileEffects": {
+            "SpiderWeb": 10,
+            "Fire": 10,
+            "Ice": 5,
+            "Unit_on_SpiderWeb": 15,
+            "Unit_on_Fire": 15,
+            "Unit_on_Ice": 0
+        },
+        "AdjacentQuickSlash": {
+            "AdjacentQuickSlashUnit": -50
+        },
+        "MinDistanceToClosestEnemy": {
+            "PerTileDistance": -100
+        },
+        "MaxDistanceToUnitTile": {
+            "ClosestTile": 400,
+            "FarthestTile": 700
+        },
+        "MaxDistanceToEnemies": {
+            "ClosestEnemy": 10,
+            "FarthestEnemy": 100
+        },
+        "DislikeObjects": {
+            "Object": 50
+        },
+        "DislikeEnvironmentUnits": {
+            "EnvironmentUnit": 20
+        },
+        "DanceOfDaggers": {
+            "ChainLengthMultiplier": 20
+        },
+        "RoyalGuard_AvoidAdjacentEnemies": {
+            "AdjacentEnemy": -20
+        },
+        "SwornProtector_AvoidAdjacentEnemies": {
+            "AdjacentEnemy": -20
+        },
+        "TilePendingBlockableSummon": {
+            "EnemySummon": 25,
+            "FriendlySummon": -25
+        },
+        "SteppableUnit": {
+            "EnemySteppableUnit": 50,
+            "FriendlySteppableUnit": -50,
+            "FriendlyDecoy": -50,
+            "EnemyDecoy": 1
+        },
+        "TriggeredAbilities": {
+            "HARMONIZE_HasAdjacentHarmonizeFriend": 25,
+            "EGGLAYER_DislikeStaying": -25,
+            "NOMNOM_LikesAdjacentEnemySummon": 100,
+            "NOMNOM_LikesAdjacentFriendlySummon": 50,
+            "BLADESPIN_LikesAdjacentEnemy": 40,
+            "BLADESPIN_LikesAdjacentEnemyInDarknessAdditionally": 50,
+            "CAMOUFLAGE_LikeShrubsAndDryBushes": 40,
+            "INSPIRINGPRESENCE_AdjacentFriend": 10,
+            "RELENTLESSMARCH_AdjacentFriend": 10,
+            "TAKETHIS_AdjacentFriend": 20,
+            "BURNEDBYLIGHT_LikeDarkness": 100,
+            "RITESOFBATTLE_AdjacentFriend": 10,
+            "PSYCHICFORTRESS_AdjacentFriend": 5,
+            "DRAWFIRE_AdjacentFriend": 25,
+            "NARTHECIUM_AdjacentFriend": 5,
+            "SHOCKASSAULT_AdjacentSummon": 25,
+            "CAMOCLOAK_LightCover": 15,
+            "FIREOFABSOLUTION_AdjacentEnemy": 20,
+            "FIREOFABSOLUTION_AdjacentFriend": -20,
+            "LIVINGLIGHTNING_AdjacentEnemy": 30,
+            "FABRICATORCLAWARRAY_AdjacentFriend": 30,
+            "HATEFULASSAULT_AdjacentEnemyDefault": 10,
+            "HATEFULASSAULT_AdjacentEnemyRanged": 20,
+            "COSMICHORROR_StepOnDecoyToAttack": 10,
+            "SUPPRESSIVEFIRE_TargetWithOverwatch": 35,
+            "LIFEWARDS_AdjacentToCelestine": 50,
+            "LETHALMIASMA_AdjacentEnemy": 15,
+            "ARCHCONTAMINATOR_AdjacentEnemy": 15,
+            "MARTIALAPOTHEOSIS_AdjacentEnemy": 15,
+            "SPOTTER_FriendlyAffectedUnitInRange": 10,
+            "GEMINAESUPERIA_FreeAdjacentHex": 10,
+            "GEMINAESUPERIA_AdjacentAliveSummon": 30,
+            "FIRSTAMONGTRAITORS_SurroundingChaosFriend": 10,
+            "TAINTEDNARTHECIUM_AdjacentChaosFriend": 5,
+            "EXPLOSIBEMALADIES_AdjacentRangedFriend": 15,
+            "EXPLOSIBEMALADIES_AdjacentChoasMeleeFriend": 15,
+            "UNBRIDLEDCARNAGE_AdjacentExplosive": 50,
+            "CursedPlagueBell_AdjacentChaosFriend": 20,
+            "CursedPlagueBell_AdjacentPsychicEnemy": 10,
+            "MEDICUSMINISTORUM_AdjacentFriend": 15,
+            "RUNSAWAY_AdjacentEnemy": -25,
+            "RUNSAROUND_AdjacentEnemy": 5,
+            "BOLTSTORM_AdjacentEnemies": 10,
+            "DEATHWING_AdjacentDAFriend": 10,
+            "GrimEfficiency_FriendsInRange": 0,
+            "PEHENSILEPINCERTAIL_AdjacentFriend": 15,
+            "KUSTOMFORCEFIELD_AdjacentFriend": 10,
+            "SPIRITUALLDEADER_AdjacentDecoy": 30,
+            "SWEEPINGBLOW_AdjacentEnemy": 40,
+            "SAVIORPROTOCOLS_AdjacentTauFriend": 20,
+            "SAVIORPROTOCOLS_AdjacentTauParent": 30,
+            "SAVIORPROTOCOLS_MarkedTarget": 60,
+            "CLOSECOMBATWEAKNESS_PerAdjacentEnemy": -40,
+            "CAMOUFLAGE_Grass": 15,
+            "DefenderOfTheGreaterGood_AdjacentFriend": 25,
+            "HostOfPlagues_DamageToPsykersBonusPct": 50,
+            "EcstaticSlaughter_LikesAdjacentEnemies": 0,
+            "GuardianOrganism_AdjacentFriend": 30,
+            "RadSaturation_AdjacentMarshals": 60,
+            "FearedInterrogator_AdjacentDAFriend": 30,
+            "BARBEDOVIPOSITOR_PossibleKill": 25,
+            "BARBEDOVIPOSITOR_DefinitelyKill": 50,
+            "MS_14_Hero_1_Passive_NearbyEnemies": 50,
+            "GhostTile": -50,
+            "AggressiveOnslaught_PerFreeTileAfterCharge": 40,
+            "BelisariusCawl_AdjacentEnginseer": 20,
+            "SanguinaryPriest_AdjacentNonMechanicalFriend": 5,
+            "SanguinaryPriest_AdjacentDamagedNonMechanicalFriend": 6,
+            "RADZONECORPS_LikesContamination": 30,
+            "PRIORITYRECLAMATION_LikesAdjacentCrate": 300,
+            "StandVigil_SurroundingFriend": 5,
+            "IntoxicatingElixir_LikesSuppressionStunTauntThrilled": 5,
+            "AmuletOfTheVoidwyrm_LikesAdjacentFriendlySummonsAndDecoys": 5,
+            "NetherRealmCasket_LikesAdjacentFriendlyMechanicals": 5,
+            "RelicOfLostCadia_LikesSurroundingImperialSummons": 5,
+            "TalonOfHorus_LikesEnemiesAdjacentToTargetAndAbaddon": 5,
+            "AstartesBanner_NearbyFriend": 5,
+            "BookOfFate_LikesAdjacentFriendlySummons": 5,
+            "MawClawsOfThyrax_LikesAdjacentSummons": 5,
+            "CloudOfFlies_LikesContamination": 30,
+            "OmnissiahsBlessing_DislikesEnginseer": -25,
+            "OmnissiahsBlessing_LikePreCalibratedPurgeSolution": 50,
+            "VengeanceForTheOmnissiah_LikesAdjacentMechanical": 30,
+            "RIGHTEOUSREPUGNANCE_AdjacentEnemy": 10,
+            "ElectroShock_TargetHasAdjacentEnemy": 50,
+            "HypersensoryAbilities_BonusForFirstAttack": 25,
+            "VexillaImperius_SurroundingFriend": 10,
+            "LegacyOfCombat_LikesAdjacentEnemies": 10,
+            "DaughterOfTheAbyss_FriendsInRange": 20,
+            "ObsessiveAnnunciation_LikesAdjacentEnemy": 10,
+            "HuntersInstincts_CarnivoreTallGrassBuff": 25,
+            "KardiocoreGalvanus_LikesAdjacentMechanicalFriends": 5,
+            "NornCrown_LikesSummonsAndPsykersInRange": 10,
+            "Spotter_FriendsWithRangedAttackInRange": 10,
+            "RepairEnthusiast_LikesRepair": 100,
+            "EcogSupport_EcogSummonsInRange": 30
+        },
+        "RangedAdjacentEnemy": {
+            "HasAdjacentEnemy": 0
+        },
+        "PsychicFortress": {
+            "AdjacentFriendly": 20
+        },
+        "KustomForceField": {
+            "AdjacentFriendly": 20
+        },
+        "TriggeredAbilitiesNonOwner": {
+            "FIRSTAMONGTRAITORS_SurroundingOwner": 20,
+            "BookOfFate_AdjacentSummons": 5,
+            "MawClawsOfThyrax_AdjacentSummons": 5,
+            "AmuletOfTheVoidwyrm_AdjacentSummons": 5,
+            "RelicOfLostCadia_AdjacentImperialSummons": 5,
+            "NetherRealmCasket_AdjacentMechanicals": 5,
+            "WayOfTheShortBlade_TauAdjacentToEnemy": 5,
+            "CabalOfSorcerers_AffectUnits": 20,
+            "EcogSupport_EcogAdjacentToParent": 0,
+            "ShieldOfFaith_LikesEnemiesOnFire": 10,
+            "WisdomOfTheAncients_AffectUnits": 20,
+            "PSYCHICFORTRESS_AdjacentFriendly": 20,
+            "KardiocoreGalvanus_AdjacentFriendly": 20,
+            "NornCrown_SummonsAndPsykers": 10
+        },
+        "DevoutPush_AdjacentRangedEnemies": {
+            "DEVOUTPUSH_AdjacentRangedEnemy": 50,
+            "DEVOUTPUSH_AdjacentMeleeEnemy": 30
+        },
+        "RammingSpeed_MostAdjacentEnemies": {
+            "RAMMINGSPEED_AdjacentEnemy": 20
+        },
+        "WireweaveNet_FirstAttack": {
+            "WIREWEAVENET_AdjacentActiveEffect": -30
+        },
+        "DefenderOfTheGreaterGood": {
+            "PerUnitWithAbilityInRange": 25
+        },
+        "SaviorProtocols": {
+            "PerUnitWithAbilityInRange": 20
+        },
+        "MV71SniperDroneSquad_ClosestToParent": {
+            "MV71SniperDroneSquad_AdjacentToParent": 50,
+            "MV71SniperDroneSquad_AdjacentToTau": 20,
+            "MV71SniperDDroneSquad_InRangeOfDefenderOfTheGreaterGood": 25,
+            "MV71SniperDDroneSquad_InRangeOfStructuralAnalyser": 3,
+            "MV71SniperDroneSquad_NoAdjacentEnemy": 40
+        },
+        "EarlyWarningOverride_SpawnSummon": {
+            "EarlyWarningOverride_AdjacentEnemy": 10,
+            "EarlyWarningOverride_AdjacentTauFriends": 30
+        },
+        "Phantasm_AvoidFriendlyPhantasm": {
+            "Phantasm_AvoidFriendlyPhantasm": -40
+        },
+        "UnitSpecificBehaviours": {
+            "Mortarion_DamageToPsykersBonusPct": 10,
+            "MultiTracker_DislikesAdjacentEnemies": -10
+        },
+        "PowerUp": {
+            "summons_dislike_tiles_with_powerups": -300
+        },
+        "CapturePoint": {
+            "summons_dislike_capture_points": -300,
+            "heroes_on_capture_points": 0
+        },
+        "EnemyOnTerritoryTile": {
+            "EnemyOnTerritoryTile": 0
+        },
+        "UnitOrder": {
+            "Psyker": 1,
+            "WeaverOfFate": -2,
+            "SorcerousFacade": 2,
+            "MasterOfTheTutelaries": 2,
+            "Doombolt": 1,
+            "MasterAnnihilator": 1,
+            "CordClaw": 1,
+            "BloodChalice": 1,
+            "VoltagheistField": -2
+        },
+        "OptimizedGait_AdjacentFriends": {
+            "OptimizedGait_AdjacentFriends": 0
+        },
+        "DoctrinaImperatives_AttractMechanicals": {
+            "Marshal_AttractMechanicals": 10
+        },
+        "TheArdentBlade_Geminae": {
+            "LikesAdjacentCelestine": 30
+        },
+        "Contaminated": {
+            "AffectedUnit": -25
+        },
+        "DespoiledGround": {
+            "ChaosAffectedUnit": -5,
+            "ImperialAndXenosAffectedUnit": -25
+        },
+        "ActiveAbilities": {
+            "MIGHTFROMBELOW_ExistingAdjacentDecoy": 3,
+            "TwistedScience_ExtraHpUtility": 100,
+            "TwistedScience_ExtraDamageUtility": 100,
+            "PlagueburstMortar_AdjacentEnemy": 10,
+            "ArcScourge_AdjacentMechanicalUnits": 50,
+            "ArcScourge_AdjacentEnemies": 20,
+            "BloodChalice_AdjacentDamagedNonMechanicalFriend": 50,
+            "LightOfSanguinius_FullHealthFriendlyUnits": -10,
+            "CultDemagogue_FriendlyDecoysAndNeophytes": 20,
+            "MomentShackle_AdjacentEnemy": 25,
+            "ForwardObservers_TargetHealthPercentage": 40,
+            "ForwardObservers_EnemyHasNoMarkerlight": 200,
+            "DoomSiren_TargetHasAdjacentEnemy": 50,
+            "DoomSiren_DefinitelyOverkill": 40,
+            "HeraldOfTheApocalypse_CannotKillEnemy": 50,
+            "Drachnyen_MultipleAdjacentUnits": 10
+        },
+        "MoltenForm": {
+            "MoltenForm_ResistFireTiles": 25,
+            "MoltenForm_AvoidHealingTiles": -25
+        },
+        "BioMinefield_MoveTowardsTarget": {
+            "PerTileDistance": -100
+        },
+        "MasterOfTheTutelaries_MoveTowardsTarget": {
+            "PerTileDistance": -20
+        },
+        "EchoesFromTheWarp_FriendliesAvoidGhost": {
+            "GhostTile": 10
+        },
+        "LeadingTheCharge_ChargeTile": {
+            "PreferAdjacentFreeTiles": 5
+        },
+        "DecoysAndMisdirection_AttractToDecoys": {
+            "DecoysAndMisdirection_FriendlyGSCLikeDecoys": 75
+        },
+        "AttackTargetWithEffect": {
+            "ArmourOfShriekingSouls": 20
+        },
+        "DislikeStartingTilesUtility": {
+            "ActiveAbility_DislikesCurrentTiles": -40
+        },
+        "SummonDislikeDoorOpening": {
+            "Dislike": -50
+        },
+        "EnvEndBombardment": {
+            "EnvEndBombardment_TileToAvoid": -30
+        }
+    },
+    "MovementSuggestion": {
+        "RangedAdjacentEnemy": {
+            "HasAdjacentEnemy": -50
+        }
+    }
+}

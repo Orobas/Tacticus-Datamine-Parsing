@@ -1,0 +1,84 @@
+{
+    "features": {
+        "SummoningPortal": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "TieredProgressReward": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        }
+    },
+    "battleStart": {
+        "Campaign": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "EliteCampaign": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "CampaignEvent": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "GuildBoss": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "Waves": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "TreasureBeach": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "LinearHeroEvent": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "PvP": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "MirrorCampaign": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "MirrorEliteCampaign": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        },
+        "LegendaryEvent": {
+            "forceAllowOfflineBeforeFTUEBattleIndex": 15,
+            "onlineOnlyConditions": {
+                "Always": ""
+            }
+        }
+    }
+}

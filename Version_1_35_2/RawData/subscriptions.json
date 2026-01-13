@@ -1,0 +1,222 @@
+{
+    "subscription_gems001": {
+        "visualId": "offer_gemsSubscription_001",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:60"
+        ]
+    },
+    "subscription_ec001": {
+        "visualId": "offer_hre_ec_bonus_001",
+        "duration": "7",
+        "hreConfig": "w1",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "stamina:25",
+            "raidTicket:5"
+        ]
+    },
+    "subscription_ec002": {
+        "visualId": "offer_hre_ec_bonus_001",
+        "duration": "7",
+        "hreConfig": "w2",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "stamina:25",
+            "raidTicket:5"
+        ]
+    },
+    "launch_reset_pl_0_9": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:100",
+            "raidTicket:1"
+        ]
+    },
+    "launch_reset_pl_10_13": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:250",
+            "raidTicket:2",
+            "stamina:15"
+        ]
+    },
+    "launch_reset_pl_14_16": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:400",
+            "raidTicket:2",
+            "stamina:15",
+            "dust:5"
+        ]
+    },
+    "launch_reset_pl_17_19": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:550",
+            "raidTicket:3",
+            "stamina:15",
+            "dust:10"
+        ]
+    },
+    "launch_reset_pl_20_22": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:700",
+            "raidTicket:4",
+            "stamina:20",
+            "dust:15"
+        ]
+    },
+    "launch_reset_pl_23_25": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:900",
+            "raidTicket:5",
+            "stamina:20",
+            "dust:20"
+        ]
+    },
+    "launch_reset_pl_26_27": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:1150",
+            "raidTicket:6",
+            "stamina:25",
+            "dust:25"
+        ]
+    },
+    "launch_reset_pl_28_29": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:1450",
+            "raidTicket:7",
+            "stamina:30",
+            "dust:30"
+        ]
+    },
+    "launch_reset_pl_30_30": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:1750",
+            "raidTicket:8",
+            "stamina:35",
+            "dust:35"
+        ]
+    },
+    "launch_reset_pl_31_31": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:2100",
+            "raidTicket:9",
+            "stamina:40",
+            "dust:40"
+        ]
+    },
+    "launch_reset_pl_32_32": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:2500",
+            "raidTicket:10",
+            "stamina:45",
+            "dust:45"
+        ]
+    },
+    "launch_reset_pl_33_99": {
+        "visualId": "launch_reset",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "gems:3000",
+            "raidTicket:10",
+            "stamina:50",
+            "dust:50"
+        ]
+    },
+    "subscription_guildCredits001": {
+        "visualId": "offer_guild_credits_shipment",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": true,
+        "rewards": [
+            "guildCredits:800",
+            "sharedInGuild_guildCredits:40"
+        ]
+    },
+    "subscription_elderShopCurrency001": {
+        "visualId": "offer_elder_shop_currency_shipment_001",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": true,
+        "rewards": [
+            "summoningToken:1",
+            "elderShopCurrency:10",
+            "gold:5000"
+        ]
+    },
+    "subscription_wb_stamina": {
+        "visualId": "WelcomeBackOffer_StaminaShipment",
+        "duration": "30",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "stamina:90"
+        ]
+    },
+    "subscription_offer_1": {
+        "visualId": "offer_guild_credits_shipment",
+        "duration": "7",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "stamina:50"
+        ]
+    },
+    "subscription_offer_2": {
+        "visualId": "offer_guild_credits_shipment",
+        "duration": "7",
+        "instantStart": false,
+        "externalScheduler": false,
+        "rewards": [
+            "stamina:50"
+        ]
+    }
+}

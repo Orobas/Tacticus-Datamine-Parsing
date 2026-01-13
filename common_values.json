@@ -75,5 +75,31 @@
 		"12": "Blue Star 2",
 		"13": "Blue Star 3",
 		"14": "Mythic"
+	},
+	"Campaigns": {
+		"campaign1": "Indomitus",
+		"campaign2": "Fall of Cadia",
+		"campaign3": "Octarius",
+		"campaign4": "Saim-Hann",
+		"mirror1": "Indomitus Mirror",
+		"mirror2": "Fall of Cadia Mirror",
+		"mirror3": "Octarius Mirror",
+		"mirror4": "Saim-Hamm Mirror",
+		"elite1": "Indomitus Elite",
+		"elite2": "Fall of Cadia Elite",
+		"elite3": "Octarius Elite",
+		"elite4": "Saim-Hann Elite",
+		"eliteMirror1": "Indomitus Mirror Elite",
+		"eliteMirror2": "Fall of Cadia Mirror Elite",
+		"eliteMirror3": "Octarius Mirror Elite",
+		"eliteMirror4": "Saim-Hamm Mirror Elite",
+		"eventStandard1": "Adeptus Mechanicus",
+		"eventExtremis1": "Adeptus Mechanicus Extremis",
+		"eventStandard2": "Tyranid",
+		"eventExtremis2": "Tyranid Extremis",
+		"eventStandard3": "Tau",
+		"eventExtremis3": "Tau Extremis",
+		"eventStandard4": "Death Guard",
+		"eventExtremis4": "Death Guard Extremis"
 	}
 }

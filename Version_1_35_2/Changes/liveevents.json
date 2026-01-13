@@ -1,0 +1,99 @@
+{
+    "added": {
+        "idunLiveEventConfigs": {
+            "1413": {
+                "trackers": {
+                    "0": {
+                        "gameModeRestrictions": {
+                            "allowed": "LegendaryEvent"
+                        }
+                    }
+                }
+            },
+            "1414": {
+                "trackers": {
+                    "0": {
+                        "gameModeRestrictions": {
+                            "allowed": "LegendaryEvent"
+                        }
+                    }
+                }
+            },
+            "1415": {
+                "trackers": {
+                    "0": {
+                        "gameModeRestrictions": {
+                            "allowed": "LegendaryEvent"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "changed": {
+        "idunLiveEventConfigs": {
+            "503": {
+                "realMoneyProductId": {
+                    "oldValue": "product_xp_coins_stamina_1_epic",
+                    "newValue": "product_xp_coins_stamina_1_epic_01"
+                }
+            },
+            "504": {
+                "realMoneyProductId": {
+                    "oldValue": "product_xp_coins_stamina_1_rare",
+                    "newValue": "product_xp_coins_stamina_1_rare_01"
+                }
+            },
+            "505": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_001",
+                    "newValue": "product_reqs_gems_stamina_dust_1_001_01"
+                }
+            },
+            "506": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_002",
+                    "newValue": "product_reqs_gems_stamina_dust_1_002_01"
+                }
+            },
+            "507": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_003",
+                    "newValue": "product_reqs_gems_stamina_dust_1_003_01"
+                }
+            },
+            "508": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_004",
+                    "newValue": "product_reqs_gems_stamina_dust_1_004_01"
+                }
+            },
+            "511": {
+                "realMoneyProductId": {
+                    "oldValue": "product_requisitions_xp_003",
+                    "newValue": "product_requisitions_xp_003_01"
+                }
+            },
+            "512": {
+                "realMoneyProductId": {
+                    "oldValue": "product_requisitions_xp_004",
+                    "newValue": "product_requisitions_xp_004_01"
+                }
+            },
+            "1441": {
+                "trackingAdditionalData": {
+                    "oldValue": "{\"mows\":[\"thousDaemonPrince\",\"orksRukkatrukk\",\"blackForgefiend\",\"ultraDreadnought\",\"adeptExorcist\",\"tyranBiovore\",\"deathCrawler\",\"tauBroadside\",\"astraOrdnanceBattery\"],\"new\":[\"thousDaemonPrince\"]}",
+                    "newValue": "{\"mows\":[\"thousDaemonPrince\",\"orksRukkatrukk\",\"blackForgefiend\",\"ultraDreadnought\",\"adeptExorcist\",\"tyranBiovore\",\"deathCrawler\",\"tauBroadside\",\"astraOrdnanceBattery\"],\"new\":[]}"
+                },
+                "mows": {
+                    "0": {
+                        "new": {
+                            "oldValue": true,
+                            "newValue": false
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

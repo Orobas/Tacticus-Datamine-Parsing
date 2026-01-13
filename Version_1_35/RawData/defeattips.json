@@ -1,0 +1,242 @@
+{
+    "defeatTipConfigs": {
+        "Upgrade_1": {
+            "Icon": "navigation.HeroDetails",
+            "Text": "[term:MissionQuickLinks/defeat_upgrade]",
+            "Action": "CharacterUpgrade"
+        },
+        "Upgrade_2": {
+            "Icon": "navigation.HeroDetails",
+            "Text": "[term:MissionQuickLinks/defeat_upgrade_abilities]",
+            "Action": "CharacterAbilityUpgrade"
+        },
+        "Upgrade_3": {
+            "Icon": "navigation.Arena",
+            "Text": "[term:MissionQuickLinks/defeat_upgrade_gather_XP]",
+            "Action": "Link",
+            "ActionParameter": "Arena"
+        },
+        "Upgrade_4": {
+            "Icon": "navigation.HeroDetails",
+            "Text": "[term:MissionQuickLinks/defeat_upgrade_collect_shards]",
+            "Action": "CharacterShards"
+        },
+        "RetryAbilities": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_abilities]",
+            "Action": "None"
+        },
+        "RetryMultiHit": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_multi_hit]",
+            "Action": "None"
+        },
+        "RetryGameplay": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_gameplay]",
+            "Action": "None"
+        },
+        "RetryTerrain": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_terrain]",
+            "Action": "None"
+        },
+        "RetryBoss1": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_1st_boss]",
+            "Action": "None"
+        },
+        "RetryBoss2": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_2nd_boss]",
+            "Action": "None"
+        },
+        "RetryBoss3": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_3rd_boss]",
+            "Action": "None"
+        },
+        "RetryBoss4": {
+            "Icon": "defeatTip.Generic",
+            "Text": "[term:MissionQuickLinks/defeat_retry_4th_boss]",
+            "Action": "None"
+        },
+        "Other_1": {
+            "Icon": "navigation.Arena",
+            "Text": "[term:MissionQuickLinks/defeat_other_modes]",
+            "Action": "Link",
+            "ActionParameter": "Arena"
+        },
+        "Other_2": {
+            "Icon": "navigation.Onslaught",
+            "Text": "[term:MissionQuickLinks/defeat_other_modes]",
+            "Action": "Link",
+            "ActionParameter": "Onslaught"
+        },
+        "improve_orks": {
+            "Icon": "navigation.Salvage",
+            "Text": "[term:MissionQuickLinks/defeat_improve_orks]",
+            "Action": "Link",
+            "ActionParameter": "SalvageRun"
+        },
+        "improve_necrons": {
+            "Icon": "campaign1.Standard",
+            "Text": "[term:MissionQuickLinks/defeat_improve_necrons]",
+            "Action": "CampaignLevel",
+            "ActionParameter": "campaign1 Standard 60"
+        },
+        "improve_black_legion": {
+            "Icon": "mirror2.Mirror",
+            "Text": "[term:MissionQuickLinks/defeat_improve_black_legion]",
+            "Action": "CampaignLevel",
+            "ActionParameter": "mirror2 Mirror 45"
+        },
+        "improve_imperials": {
+            "Icon": "campaign3.Standard",
+            "Text": "[term:MissionQuickLinks/defeat_improve_imperials]",
+            "Action": "CampaignBoss",
+            "ActionParameter": "campaign3 Standard 75"
+        },
+        "Shop": {
+            "Icon": "navigation.Shop",
+            "Text": "[term:MissionQuickLinks/defeat_shop]",
+            "Action": "Link",
+            "ActionParameter": "Shop"
+        }
+    },
+    "campaignDefeatTipConfigs": [
+        {
+            "CampaignId": "campaign1",
+            "Battle": "1-14",
+            "DefeatTip1": "RetryAbilities"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "16-29",
+            "DefeatTip1": "RetryGameplay"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "31-44",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "RetryMultiHit"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "46-59",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "RetryMultiHit",
+            "DefeatTip3": "RetryGameplay"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "61-74",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "Other",
+            "DefeatTip3": "RetryGameplay"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "15",
+            "DefeatTip1": "RetryBoss1"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "30",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "RetryBoss2"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "45",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "RetryBoss3",
+            "DefeatTip3": "RetryMultiHit"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "60",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "RetryBoss4",
+            "DefeatTip3": "RetryGameplay"
+        },
+        {
+            "CampaignId": "campaign1",
+            "Battle": "75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "Other",
+            "DefeatTip3": "Shop"
+        },
+        {
+            "CampaignId": "campaign2",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "campaign3",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "campaign4",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "mirror1 Mirror",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "mirror2 Mirror",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "mirror3 Mirror",
+            "Battle": "1-15",
+            "DefeatTip1": "RetryTerrain"
+        },
+        {
+            "CampaignId": "campaign2",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "improve_black_legion",
+            "DefeatTip3": "Other"
+        },
+        {
+            "CampaignId": "campaign3",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "improve_orks",
+            "DefeatTip3": "Other"
+        },
+        {
+            "CampaignId": "campaign4",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "Other"
+        },
+        {
+            "CampaignId": "mirror1 Mirror",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "improve_necrons",
+            "DefeatTip3": "Other"
+        },
+        {
+            "CampaignId": "mirror2 Mirror",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "improve_imperials",
+            "DefeatTip3": "Other"
+        },
+        {
+            "CampaignId": "mirror3 Mirror",
+            "Battle": "16-75",
+            "DefeatTip1": "Upgrade",
+            "DefeatTip2": "improve_imperials",
+            "DefeatTip3": "Other"
+        }
+    ]
+}

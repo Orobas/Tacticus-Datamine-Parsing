@@ -1,0 +1,151 @@
+{
+    "added": {
+        "product_xp_coins_stamina_1_epic_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00499",
+            "price": 499,
+            "mercadoId": "offer_00499",
+            "rewards": [
+                "stamina:120",
+                "raidTicket:20",
+                "xpLegendary:3",
+                "xpEpic:15",
+                "gold:3750"
+            ]
+        },
+        "product_xp_coins_stamina_1_rare_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00199",
+            "price": 199,
+            "mercadoId": "offer_00199",
+            "rewards": [
+                "stamina:120",
+                "raidTicket:20",
+                "xpRare:10",
+                "gold:500"
+            ]
+        },
+        "product_reqs_gems_stamina_dust_1_001_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_03499",
+            "price": 3499,
+            "mercadoId": "offer_03499",
+            "rewards": [
+                "summoningToken:15",
+                "gems:500",
+                "stamina:180",
+                "raidTicket:30",
+                "dust:750"
+            ]
+        },
+        "product_reqs_gems_stamina_dust_1_002_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_02499",
+            "price": 2499,
+            "mercadoId": "offer_02499",
+            "rewards": [
+                "summoningToken:10",
+                "gems:500",
+                "stamina:180",
+                "raidTicket:30",
+                "dust:500"
+            ]
+        },
+        "product_reqs_gems_stamina_dust_1_003_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01499",
+            "price": 1499,
+            "mercadoId": "offer_01499",
+            "rewards": [
+                "summoningToken:5",
+                "gems:400",
+                "stamina:180",
+                "raidTicket:30",
+                "dust:275"
+            ]
+        },
+        "product_reqs_gems_stamina_dust_1_004_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00799",
+            "price": 799,
+            "mercadoId": "offer_00799",
+            "rewards": [
+                "summoningToken:4",
+                "gems:100",
+                "stamina:60",
+                "raidTicket:10",
+                "dust:50"
+            ]
+        },
+        "product_requisitions_xp_003_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_02399",
+            "price": 2399,
+            "mercadoId": "offer_02399",
+            "rewards": [
+                "specialSummoningToken:8",
+                "summoningToken:5",
+                "xpEpic:5",
+                "xpRare:8",
+                "gold:1150"
+            ]
+        },
+        "product_requisitions_xp_004_01": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01399",
+            "price": 1399,
+            "mercadoId": "offer_01399",
+            "rewards": [
+                "specialSummoningToken:4",
+                "summoningToken:4",
+                "xpRare:5",
+                "xpUncommon:5",
+                "gold:325"
+            ]
+        },
+        "product_eventCampaign_all_playmore_l": {
+            "category": "Campaign Bundles",
+            "nativeStoreProductType": "Consumable",
+            "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01399",
+            "price": 1399,
+            "mercadoId": "offer_01399",
+            "rewards": [
+                "tieredRewardPoints_campaign_event:40",
+                "stamina:390",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "raidTicket:65"
+            ]
+        }
+    },
+    "changed": {
+        "product_holidays_2025_guild_social_large": {
+            "rewards": {
+                "oldValue": [
+                    "summoningToken:1",
+                    "gems:100",
+                    "guildCredits:750",
+                    "sharedInSocial_summoningToken:1",
+                    "sharedInSocial_gems:30",
+                    "sharedInGuild_guildCredits:750"
+                ],
+                "newValue": [
+                    "summoningToken:1",
+                    "gems:100",
+                    "guildCredits:750",
+                    "sharedInSocial_summoningToken:1",
+                    "sharedInSocial_gems:100",
+                    "sharedInGuild_guildCredits:750"
+                ]
+            }
+        }
+    }
+}

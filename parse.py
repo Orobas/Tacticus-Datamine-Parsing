@@ -80,6 +80,8 @@ for battleset in dat["clientGameConfig"]["battles"]["battleSets"]:
             lre_waves[legendarySplit[0]]["Gamma"] = dat["clientGameConfig"]["battles"]["battleSets"][battleset] 
 lre_data["waves"] = lre_waves              
             
+campaign_data = dat["clientGameConfig"]["battles"]["campaigns"]
+
         
 lre_13 = {}
 lre_13["legendary_event_13_lane_1"] = dat["clientGameConfig"]["battles"]["battleSets"]["legendary_event_13_lane_1"]
@@ -139,3 +141,6 @@ with open('paid_offers.json', 'w') as w:
     
 with open('chests.json', 'w') as w:
     json.dump(chests, w, indent=4)
+    
+with open('campaign.json', 'w') as w:
+    json.dump(campaign_data, w, indent=4)

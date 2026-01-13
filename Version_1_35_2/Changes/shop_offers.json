@@ -1,0 +1,52 @@
+{
+    "changed": {
+        "3": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_gemsDailyIncome_001",
+                "newValue": "realMoneyProduct_gemsDailyIncome_001"
+            }
+        },
+        "4": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_gemsDailyIncome_002",
+                "newValue": "realMoneyProduct_gemsDailyIncome_002"
+            }
+        },
+        "5": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreBundle",
+                "newValue": "realMoneyProduct_hreBundle"
+            }
+        },
+        "6": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreBundle_w1_37",
+                "newValue": "realMoneyProduct_hreBundle_w1_37"
+            }
+        },
+        "7": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreBundle_w2_37",
+                "newValue": "realMoneyProduct_hreBundle_w2_37"
+            }
+        },
+        "8": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreBundle_w1_36",
+                "newValue": "realMoneyProduct_hreBundle_w1_36"
+            }
+        },
+        "11": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreEcBonus_002",
+                "newValue": "realMoneyProduct_hreEcBonus_002"
+            }
+        },
+        "12": {
+            "realMoneyProductId": {
+                "oldValue": "realMoneyProduct_hreEcBonus_w1_37",
+                "newValue": "realMoneyProduct_hreEcBonus_w1_37"
+            }
+        }
+    }
+}

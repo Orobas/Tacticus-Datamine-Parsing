@@ -1,0 +1,36 @@
+{
+    "mythic": {
+        "popup": [
+            {
+                "lockId": "lock_mythic_shop_tier_high",
+                "rewards": [
+                    "xpMythic:3",
+                    "summoningToken",
+                    "specialSummoningToken",
+                    "gems:300",
+                    "dust:3000"
+                ]
+            },
+            {
+                "lockId": "lock_mythic_shop_tier_medium",
+                "rewards": [
+                    "xpLegendary:10",
+                    "summoningToken",
+                    "specialSummoningToken",
+                    "gems:300",
+                    "dust:2000"
+                ]
+            },
+            {
+                "lockId": "lock_mythic_shop_tier_low",
+                "rewards": [
+                    "xpEpic:10",
+                    "summoningToken",
+                    "specialSummoningToken",
+                    "gems:300",
+                    "dust:500"
+                ]
+            }
+        ]
+    }
+}

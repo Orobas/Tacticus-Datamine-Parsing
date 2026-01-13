@@ -1,0 +1,748 @@
+{
+    "recipes": [
+        {
+            "resource": {
+                "category": "heroAscensionOrbRare",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbUncommon",
+                    "id": "Chaos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbEpic",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbRare",
+                    "id": "Chaos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 5000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbLegendary",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbEpic",
+                    "id": "Chaos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 20000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbMythic",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbLegendary",
+                    "id": "Chaos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 35000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbRare",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbUncommon",
+                    "id": "Imperial",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbEpic",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbRare",
+                    "id": "Imperial",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 5000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbLegendary",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbEpic",
+                    "id": "Imperial",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 20000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbMythic",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbLegendary",
+                    "id": "Imperial",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 35000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbRare",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbUncommon",
+                    "id": "Xenos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbEpic",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbRare",
+                    "id": "Xenos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 5000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbLegendary",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbEpic",
+                    "id": "Xenos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 20000
+            }
+        },
+        {
+            "resource": {
+                "category": "heroAscensionOrbMythic",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "heroAscensionOrbLegendary",
+                    "id": "Xenos",
+                    "amount": 5
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 35000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenUncommon",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenCommon",
+                    "id": "Chaos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Uncommon",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenRare",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenUncommon",
+                    "id": "Chaos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenEpic",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenRare",
+                    "id": "Chaos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 3000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenLegendary",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenEpic",
+                    "id": "Chaos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 6000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenMythic",
+                "id": "Chaos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenLegendary",
+                    "id": "Chaos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 9000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenUncommon",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenCommon",
+                    "id": "Imperial",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Uncommon",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenRare",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenUncommon",
+                    "id": "Imperial",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenEpic",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenRare",
+                    "id": "Imperial",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 3000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenLegendary",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenEpic",
+                    "id": "Imperial",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 6000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenMythic",
+                "id": "Imperial",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenLegendary",
+                    "id": "Imperial",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 9000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenUncommon",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenCommon",
+                    "id": "Xenos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Uncommon",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenRare",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenUncommon",
+                    "id": "Xenos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1500
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenEpic",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenRare",
+                    "id": "Xenos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 3000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenLegendary",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenEpic",
+                    "id": "Xenos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 6000
+            }
+        },
+        {
+            "resource": {
+                "category": "abilityTokenMythic",
+                "id": "Xenos",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "abilityTokenLegendary",
+                    "id": "Xenos",
+                    "amount": 3
+                },
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Mythic",
+                    "amount": 1
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 9000
+            }
+        },
+        {
+            "resource": {
+                "category": "itemAscensionResource",
+                "id": "Rare",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Uncommon",
+                    "amount": 5
+                },
+                {
+                    "category": "global",
+                    "id": "dust",
+                    "amount": 5
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 500
+            }
+        },
+        {
+            "resource": {
+                "category": "itemAscensionResource",
+                "id": "Epic",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Rare",
+                    "amount": 5
+                },
+                {
+                    "category": "global",
+                    "id": "dust",
+                    "amount": 10
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 1000
+            }
+        },
+        {
+            "resource": {
+                "category": "itemAscensionResource",
+                "id": "Legendary",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Epic",
+                    "amount": 5
+                },
+                {
+                    "category": "global",
+                    "id": "dust",
+                    "amount": 20
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 2000
+            }
+        },
+        {
+            "resource": {
+                "category": "itemAscensionResource",
+                "id": "Mythic",
+                "amount": 1
+            },
+            "ingredients": [
+                {
+                    "category": "itemAscensionResource",
+                    "id": "Legendary",
+                    "amount": 5
+                },
+                {
+                    "category": "global",
+                    "id": "dust",
+                    "amount": 30
+                }
+            ],
+            "cost": {
+                "category": "global",
+                "id": "gold",
+                "amount": 3000
+            }
+        }
+    ]
+}

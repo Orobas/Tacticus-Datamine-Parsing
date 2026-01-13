@@ -1,0 +1,3351 @@
+{
+    "referralPlayerCodeEnterRewardPowerLevel": 8,
+    "ms12ReferralFlow": true,
+    "powerLevelsConfig": [
+        {
+            "power": 0,
+            "maxStamina": 60
+        },
+        {
+            "power": 150,
+            "maxStamina": 60,
+            "tutorialId": "tut_after_plup2",
+            "icons": [
+                "quests",
+                "waves",
+                "guilds"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Quests_Unlocked",
+                "UI/PowerLevelUp_Waves_Teaser_2",
+                "UI/PowerLevelUp_Guilds_Teaser_3"
+            ],
+            "rewards": [
+                "gold:100",
+                "gems:10",
+                "shards_adeptRetributor:1"
+            ]
+        },
+        {
+            "power": 220,
+            "maxStamina": 60,
+            "tutorialId": "tut_requisitionOrder2",
+            "icons": [
+                "waves",
+                "guilds",
+                "raid"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Waves_Teaser",
+                "UI/PowerLevelUp_Guilds_Teaser_2",
+                "UI/PowerLevelUp_Raid_Teaser"
+            ],
+            "rewards": [
+                "stamina:30",
+                "gold:200",
+                "gems:20",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 290,
+            "maxStamina": 60,
+            "tutorialId": "tut_onslaught_unlocked",
+            "icons": [
+                "waves",
+                "raid"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Waves_Unlocked",
+                "UI/PowerLevelUp_Raid_Unlocked"
+            ],
+            "rewards": [
+                "stamina:30",
+                "gold:400",
+                "gems:40",
+                "raidTicket:10",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 330,
+            "maxStamina": 65,
+            "tutorialId": "tut_guilds",
+            "icons": [
+                "guilds",
+                "maxStamina",
+                "pvp"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Guilds_Unlocked",
+                "UI/PowerLevelUp_Max_Stamina",
+                "UI/PowerLevelUp_PvP_Teaser"
+            ],
+            "rewards": [
+                "stamina:65",
+                "gold:600",
+                "gems:50",
+                "raidTicket:10",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 400,
+            "maxStamina": 70,
+            "tutorialId": "tut_after_plup6",
+            "icons": [
+                "pvp",
+                "battlePass",
+                "inventory"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_PvP_Unlocked",
+                "UI/PowerLevelUp_BattlePass_Unlocked",
+                "UI/PowerLevelUp_Inventory_Unlocked"
+            ],
+            "rewards": [
+                "stamina:70",
+                "gems:100",
+                "I_Crit_C002:3",
+                "dust:150",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 450,
+            "maxStamina": 75,
+            "tutorialId": "tut_requisition10",
+            "icons": [
+                "achievements",
+                "maxStamina",
+                "treasureBeach"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Achievements_Unlocked",
+                "UI/PowerLevelUp_Max_Stamina",
+                "UI/PowerLevelUp_SalvageRun_Teaser"
+            ],
+            "rewards": [
+                "stamina:75",
+                "gold:1000",
+                "gems:100",
+                "I_Crit_C001",
+                "summoningToken:10"
+            ]
+        },
+        {
+            "power": 650,
+            "maxStamina": 80,
+            "tutorialId": "tut_salvageRun_unlocked",
+            "icons": [
+                "treasureBeach",
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_SalvageRun_Unlocked",
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:80",
+                "gems:100",
+                "I_Crit_C001",
+                "playerProfileTheme_intro4",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 800,
+            "maxStamina": 85,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:85",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 950,
+            "maxStamina": 90,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:90",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1100,
+            "maxStamina": 92,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:92",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1400,
+            "maxStamina": 94,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:94",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1800,
+            "maxStamina": 96,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:96",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 2300,
+            "maxStamina": 98,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:98",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 3000,
+            "maxStamina": 100,
+            "icons": [
+                "maxStamina",
+                "mow"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina",
+                "UI/PowerLevelUp_Mow_Unlocked"
+            ],
+            "rewards": [
+                "stamina:100",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 4000,
+            "maxStamina": 101,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:101",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 5500,
+            "maxStamina": 102,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:102",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 7500,
+            "maxStamina": 103,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:103",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 10000,
+            "maxStamina": 104,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:104",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 13000,
+            "maxStamina": 105,
+            "icons": [
+                "guildWars",
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_GuildWars_Unlocked",
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:105",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 17000,
+            "maxStamina": 106,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:106",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 22000,
+            "maxStamina": 107,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:107",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 28000,
+            "maxStamina": 108,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:108",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 35000,
+            "maxStamina": 109,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:109",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 43000,
+            "maxStamina": 110,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:110",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 53000,
+            "maxStamina": 111,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:111",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 65000,
+            "maxStamina": 112,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:112",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 80000,
+            "maxStamina": 113,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:113",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 100000,
+            "maxStamina": 114,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:114",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 120000,
+            "maxStamina": 115,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:115",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 145000,
+            "maxStamina": 116,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:116",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 170000,
+            "maxStamina": 117,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:117",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 200000,
+            "maxStamina": 118,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:118",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 235000,
+            "maxStamina": 119,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:119",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 275000,
+            "maxStamina": 120,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:120",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 320000,
+            "maxStamina": 121,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:121",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 375000,
+            "maxStamina": 122,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:122",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 435000,
+            "maxStamina": 123,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:123",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 500000,
+            "maxStamina": 124,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:124",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 570000,
+            "maxStamina": 125,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:125",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 640000,
+            "maxStamina": 126,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:126",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 720000,
+            "maxStamina": 127,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:127",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 800000,
+            "maxStamina": 128,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:128",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 900000,
+            "maxStamina": 129,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:129",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1000000,
+            "maxStamina": 130,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:130",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1100000,
+            "maxStamina": 131,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:131",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1225000,
+            "maxStamina": 132,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:132",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1340000,
+            "maxStamina": 133,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:133",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1465000,
+            "maxStamina": 134,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:134",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1600000,
+            "maxStamina": 135,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:135",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1750000,
+            "maxStamina": 136,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:136",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1950000,
+            "maxStamina": 137,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:137",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 2200000,
+            "maxStamina": 138,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:138",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 2500000,
+            "maxStamina": 139,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:139",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 2850000,
+            "maxStamina": 140,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:140",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 3250000,
+            "maxStamina": 141,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:141",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 3750000,
+            "maxStamina": 142,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:142",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 4350000,
+            "maxStamina": 143,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:143",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 5050000,
+            "maxStamina": 144,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:144",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 5850000,
+            "maxStamina": 145,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:145",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 6750000,
+            "maxStamina": 146,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:146",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 7750000,
+            "maxStamina": 147,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:147",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 8850000,
+            "maxStamina": 148,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:148",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 10050000,
+            "maxStamina": 149,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:149",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 11350000,
+            "maxStamina": 150,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:150",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 12750000,
+            "maxStamina": 151,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:151",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 14250000,
+            "maxStamina": 152,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:152",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 15950000,
+            "maxStamina": 153,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:153",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 17850000,
+            "maxStamina": 154,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:154",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 20000000,
+            "maxStamina": 155,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:155",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 22500000,
+            "maxStamina": 156,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:156",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 25000000,
+            "maxStamina": 157,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:157",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 28000000,
+            "maxStamina": 158,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:158",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 31500000,
+            "maxStamina": 159,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:159",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 35500000,
+            "maxStamina": 160,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:160",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 40000000,
+            "maxStamina": 161,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:161",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 45000000,
+            "maxStamina": 162,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:162",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 50500000,
+            "maxStamina": 163,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:163",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 56500000,
+            "maxStamina": 164,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:164",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 63000000,
+            "maxStamina": 165,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:165",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 70000000,
+            "maxStamina": 166,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:166",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 77500000,
+            "maxStamina": 167,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:167",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 85500000,
+            "maxStamina": 168,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:168",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 94000000,
+            "maxStamina": 169,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:169",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 103000000,
+            "maxStamina": 170,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:170",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 113000000,
+            "maxStamina": 171,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:171",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 124000000,
+            "maxStamina": 172,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:172",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 136000000,
+            "maxStamina": 173,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:173",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 150000000,
+            "maxStamina": 174,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:174",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 170000000,
+            "maxStamina": 175,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:175",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 200000000,
+            "maxStamina": 176,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:176",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 240000000,
+            "maxStamina": 177,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:177",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 290000000,
+            "maxStamina": 178,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:178",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 350000000,
+            "maxStamina": 179,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:179",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 420000000,
+            "maxStamina": 180,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:180",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 500000000,
+            "maxStamina": 181,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:181",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 600000000,
+            "maxStamina": 182,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:182",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 700000000,
+            "maxStamina": 183,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:183",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 800000000,
+            "maxStamina": 184,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:184",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        },
+        {
+            "power": 1000000000,
+            "maxStamina": 185,
+            "icons": [
+                "maxStamina"
+            ],
+            "locaKeys": [
+                "UI/PowerLevelUp_Max_Stamina"
+            ],
+            "rewards": [
+                "stamina:185",
+                "gems:100",
+                "stamina_waves:3",
+                "stamina_treasureBeach:2",
+                "summoningToken"
+            ]
+        }
+    ],
+    "playerProfileAssets": [
+        {
+            "id": "sisterhood",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Sisterhood"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Sisterhood",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_sisterhood"
+            ]
+        },
+        {
+            "id": "adeptusMechanicus",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "AdeptusMechanicus"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "AdeptusMechanicus",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_adeptusMechanicus"
+            ]
+        },
+        {
+            "id": "aeldari",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Aeldari"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Aeldari",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_aeldari"
+            ]
+        },
+        {
+            "id": "astraMilitarum",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "AstraMilitarum"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "AstraMilitarum",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_astraMilitarum"
+            ]
+        },
+        {
+            "id": "blackLegion",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "BlackLegion"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "BlackLegion",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_blackLegion"
+            ]
+        },
+        {
+            "id": "darkAngels",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "DarkAngels"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "DarkAngels",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_darkAngels"
+            ]
+        },
+        {
+            "id": "deathGuard",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "DeathGuard"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "DeathGuard",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_deathGuard"
+            ]
+        },
+        {
+            "id": "necrons",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Necrons"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Necrons",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_necrons"
+            ]
+        },
+        {
+            "id": "orks",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Orks"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Orks",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_orks"
+            ]
+        },
+        {
+            "id": "spaceWolves",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "SpaceWolves"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "SpaceWolves",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_spaceWolves"
+            ]
+        },
+        {
+            "id": "tau",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Tau"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Tau",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_tau"
+            ]
+        },
+        {
+            "id": "blackTemplars",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "BlackTemplars"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "BlackTemplars",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_blackTemplars"
+            ]
+        },
+        {
+            "id": "thousandSons",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "ThousandSons"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "ThousandSons",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_thousandSons"
+            ]
+        },
+        {
+            "id": "tyranids",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Tyranids"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Tyranids",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_tyranids"
+            ]
+        },
+        {
+            "id": "ultramarines",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Ultramarines"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Ultramarines",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_ultramarines"
+            ]
+        },
+        {
+            "id": "genestealers",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Genestealers"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Genestealers",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_genestealers"
+            ]
+        },
+        {
+            "id": "bloodAngels",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "BloodAngels"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "BloodAngels",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_bloodAngels"
+            ]
+        },
+        {
+            "id": "custodes",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "Custodes"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "Custodes",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_custodes"
+            ]
+        },
+        {
+            "id": "emperorsChildren",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "EmperorsChildren"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "EmperorsChildren",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_emperorsChildren"
+            ]
+        },
+        {
+            "id": "worldEaters",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "WorldEaters"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "WorldEaters",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_worldEaters"
+            ]
+        },
+        {
+            "id": "leaguesOfVotann",
+            "type": "Theme",
+            "unlockEvent": "CollectCharactersOfFaction",
+            "target": 5,
+            "extraFields": [
+                "LeaguesOfVotann"
+            ],
+            "extraData": {
+                "type": "FactionUnlock",
+                "factionId": "LeaguesOfVotann",
+                "target": 5
+            },
+            "locaName": "PlayerProfile/theme_faction_name",
+            "locaUnlockInfo": "PlayerProfile/theme_faction_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_leaguesOfVotann"
+            ]
+        },
+        {
+            "id": "none",
+            "type": "Ornament",
+            "unlockEvent": "Default",
+            "target": 0,
+            "extraData": {
+                "type": "Default"
+            },
+            "locaName": "PlayerProfile/noOrnament_name",
+            "locaUnlockInfo": "",
+            "retroactive": true
+        },
+        {
+            "id": "ultraTigurius",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "ultraTigurius"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign1",
+                "chapterId": 3,
+                "chestType": 2,
+                "unitId": "ultraTigurius"
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_ultraTigurius_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileOrnament_ultraTigurius"
+            ]
+        },
+        {
+            "id": "ultraInceptorSgt",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "ultraInceptorSgt"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign1",
+                "chapterId": 3,
+                "chestType": 1,
+                "unitId": "ultraInceptorSgt"
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_ultraInceptorSgt_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileOrnament_ultraInceptorSgt"
+            ]
+        },
+        {
+            "id": "ultraApothecary",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "ultraApothecary"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign1",
+                "chapterId": 2,
+                "chestType": 2,
+                "unitId": "ultraApothecary"
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_ultraApothecary_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileOrnament_ultraApothecary"
+            ]
+        },
+        {
+            "id": "admecDominus",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "admecDominus"
+            ],
+            "extraData": {
+                "unitId": "admecDominus"
+            },
+            "source": "omnissiah",
+            "sourceStartDate": 1703548800000,
+            "sourceEndDate": 1703548800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_omnissiah",
+            "retroactive": false
+        },
+        {
+            "id": "templAncient",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "templAncient"
+            ],
+            "extraData": {
+                "unitId": "templAncient"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1703980800000,
+            "sourceEndDate": 1707004800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "deathBlightbringer",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "deathBlightbringer"
+            ],
+            "extraData": {
+                "unitId": "deathBlightbringer"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1707004800000,
+            "sourceEndDate": 1710028800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "orksRuntherd",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "orksRuntherd"
+            ],
+            "extraData": {
+                "unitId": "orksRuntherd"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1710028800000,
+            "sourceEndDate": 1713052800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "darkaAsmodai",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "darkaAsmodai"
+            ],
+            "extraData": {
+                "unitId": "darkaAsmodai"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1713052800000,
+            "sourceEndDate": 1716076800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "spaceHound",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "spaceHound"
+            ],
+            "extraData": {
+                "unitId": "spaceHound"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1716076800000,
+            "sourceEndDate": 1719100800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "tyranNeurothrope",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "tyranNeurothrope"
+            ],
+            "extraData": {
+                "unitId": "tyranNeurothrope"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1719100800000,
+            "sourceEndDate": 1722124800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "tyranTyrantGuard",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "tyranTyrantGuard"
+            ],
+            "extraData": {
+                "unitId": "tyranTyrantGuard"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1722124800000,
+            "sourceEndDate": 1725148800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "ultraTitus",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "ultraTitus"
+            ],
+            "extraData": {
+                "unitId": "ultraTitus"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1725148800000,
+            "sourceEndDate": 1728172800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "tyranWingedPrime",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "tyranWingedPrime"
+            ],
+            "extraData": {
+                "unitId": "tyranWingedPrime"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1728172800000,
+            "sourceEndDate": 1731196800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "adeptHospitaller",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "adeptHospitaller"
+            ],
+            "extraData": {
+                "unitId": "adeptHospitaller"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1731196800000,
+            "sourceEndDate": 1734220800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "tyranParasite",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "tyranParasite"
+            ],
+            "extraData": {
+                "unitId": "tyranParasite"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1734220800000,
+            "sourceEndDate": 1737244800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "deathPutrifier",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "deathPutrifier"
+            ],
+            "extraData": {
+                "unitId": "deathPutrifier"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1705622400000,
+            "sourceEndDate": 1708646400000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "spaceRockfist",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "spaceRockfist"
+            ],
+            "extraData": {
+                "unitId": "spaceRockfist"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1740268800000,
+            "sourceEndDate": 1743292800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "genesKelermorph",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "genesKelermorph"
+            ],
+            "extraData": {
+                "unitId": "genesKelermorph"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1743292800000,
+            "sourceEndDate": 1746316800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "darkaHellblaster",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "darkaHellblaster"
+            ],
+            "extraData": {
+                "unitId": "darkaHellblaster"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1746316800000,
+            "sourceEndDate": 1749340800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "worldTerminator",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "worldTerminator"
+            ],
+            "extraData": {
+                "unitId": "worldTerminator"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1749340800000,
+            "sourceEndDate": 1752364800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "custoBladeChampion",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "custoBladeChampion"
+            ],
+            "extraData": {
+                "unitId": "custoBladeChampion"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1752364800000,
+            "sourceEndDate": 1755388800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "genesMagus",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "genesMagus"
+            ],
+            "extraData": {
+                "unitId": "genesMagus"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1755388800000,
+            "sourceEndDate": 1758412800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "astraDreir",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "astraDreir"
+            ],
+            "extraData": {
+                "unitId": "astraDreir"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1758412800000,
+            "sourceEndDate": 1761436800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "bloodDeathCompany",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "bloodDeathCompany"
+            ],
+            "extraData": {
+                "unitId": "bloodDeathCompany"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1761436800000,
+            "sourceEndDate": 1764460800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "ultraCalgar",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "ultraCalgar"
+            ],
+            "extraData": {
+                "unitId": "ultraCalgar"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1764460800000,
+            "sourceEndDate": 1767484800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "emperExultant",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "emperExultant"
+            ],
+            "extraData": {
+                "unitId": "emperExultant"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1767484800000,
+            "sourceEndDate": 1738972800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "bloodIntercessor",
+            "type": "Ornament",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "bloodIntercessor"
+            ],
+            "extraData": {
+                "unitId": "bloodIntercessor"
+            },
+            "source": "battlepass",
+            "sourceStartDate": 1770508800000,
+            "sourceEndDate": 1773532800000,
+            "locaName": "PlayerProfile/ornament_name",
+            "locaUnlockInfo": "PlayerProfile/ornament_source_battlepass",
+            "retroactive": false
+        },
+        {
+            "id": "intro1",
+            "type": "Theme",
+            "unlockEvent": "Default",
+            "target": 0,
+            "extraData": {
+                "type": "Default"
+            },
+            "locaName": "PlayerProfile/theme_intro1_name",
+            "locaUnlockInfo": "PlayerProfile/theme_intro1_description",
+            "retroactive": true
+        },
+        {
+            "id": "intro2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "locaName": "PlayerProfile/theme_intro2_name",
+            "locaUnlockInfo": "PlayerProfile/theme_intro2_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_intro2"
+            ]
+        },
+        {
+            "id": "intro3",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "locaName": "PlayerProfile/theme_intro3_name",
+            "locaUnlockInfo": "PlayerProfile/theme_intro3_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_intro3"
+            ]
+        },
+        {
+            "id": "intro4",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "locaName": "PlayerProfile/theme_intro4_name",
+            "locaUnlockInfo": "PlayerProfile/theme_intro4_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_intro4"
+            ]
+        },
+        {
+            "id": "c1",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "campaign1",
+                "Standard"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign1",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_c1"
+            ]
+        },
+        {
+            "id": "c2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "campaign2",
+                "Standard"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign2",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_c2"
+            ]
+        },
+        {
+            "id": "c3",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "campaign3",
+                "Standard"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign3",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_c3"
+            ]
+        },
+        {
+            "id": "c4",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "campaign4",
+                "Standard"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Standard",
+                "campaignId": "campaign4",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_c4"
+            ]
+        },
+        {
+            "id": "mc1",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "mirror1",
+                "Mirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Mirror",
+                "campaignId": "mirror1",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_mc1"
+            ]
+        },
+        {
+            "id": "mc2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "mirror2",
+                "Mirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Mirror",
+                "campaignId": "mirror2",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_mc2"
+            ]
+        },
+        {
+            "id": "mc3",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "mirror3",
+                "Mirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Mirror",
+                "campaignId": "mirror3",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_mc3"
+            ]
+        },
+        {
+            "id": "mc4",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "mirror4",
+                "Mirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Mirror",
+                "campaignId": "mirror4",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_mc4"
+            ]
+        },
+        {
+            "id": "ec1",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "elite1",
+                "Elite"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Elite",
+                "campaignId": "elite1",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_ec1"
+            ]
+        },
+        {
+            "id": "emc1",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "eliteMirror1",
+                "EliteMirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "EliteMirror",
+                "campaignId": "eliteMirror1",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_emc1"
+            ]
+        },
+        {
+            "id": "ec2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "elite2",
+                "Elite"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Elite",
+                "campaignId": "elite2",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_ec2"
+            ]
+        },
+        {
+            "id": "emc2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "eliteMirror2",
+                "EliteMirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "EliteMirror",
+                "campaignId": "eliteMirror2",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_emc2"
+            ]
+        },
+        {
+            "id": "ec3",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "elite3",
+                "Elite"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Elite",
+                "campaignId": "elite3",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_ec3"
+            ]
+        },
+        {
+            "id": "emc3",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "eliteMirror3",
+                "EliteMirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "EliteMirror",
+                "campaignId": "eliteMirror3",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_emc3"
+            ]
+        },
+        {
+            "id": "ec4",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "elite4",
+                "Elite"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "Elite",
+                "campaignId": "elite4",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_ec4"
+            ]
+        },
+        {
+            "id": "emc4",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "extraFields": [
+                "eliteMirror4",
+                "EliteMirror"
+            ],
+            "extraData": {
+                "type": "CampaignChest",
+                "campaignType": "EliteMirror",
+                "campaignId": "eliteMirror4",
+                "chapterId": 5,
+                "chestType": 2
+            },
+            "source": "campaign",
+            "locaName": "PlayerProfile/theme_campaign_name",
+            "locaUnlockInfo": "PlayerProfile/theme_campaign_description",
+            "retroactive": true,
+            "rewards": [
+                "playerProfileTheme_emc4"
+            ]
+        },
+        {
+            "id": "holiday2023Free",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "omnissiah",
+            "sourceStartDate": 1703462400000,
+            "sourceEndDate": 1703462400000,
+            "locaName": "PlayerProfile/theme_holiday2023Free_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_omnissiah",
+            "retroactive": false
+        },
+        {
+            "id": "spring2024",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "fallen",
+            "sourceStartDate": 1713052800000,
+            "sourceEndDate": 1713657599000,
+            "locaName": "PlayerProfile/theme_spring2024_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_fallen",
+            "retroactive": false
+        },
+        {
+            "id": "anniversary2024",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "anniversary2024",
+            "sourceStartDate": 1723680000000,
+            "sourceEndDate": 1724284800000,
+            "locaName": "PlayerProfile/theme_anniversary2024_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_anniversary2024",
+            "retroactive": false
+        },
+        {
+            "id": "guildWar",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "guWa",
+            "sourceStartDate": 1711238400000,
+            "sourceEndDate": 1712361599000,
+            "locaName": "PlayerProfile/theme_guildWar_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_guWa",
+            "retroactive": false
+        },
+        {
+            "id": "sm2",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "sm2",
+            "sourceStartDate": 1725667200000,
+            "sourceEndDate": 1726617600000,
+            "locaName": "PlayerProfile/theme_sm2_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_sm2",
+            "retroactive": false
+        },
+        {
+            "id": "halloween_2024",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "halloween_2024",
+            "sourceStartDate": 1729987200000,
+            "sourceEndDate": 1730592000000,
+            "locaName": "PlayerProfile/theme_halloween_2024_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_halloween_2024",
+            "retroactive": false
+        },
+        {
+            "id": "thanksgiving_2024",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "thanksgiving_2024",
+            "sourceStartDate": 1732406400000,
+            "sourceEndDate": 1733011200000,
+            "locaName": "PlayerProfile/theme_thanksgiving_2024_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_thanksgiving_2024",
+            "retroactive": false
+        },
+        {
+            "id": "holidays_2024",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "holidays_2024",
+            "sourceStartDate": 1735084800000,
+            "sourceEndDate": 1736294400000,
+            "locaName": "PlayerProfile/theme_holidays_2024_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_holidays_2024",
+            "retroactive": false
+        },
+        {
+            "id": "february_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "february_2025",
+            "sourceStartDate": 1739059200000,
+            "sourceEndDate": 1739664000000,
+            "locaName": "PlayerProfile/theme_february_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_february_2025",
+            "retroactive": false
+        },
+        {
+            "id": "spring_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "target": 0,
+            "source": "spring_2025",
+            "sourceStartDate": 1745107200000,
+            "sourceEndDate": 1745712000000,
+            "locaName": "PlayerProfile/theme_spring_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_spring_2025",
+            "retroactive": false
+        },
+        {
+            "id": "may_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1747929600000,
+            "target": 0,
+            "source": "may_2025",
+            "sourceStartDate": 1748044800000,
+            "sourceEndDate": 1748649600000,
+            "locaName": "PlayerProfile/theme_may_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_may_2025",
+            "retroactive": false
+        },
+        {
+            "id": "anniversary_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1753401600000,
+            "target": 0,
+            "source": "anniversary_2025",
+            "sourceStartDate": 1754179200000,
+            "sourceEndDate": 1754784000000,
+            "locaName": "PlayerProfile/theme_anniversary_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_anniversary_2025",
+            "retroactive": false
+        },
+        {
+            "id": "mythic_01",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1756339200000,
+            "target": 0,
+            "source": "mythic_01",
+            "sourceStartDate": 1756684800000,
+            "sourceEndDate": 1757894400000,
+            "locaName": "PlayerProfile/theme_mythic_01_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_mythic_01",
+            "retroactive": false
+        },
+        {
+            "id": "halloween_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1761004800000,
+            "target": 0,
+            "source": "halloween_2025",
+            "sourceStartDate": 1761436800000,
+            "sourceEndDate": 1762041600000,
+            "locaName": "PlayerProfile/theme_halloween_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_halloween_2025",
+            "retroactive": false
+        },
+        {
+            "id": "december_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1764288000000,
+            "target": 0,
+            "source": "december_2025",
+            "sourceStartDate": 1764547200000,
+            "sourceEndDate": 1765065600000,
+            "locaName": "PlayerProfile/theme_december_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_december_2025",
+            "retroactive": false
+        },
+        {
+            "id": "holidays_2025",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1766620800000,
+            "target": 0,
+            "source": "holidays_2025",
+            "sourceStartDate": 1766620800000,
+            "sourceEndDate": 1767744000000,
+            "locaName": "PlayerProfile/theme_holidays_2025_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_holidays_2025",
+            "retroactive": false
+        },
+        {
+            "id": "february_2026",
+            "type": "Theme",
+            "unlockEvent": "Reward",
+            "revealTimestamp": 1770508800000,
+            "target": 0,
+            "source": "february_2026",
+            "sourceStartDate": 1766620800000,
+            "sourceEndDate": 1767744000000,
+            "locaName": "PlayerProfile/theme_february_2026_name",
+            "locaUnlockInfo": "PlayerProfile/theme_source_february_2026",
+            "retroactive": false
+        }
+    ],
+    "referralMilestones": {
+        "InitialMilestone": {
+            "rewards": [
+                "gems:100"
+            ]
+        },
+        "CodeEnteredAndInitialMilestone": {
+            "rewards": [
+                "gems:100"
+            ]
+        },
+        "ChildInitialMilestone": {
+            "rewards": [
+                "gems:100"
+            ]
+        },
+        "ChildCodeEnteredAndInitialMilestone": {
+            "rewards": [
+                "gems:100"
+            ]
+        },
+        "ChildReachedPowerLvl15": {
+            "rewards": [
+                "gems:100"
+            ],
+            "powerLevel": 15
+        },
+        "ChildReachedPowerLvl20": {
+            "rewards": [
+                "gems:200"
+            ],
+            "powerLevel": 20
+        },
+        "ChildReachedPowerLvl25": {
+            "rewards": [
+                "summoningToken:10"
+            ],
+            "powerLevel": 25
+        },
+        "ChildPurchase1": {
+            "rewards": [
+                "gems:200"
+            ]
+        }
+    }
+}

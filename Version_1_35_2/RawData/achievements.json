@@ -1,0 +1,557 @@
+[
+    {
+        "achievementId": "Collector",
+        "taskId": "ownHeroes",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:60"
+            }
+        ]
+    },
+    {
+        "achievementId": "ChestChecker",
+        "taskId": "openChests",
+        "milestones": [
+            {
+                "goal": 20,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 200,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 2000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "UncommonCollector",
+        "taskId": "ownHeroesAtMinRarity",
+        "taskTarget": "Uncommon",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:20"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:40"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:80"
+            }
+        ]
+    },
+    {
+        "achievementId": "RareCollector",
+        "taskId": "ownHeroesAtMinRarity",
+        "taskTarget": "Rare",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:60"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:120"
+            }
+        ]
+    },
+    {
+        "achievementId": "EpicCollector",
+        "taskId": "ownHeroesAtMinRarity",
+        "taskTarget": "Epic",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:50"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:100"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:200"
+            }
+        ]
+    },
+    {
+        "achievementId": "LegendaryCollector",
+        "taskId": "ownHeroesAtMinRarity",
+        "taskTarget": "Legendary",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:100"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:200"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:400"
+            }
+        ]
+    },
+    {
+        "achievementId": "MythicCollector",
+        "taskId": "ownHeroesAtMinRarity",
+        "taskTarget": "Mythic",
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "xpMythic"
+            },
+            {
+                "goal": 20,
+                "reward": "xpMythic:3"
+            },
+            {
+                "goal": 40,
+                "reward": "xpMythic:5"
+            }
+        ]
+    },
+    {
+        "achievementId": "UniteTheClans",
+        "taskId": "ownCompleteFactions",
+        "milestones": [
+            {
+                "goal": 2,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 4,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 8,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "MasterBlacksmith",
+        "taskId": "upgradeItems",
+        "milestones": [
+            {
+                "goal": 25,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 300,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 3000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "GiverOfGifts",
+        "taskId": "applyUpgrades",
+        "milestones": [
+            {
+                "goal": 75,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 750,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 2000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "MasterReforger",
+        "taskId": "extractDust",
+        "milestones": [
+            {
+                "goal": 200,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 5000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 200000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "HardenedTraveler",
+        "taskId": "completeCampaignChapter",
+        "milestones": [
+            {
+                "goal": 2,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 4,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 6,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "IronQuartermaster",
+        "taskId": "ownHeroesAtMinRank",
+        "taskTarget": 3,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:15"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:60"
+            }
+        ]
+    },
+    {
+        "achievementId": "SilverQuartermaster",
+        "taskId": "ownHeroesAtMinRank",
+        "taskTarget": 9,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:60"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:120"
+            }
+        ]
+    },
+    {
+        "achievementId": "DiamondQuartermaster",
+        "taskId": "ownHeroesAtMinRank",
+        "taskTarget": 15,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:60"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:120"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:250"
+            }
+        ]
+    },
+    {
+        "achievementId": "AdamantineQuartermaster",
+        "taskId": "ownHeroesAtMinRank",
+        "taskTarget": 18,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "xpMythic"
+            },
+            {
+                "goal": 20,
+                "reward": "xpMythic:3"
+            },
+            {
+                "goal": 40,
+                "reward": "xpMythic:5"
+            }
+        ]
+    },
+    {
+        "achievementId": "CampaignCommander",
+        "taskId": "winCampaignBattles",
+        "milestones": [
+            {
+                "goal": 200,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 2000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 20000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "StarChaser",
+        "taskId": "achieveCampaignStars",
+        "milestones": [
+            {
+                "goal": 100,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 660,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 1020,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "SeasonedWarrior",
+        "taskId": "winBattles",
+        "milestones": [
+            {
+                "goal": 350,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 3500,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 35000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "Lifesaver",
+        "taskId": "winBattlesWithoutLosingHeroes",
+        "milestones": [
+            {
+                "goal": 100,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 1000,
+                "reward": "gems:20"
+            },
+            {
+                "goal": 10000,
+                "reward": "gems:40"
+            }
+        ]
+    },
+    {
+        "achievementId": "DamageDealer",
+        "taskId": "dealDamage",
+        "milestones": [
+            {
+                "goal": 10000,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 2500000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 300000000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "SlayerOfFoes",
+        "taskId": "defeatEnemies",
+        "milestones": [
+            {
+                "goal": 2000,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 25000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 500000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "Tactician",
+        "taskId": "useAbilities",
+        "milestones": [
+            {
+                "goal": 100,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 5000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 80000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "MasterLooter",
+        "taskId": "collectPiecesOfLoot",
+        "milestones": [
+            {
+                "goal": 500,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 5000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 100000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "HeroTrainer",
+        "taskId": "ownHeroesAtMinLevel",
+        "taskTarget": 10,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "ExpertHeroTrainer",
+        "taskId": "ownHeroesAtMinLevel",
+        "taskTarget": 25,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:15"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:30"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:60"
+            }
+        ]
+    },
+    {
+        "achievementId": "MasterHeroTrainer",
+        "taskId": "ownHeroesAtMinLevel",
+        "taskTarget": 50,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:50"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:100"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:200"
+            }
+        ]
+    },
+    {
+        "achievementId": "MythicHeroTrainer",
+        "taskId": "ownHeroesAtMinLevel",
+        "taskTarget": 65,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "elderShopCurrency:100"
+            },
+            {
+                "goal": 20,
+                "reward": "elderShopCurrency:200"
+            },
+            {
+                "goal": 40,
+                "reward": "elderShopCurrency:400"
+            }
+        ]
+    },
+    {
+        "achievementId": "BigSpender",
+        "taskId": "spendResource",
+        "taskTarget": "gold",
+        "milestones": [
+            {
+                "goal": 10000,
+                "reward": "gems:10"
+            },
+            {
+                "goal": 500000,
+                "reward": "gems:25"
+            },
+            {
+                "goal": 20000000,
+                "reward": "gems:50"
+            }
+        ]
+    },
+    {
+        "achievementId": "MasterCollector",
+        "taskId": "ownHeroesAtMinProgressionIndex",
+        "taskTarget": 15,
+        "milestones": [
+            {
+                "goal": 6,
+                "reward": "gems:150"
+            },
+            {
+                "goal": 20,
+                "reward": "gems:300"
+            },
+            {
+                "goal": 40,
+                "reward": "gems:600"
+            }
+        ]
+    }
+]

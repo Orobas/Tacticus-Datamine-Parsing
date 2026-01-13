@@ -11,6 +11,8 @@ with open('chests.json', 'r') as file:
     chests_dat = json.load(file)
 with open('common_values.json', 'r') as file:
     common_values = json.load(file)
+with open('upgrades.json', 'r') as file:
+    upgrades_dat = json.load(file)
 
 dataToTake = ["eventType", "eventName", "trackingAdditionalData", "trackingFeaturedFaction", "trackingFeaturedHero", "unitId", "maxStamina", "staminaRegenerationTime", "staminaRegenerationAmount", "staminaRefillGemsCost", "tiers", "milestones", "offerBundleBonus", "allowedFactions", "scorePoints"]
 battleDataToTake = ["spawnpoints", "deployedUnit", "lightningVictory", "loot", "enemies", "Objectives"]      
@@ -53,6 +55,13 @@ def listEnemyLinearHeroEvent(battle):
                 
             battleFormatted["enemyCounts"] = enemyCounts
             battleFormatted["enemyData"] = enemyList
+        elif bd == "loot":
+            battleFormatted[bd] = battle[bd]
+            chanceOf = battle[bd]["chanceOf"]
+            chanceOfSplit = chanceOf.split("%")
+            chanceOfName = upgrades_dat[chanceOfSplit[0]]["name"]
+            chanceOfPercent = "{:.2f}".format(int(chanceOfSplit[1].split("/")[0]) / int(chanceOfSplit[1].split("/")[1]) * 100) + "%"
+            battleFormatted[bd]["chanceOf"] = chanceOfName + "-" + chanceOfPercent
         else:    
             battleFormatted[bd] = battle[bd]
     return battleFormatted, enemyCount
@@ -87,46 +96,15 @@ def formatLinearHeroEvent():
                     lheFormatted[lheName][d][str(m["scorePoints"])] = chests_dat[m["chestId"]][0]["rewards"]
             else:
                 lheFormatted[lheName][d] = heroEvent_dat[lhe][d]
-    with open(fName, 'w') as w:
-        json.dump(lheFormatted, w, indent=4)     
+    return(lheFormatted)    
 
-formatLinearHeroEvent()
-enemy_list = {}
-
-
-for tiers in heroEvent_dat[1]["tiers"]:
-    battle_num = 1
-    enemy_list[tier_list[str(tier_num)]] = {}
-    for battle in tiers["battles"]:
-        enemy_list[tier_list[str(tier_num)]][battle_num] = battle["enemies"]
-        battle_num += 1
-    tier_num += 1    
-#print(enemy_list)
-
-enemy_dict = {}
-for t in enemy_list:
-    enemy_dict[t] = {}
-    for b in enemy_list[t]:
-        e_list = {}
-        for enemy in enemy_list[t][b]:
-            enemy_split = enemy.split(":")
-            enemy_name_lookup = enemy_split[0]
-            if "powup" in enemy_name_lookup:
-                continue
-            enemy_name = npc_dat[enemy_name_lookup]["name"]
-            enemy_rank = enemy_split[1]
-            if enemy_name in e_list:
-                e_list[enemy_name] += 1
-            else:
-                e_list[enemy_name] = 1
-        enemy_dict[t][b] = e_list
-        
+lheFormatted = formatLinearHeroEvent()
 with open(fName, 'w') as w:
-    json.dump(lheFormatted, w, indent=4) 
- 
-print(enemy_dict)
-squig_list = {}
-#for t in enemy_dict:
-#    for b in enemy_dict[t]:
- #       for e in enemy_dict[t][b]:
- #           if e == "orksNpc7Squig"
+        json.dump(lheFormatted, w, indent=4)
+
+arch_loot = {}        
+for tiers in lheFormatted["Archimatos Quest"]["tiers"]:
+    for battle in lheFormatted["Archimatos Quest"]["tiers"][tiers]:
+        arch_loot[tiers + " " + battle] = lheFormatted["Archimatos Quest"]["tiers"][tiers][battle]["loot"]["chanceOf"]
+for arch in arch_loot:
+    print(arch + ":" + arch_loot[arch])

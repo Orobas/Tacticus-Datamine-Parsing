@@ -24,6 +24,10 @@ with open('common_values.json', 'r') as file:
 lreFormatted = {}
 lreFormatted["Expired"] = {}
 lreFormatted["Active"] = {}
+
+def formatBattle():
+    
+
 def formatLegendaryReleaseEvent():
     for event in lre_dat:
         num = event.split("_")[-1]

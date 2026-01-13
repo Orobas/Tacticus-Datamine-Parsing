@@ -1,0 +1,84 @@
+{
+    "timed_reminder_anniversary_24": {
+        "startDate": 1722470400000,
+        "endDate": 1723680000000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 3,
+        "viewCommandsConfigIds": [
+            "vc_popup_anniversary2024"
+        ]
+    },
+    "timed_reminder_sm2": {
+        "startDate": 1724630400000,
+        "endDate": 1725062400000,
+        "reminderFrequencyInDays": 3,
+        "maxOccurencesToShow": 2,
+        "viewCommandsConfigIds": [
+            "vc_popup_sm2"
+        ]
+    },
+    "timed_reminder_tacticians_club_v2": {
+        "startDate": 1743465600000,
+        "endDate": 4102441199000,
+        "reminderFrequencyInDays": 1,
+        "maxOccurencesToShow": 1,
+        "viewCommandsConfigIds": [
+            "vc_popup_loyalty_promo"
+        ],
+        "viewLockId": "viewlock_tacticians_club_popup"
+    },
+    "timed_reminder_anniversary_25": {
+        "startDate": 1753401600000,
+        "endDate": 1754265600000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 3,
+        "viewCommandsConfigIds": [
+            "vc_popup_anniversary2025"
+        ]
+    },
+    "timed_reminder_mythic_01": {
+        "startDate": 1756339200000,
+        "endDate": 1756598400000,
+        "reminderFrequencyInDays": 2,
+        "maxOccurencesToShow": 2,
+        "viewCommandsConfigIds": [
+            "vc_popup_mythic01"
+        ]
+    },
+    "timed_reminder_halloween_25": {
+        "startDate": 1760659200000,
+        "endDate": 1761350400000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 3,
+        "viewCommandsConfigIds": [
+            "vc_popup_halloween2025"
+        ]
+    },
+    "timed_reminder_december_25": {
+        "startDate": 1764028800000,
+        "endDate": 1764374400000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 2,
+        "viewCommandsConfigIds": [
+            "vc_popup_december_2025"
+        ]
+    },
+    "timed_reminder_holidays_25": {
+        "startDate": 1765843200000,
+        "endDate": 1766534400000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 3,
+        "viewCommandsConfigIds": [
+            "vc_popup_holidays2025"
+        ]
+    },
+    "timed_reminder_february_26": {
+        "startDate": 1769731200000,
+        "endDate": 1770422400000,
+        "reminderFrequencyInDays": 4,
+        "maxOccurencesToShow": 3,
+        "viewCommandsConfigIds": [
+            "vc_popup_february_2026"
+        ]
+    }
+}

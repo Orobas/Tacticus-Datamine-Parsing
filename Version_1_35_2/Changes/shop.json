@@ -1,0 +1,3153 @@
+{
+    "added": {
+        "realMoneyProducts": {
+            "product_xp_coins_stamina_1_epic_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00499",
+                "price": 499,
+                "mercadoId": "offer_00499",
+                "rewards": [
+                    "stamina:120",
+                    "raidTicket:20",
+                    "xpLegendary:3",
+                    "xpEpic:15",
+                    "gold:3750"
+                ]
+            },
+            "product_xp_coins_stamina_1_rare_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00199",
+                "price": 199,
+                "mercadoId": "offer_00199",
+                "rewards": [
+                    "stamina:120",
+                    "raidTicket:20",
+                    "xpRare:10",
+                    "gold:500"
+                ]
+            },
+            "product_reqs_gems_stamina_dust_1_001_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_03499",
+                "price": 3499,
+                "mercadoId": "offer_03499",
+                "rewards": [
+                    "summoningToken:15",
+                    "gems:500",
+                    "stamina:180",
+                    "raidTicket:30",
+                    "dust:750"
+                ]
+            },
+            "product_reqs_gems_stamina_dust_1_002_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_02499",
+                "price": 2499,
+                "mercadoId": "offer_02499",
+                "rewards": [
+                    "summoningToken:10",
+                    "gems:500",
+                    "stamina:180",
+                    "raidTicket:30",
+                    "dust:500"
+                ]
+            },
+            "product_reqs_gems_stamina_dust_1_003_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01499",
+                "price": 1499,
+                "mercadoId": "offer_01499",
+                "rewards": [
+                    "summoningToken:5",
+                    "gems:400",
+                    "stamina:180",
+                    "raidTicket:30",
+                    "dust:275"
+                ]
+            },
+            "product_reqs_gems_stamina_dust_1_004_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_00799",
+                "price": 799,
+                "mercadoId": "offer_00799",
+                "rewards": [
+                    "summoningToken:4",
+                    "gems:100",
+                    "stamina:60",
+                    "raidTicket:10",
+                    "dust:50"
+                ]
+            },
+            "product_requisitions_xp_003_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_02399",
+                "price": 2399,
+                "mercadoId": "offer_02399",
+                "rewards": [
+                    "specialSummoningToken:8",
+                    "summoningToken:5",
+                    "xpEpic:5",
+                    "xpRare:8",
+                    "gold:1150"
+                ]
+            },
+            "product_requisitions_xp_004_01": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01399",
+                "price": 1399,
+                "mercadoId": "offer_01399",
+                "rewards": [
+                    "specialSummoningToken:4",
+                    "summoningToken:4",
+                    "xpRare:5",
+                    "xpUncommon:5",
+                    "gold:325"
+                ]
+            },
+            "product_eventCampaign_all_playmore_l": {
+                "category": "Campaign Bundles",
+                "nativeStoreProductType": "Consumable",
+                "nativeStoreProductId": "com.snowprintstudios.tacticus.iap.offer_01399",
+                "price": 1399,
+                "mercadoId": "offer_01399",
+                "rewards": [
+                    "tieredRewardPoints_campaign_event:40",
+                    "stamina:390",
+                    "stamina_waves:3",
+                    "stamina_treasureBeach:2",
+                    "raidTicket:65"
+                ]
+            }
+        }
+    },
+    "changed": {
+        "offers": {
+            "503": {
+                "realMoneyProductId": {
+                    "oldValue": "product_xp_coins_stamina_1_epic",
+                    "newValue": "product_xp_coins_stamina_1_epic_01"
+                }
+            },
+            "504": {
+                "realMoneyProductId": {
+                    "oldValue": "product_xp_coins_stamina_1_rare",
+                    "newValue": "product_xp_coins_stamina_1_rare_01"
+                }
+            },
+            "505": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_001",
+                    "newValue": "product_reqs_gems_stamina_dust_1_001_01"
+                }
+            },
+            "506": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_002",
+                    "newValue": "product_reqs_gems_stamina_dust_1_002_01"
+                }
+            },
+            "507": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_003",
+                    "newValue": "product_reqs_gems_stamina_dust_1_003_01"
+                }
+            },
+            "508": {
+                "realMoneyProductId": {
+                    "oldValue": "product_reqs_gems_stamina_dust_1_004",
+                    "newValue": "product_reqs_gems_stamina_dust_1_004_01"
+                }
+            },
+            "511": {
+                "realMoneyProductId": {
+                    "oldValue": "product_requisitions_xp_003",
+                    "newValue": "product_requisitions_xp_003_01"
+                }
+            },
+            "512": {
+                "realMoneyProductId": {
+                    "oldValue": "product_requisitions_xp_004",
+                    "newValue": "product_requisitions_xp_004_01"
+                }
+            }
+        },
+        "productViewConfigs": {
+            "offer_seasonal_event_february_2026_avatar_special_offer": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "seasonal_february_2026_seasonalSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle_carousel",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=Ultramarines"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=AdeptusMechanicus"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "seasonal_february_2026_seasonalSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=AdeptusMechanicus"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=AdeptusMechanicus"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_seasonal_event_february_2026_special_bundle_carousel",
+                        "Priority": -6,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "unit_id=admecMarshall",
+                            "hero_unlocked_image=offer_productimage_february_2026_bundle",
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_avatar_special_offer]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_UniqueAvatar]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_avatar_special_offer]",
+                            "faction=AdeptusMechanicus"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_deathCrawler": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=deathCrawler",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=DeathGuard"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_tauBroadside": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tauBroadside",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tau"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_blackForgefiend": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=blackForgefiend",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=BlackLegion"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_thousDaemonPrince": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=thousDaemonPrince",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=ThousandSons"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_astraOrdnanceBattery": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=astraOrdnanceBattery",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=AstraMilitarum"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_ultraDreadnought": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=ultraDreadnought",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Ultramarines"
+                        ]
+                    }
+                ]
+            },
+            "offer_loyalty_currency_february_2026_base": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_TacticiansClub]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_TacticiansClub]",
+                            "corner_text=[term:Offers/SpecialOffer_LoyaltyProgram_value_tag_timing_weekly]",
+                            "offer_background=offer_background_february_2026",
+                            "offer_image=offer_productimage_february_2026",
+                            "offer_frame=offer_frame_february_2026"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_TacticiansClub]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_TacticiansClub]",
+                            "corner_text=[term:Offers/SpecialOffer_LoyaltyProgram_value_tag_timing_weekly]",
+                            "offer_background=offer_background_february_2026",
+                            "offer_image=offer_productimage_february_2026_bundle",
+                            "offer_frame=offer_frame_february_2026"
+                        ]
+                    }
+                }
+            },
+            "offer_seasonal_event_february_2026_webstore_free": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Free]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Free]",
+                            "unitId=orksWarboss",
+                            "offer_image=offer_heroes_{unitId}"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Free]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Free]",
+                            "unitId=votanUthar",
+                            "offer_image=offer_heroes_{unitId}"
+                        ]
+                    }
+                }
+            },
+            "offer_mowe_bonus_shards_tyranBiovore": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=tyranBiovore",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Tyranids"
+                        ]
+                    }
+                ]
+            },
+            "offer_mowe_bonus_shards_adeptExorcist": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=adeptExorcist",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Sisterhood"
+                        ]
+                    }
+                ]
+            },
+            "offer_seasonal_event_february_2026_webstore_exclusive_02": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_holidays_2024_bundle"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_february_2026_bundle"
+                        ]
+                    }
+                }
+            },
+            "offer_seasonal_event_february_2026_webstore_exclusive_01": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_holidays_2024_bundle"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_february_2026_bundle"
+                        ]
+                    }
+                }
+            },
+            "offer_seasonal_event_february_2026_webstore_exclusive_03": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_holidays_2024_bundle"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_february_2026_bundle"
+                        ]
+                    }
+                }
+            },
+            "offer_mowe_bonus_shards_orksRukkatrukk": {
+                "oldValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:200",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=200",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    }
+                ],
+                "newValue": [
+                    {
+                        "DisplayLocationId": "specialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "moweSpecialOffer",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomeScreen",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_carousel",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_carousel",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "HomePopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    },
+                    {
+                        "DisplayLocationId": "SubscriptionPopup",
+                        "ProductViewLayoutConfigId": "pv_offer_mowe_bonus_shards_subscription",
+                        "Priority": 2,
+                        "ProductViewTemplateConfig": {
+                            "ProductViewLayoutTemplateId": "offerlayout_default",
+                            "Width": 1024,
+                            "Height": 620,
+                            "NumPerRow": 1,
+                            "Spacing": 0
+                        },
+                        "Parameters": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_offer_mowe_bonus_shards_v2]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_offer_mowe_bonus_shards]",
+                            "reward_1=machinesOfWarAmmo:10",
+                            "reward_2=gems:500",
+                            "[INSTANT_REWARD_1_AMOUNT]={possible_reward_amount_mowe_event}",
+                            "EXTRA_REWARD_1_AMOUNT={mowe_event_bonus_reward_shards_amount}",
+                            "SHOW_MISSION=TRUE",
+                            "AMOUNT_gems=500",
+                            "AMOUNT_munition=10",
+                            "CURRENT_AMOUNT={mow_event_bonus_reward_event_currency_amount}",
+                            "CURRENT_AMOUNT_2={mow_event_bonus_reward_event_currency_amount_2}",
+                            "EVENT_HERO=[term:Units/{unitId}_ShortName]",
+                            "unitId=orksRukkatrukk",
+                            "featured_mow_offer_image=offer_mow_{unitId}",
+                            "FACTION=Orks"
+                        ]
+                    }
+                ]
+            },
+            "offer_seasonal_event_february_2026_webstore_exclusive_04": {
+                "0": {
+                    "Parameters": {
+                        "oldValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_holidays_2024_bundle"
+                        ],
+                        "newValue": [
+                            "header_term=[term:Offers/SpecialOffer_TitleText_february_2026_Webstore_Exclusive]",
+                            "banner_term=[term:Offers/SpecialOffer_BannerText_Celebrate]",
+                            "description_term=[term:Offers/SpecialOffer_ExplanatoryText_february_2026_Webstore_Exclusive]",
+                            "offer_image=offer_productimage_february_2026_bundle"
+                        ]
+                    }
+                }
+            }
+        },
+        "realMoneyProducts": {
+            "product_holidays_2025_guild_social_large": {
+                "rewards": {
+                    "oldValue": [
+                        "summoningToken:1",
+                        "gems:100",
+                        "guildCredits:750",
+                        "sharedInSocial_summoningToken:1",
+                        "sharedInSocial_gems:30",
+                        "sharedInGuild_guildCredits:750"
+                    ],
+                    "newValue": [
+                        "summoningToken:1",
+                        "gems:100",
+                        "guildCredits:750",
+                        "sharedInSocial_summoningToken:1",
+                        "sharedInSocial_gems:100",
+                        "sharedInGuild_guildCredits:750"
+                    ]
+                }
+            }
+        }
+    }
+}

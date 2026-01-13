@@ -1,0 +1,780 @@
+{
+    "survival_holidays_2025": [
+        {
+            "tier": 0,
+            "battleNr": 0,
+            "boardId": "survival_10",
+            "power": 15573971390,
+            "waves": [
+                {
+                    "round": 1,
+                    "power": 413,
+                    "army": [
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement",
+                        "powupBomb"
+                    ],
+                    "armyScore": 100
+                },
+                {
+                    "round": 3,
+                    "power": 442,
+                    "army": [
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcementShield",
+                        "powupMeleeHits"
+                    ],
+                    "armyScore": 150
+                },
+                {
+                    "round": 5,
+                    "power": 591,
+                    "army": [
+                        "orksNpc2OrkBoy:5",
+                        "orksNpc2OrkBoy:5",
+                        "orksNpc2OrkBoy:5",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5",
+                        "orksNpc7Squig:5"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupDamage",
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 150,
+                    "rarityUpgradeOnCompletion": "Uncommon"
+                },
+                {
+                    "round": 8,
+                    "power": 1738,
+                    "army": [
+                        "orksNpc7Squig:7",
+                        "orksNpc7Squig:7",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupBomb",
+                        "powupHits"
+                    ],
+                    "armyScore": 200
+                },
+                {
+                    "round": 10,
+                    "power": 2080,
+                    "army": [
+                        "orksNpc1Grot:10",
+                        "orksNpc1Grot:10",
+                        "orksNpc1Grot:10",
+                        "orksNpc1Grot:10",
+                        "orksNpc3GrotTank:10",
+                        "orksNpc3GrotTank:10",
+                        "orksNpc3GrotTank:10",
+                        "orksNpc3GrotTank:10"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement",
+                        "powupHealing"
+                    ],
+                    "armyScore": 250,
+                    "rarityUpgradeOnCompletion": "Rare"
+                },
+                {
+                    "round": 12,
+                    "power": 12820,
+                    "army": [
+                        "orksNpc7Squig:11",
+                        "orksNpc7Squig:11",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18",
+                        "orksNpc2OrkBoy:18"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupArmor"
+                    ],
+                    "armyScore": 400
+                },
+                {
+                    "round": 14,
+                    "power": 16630,
+                    "army": [
+                        "orksNpc3GrotTank:18",
+                        "orksNpc3GrotTank:18",
+                        "orksNpc3GrotTank:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18",
+                        "orksNpc7Squig:18"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement",
+                        "powupReinforcementShield"
+                    ],
+                    "armyScore": 450,
+                    "rarityUpgradeOnCompletion": "Epic"
+                },
+                {
+                    "round": 16,
+                    "power": 51763,
+                    "army": [
+                        "orksNpc1Grot:16",
+                        "orksNpc1Grot:16",
+                        "orksNpc2OrkBoy:31",
+                        "orksNpc2OrkBoy:31",
+                        "orksNpc2OrkBoy:31",
+                        "orksNpc2OrkBoy:31",
+                        "orksNpc2OrkBoy:31",
+                        "orksNpc6Stormboy:30",
+                        "orksNpc6Stormboy:30"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing",
+                        "powupBomb"
+                    ],
+                    "armyScore": 600
+                },
+                {
+                    "round": 18,
+                    "power": 90956,
+                    "army": [
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc3GrotTank:33",
+                        "orksNpc3GrotTank:33",
+                        "orksNpc3GrotTank:33",
+                        "orksNpc6Stormboy:31",
+                        "orksNpc6Stormboy:31",
+                        "orksNpc6Stormboy:31",
+                        "orksNpc6Stormboy:31"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealth"
+                    ],
+                    "armyScore": 600
+                },
+                {
+                    "round": 20,
+                    "power": 220710,
+                    "army": [
+                        "orksNpc7Squig:36",
+                        "orksNpc7Squig:36",
+                        "orksNpc7Squig:36",
+                        "orksNpc7Squig:36",
+                        "orksNpc7Squig:36",
+                        "orksNpc2OrkBoy:35",
+                        "orksNpc2OrkBoy:35",
+                        "orksNpc2OrkBoy:35",
+                        "orksNpc2OrkBoy:35",
+                        "orksNpc2OrkBoy:35"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement",
+                        "powupMeleeHits"
+                    ],
+                    "armyScore": 650,
+                    "rarityUpgradeOnCompletion": "Legendary"
+                },
+                {
+                    "round": 22,
+                    "power": 392219,
+                    "army": [
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 650
+                },
+                {
+                    "round": 24,
+                    "power": 610288,
+                    "army": [
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc3GrotTank:39",
+                        "orksNpc3GrotTank:39",
+                        "orksNpc3GrotTank:39",
+                        "orksNpc3GrotTank:39"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupDamage"
+                    ],
+                    "armyScore": 1000
+                },
+                {
+                    "round": 26,
+                    "power": 1709406,
+                    "army": [
+                        "orksBossKillaKan:6",
+                        "orksBossBigMek:6",
+                        "orksNpc7Squig:43",
+                        "orksNpc7Squig:43",
+                        "orksNpc7Squig:43",
+                        "orksNpc7Squig:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupBomb"
+                    ],
+                    "armyScore": 1000
+                },
+                {
+                    "round": 28,
+                    "power": 2180486,
+                    "army": [
+                        "orksBossNob:4",
+                        "orksBossRuntherd:5",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42",
+                        "orksNpc2OrkBoy:42"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 1500,
+                    "rarityUpgradeOnCompletion": "Mythic"
+                },
+                {
+                    "round": 30,
+                    "power": 2797361,
+                    "army": [
+                        "orksNpc7Squig:40",
+                        "orksNpc7Squig:40",
+                        "orksNpc2OrkBoy:49",
+                        "orksNpc2OrkBoy:49",
+                        "orksNpc2OrkBoy:49",
+                        "orksNpc2OrkBoy:49",
+                        "orksNpc2OrkBoy:49",
+                        "orksNpc3GrotTank:48",
+                        "orksNpc3GrotTank:48",
+                        "orksNpc3GrotTank:48"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 32,
+                    "power": 3690728,
+                    "army": [
+                        "orksNpc2OrkBoy:50",
+                        "orksNpc2OrkBoy:50",
+                        "orksNpc2OrkBoy:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50",
+                        "orksNpc7Squig:50"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupBomb"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 34,
+                    "power": 5225743,
+                    "army": [
+                        "orksNpcWarbossSurv:1",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc3GrotTank:53",
+                        "orksNpc3GrotTank:53",
+                        "orksNpc1Grot:54",
+                        "orksNpc1Grot:54",
+                        "orksNpc1Grot:54"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 37,
+                    "power": 15556967016,
+                    "army": [
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3"
+                    ],
+                    "armyScore": 1500
+                }
+            ],
+            "disallowedFactions": [
+                "Ultramarines",
+                "Sisterhood",
+                "AstraMilitarum",
+                "BlackLegion",
+                "DeathGuard",
+                "BlackTemplars",
+                "SpaceWolves",
+                "ThousandSons",
+                "DarkAngels",
+                "AdeptusMechanicus",
+                "WorldEaters",
+                "BloodAngels",
+                "Custodes",
+                "EmperorsChildren"
+            ]
+        }
+    ],
+    "survival_february_2026": [
+        {
+            "tier": 0,
+            "battleNr": 0,
+            "boardId": "survival_11",
+            "power": 15576304239,
+            "waves": [
+                {
+                    "round": 1,
+                    "power": 295,
+                    "army": [
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 100
+                },
+                {
+                    "round": 3,
+                    "power": 413,
+                    "army": [
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcementShield",
+                        "powupHealing"
+                    ],
+                    "armyScore": 150
+                },
+                {
+                    "round": 5,
+                    "power": 530,
+                    "army": [
+                        "orksNpc3GrotTank:5",
+                        "orksNpc3GrotTank:5",
+                        "orksNpc3GrotTank:5",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7",
+                        "orksNpc1Grot:7"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupDamage",
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 150,
+                    "rarityUpgradeOnCompletion": "Uncommon"
+                },
+                {
+                    "round": 8,
+                    "power": 1513,
+                    "army": [
+                        "orksNpc1Grot:6",
+                        "orksNpc1Grot:6",
+                        "orksNpc1Grot:6",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9",
+                        "orksNpc3GrotTank:9"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHeroSpawn_Uthar"
+                    ],
+                    "armyScore": 200
+                },
+                {
+                    "round": 10,
+                    "power": 2035,
+                    "army": [
+                        "orksNpc3GrotTank:11",
+                        "orksNpc3GrotTank:11",
+                        "orksNpc1Grot:10",
+                        "orksNpc7Squig:9",
+                        "orksNpc7Squig:9",
+                        "orksNpc7Squig:9"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing",
+                        "powupReactivateAbility"
+                    ],
+                    "armyScore": 250,
+                    "rarityUpgradeOnCompletion": "Rare"
+                },
+                {
+                    "round": 12,
+                    "power": 16221,
+                    "army": [
+                        "orksNpc7Squig:10",
+                        "orksNpc7Squig:10",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc2OrkBoy:20",
+                        "orksNpc2OrkBoy:20"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupArmor",
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 400
+                },
+                {
+                    "round": 14,
+                    "power": 19411,
+                    "army": [
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc2OrkBoy:19",
+                        "orksNpc7Squig:19",
+                        "orksNpc7Squig:19",
+                        "orksNpc7Squig:19",
+                        "orksNpc7Squig:19"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReactivateAbility",
+                        "powupReinforcementShield"
+                    ],
+                    "armyScore": 450,
+                    "rarityUpgradeOnCompletion": "Epic"
+                },
+                {
+                    "round": 16,
+                    "power": 53136,
+                    "army": [
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc3GrotTank:19",
+                        "orksNpc2OrkBoy:29",
+                        "orksNpc2OrkBoy:29",
+                        "orksNpc2OrkBoy:29",
+                        "orksNpc7Squig:30",
+                        "orksNpc7Squig:30",
+                        "orksNpc7Squig:30",
+                        "orksNpc7Squig:30"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing",
+                        "powupHits"
+                    ],
+                    "armyScore": 600
+                },
+                {
+                    "round": 18,
+                    "power": 120552,
+                    "army": [
+                        "orksNpcBigMek:13",
+                        "orksNpc3GrotTank:31",
+                        "orksNpc3GrotTank:31",
+                        "orksNpc3GrotTank:31",
+                        "orksNpc3GrotTank:31",
+                        "orksNpc3GrotTank:31",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33",
+                        "orksNpc1Grot:33"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealth",
+                        "powupReactivateAbility"
+                    ],
+                    "armyScore": 600
+                },
+                {
+                    "round": 20,
+                    "power": 109527,
+                    "army": [
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc2OrkBoy:32",
+                        "orksNpc7Squig:32",
+                        "orksNpc7Squig:32",
+                        "orksNpc7Squig:32",
+                        "orksNpc7Squig:32"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement",
+                        "powupMeleeHits"
+                    ],
+                    "armyScore": 650,
+                    "rarityUpgradeOnCompletion": "Legendary"
+                },
+                {
+                    "round": 22,
+                    "power": 421316,
+                    "army": [
+                        "orksNpc7Squig:33",
+                        "orksNpc7Squig:33",
+                        "orksNpc7Squig:33",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39",
+                        "orksNpc2OrkBoy:39"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 650
+                },
+                {
+                    "round": 24,
+                    "power": 1001438,
+                    "army": [
+                        "orksNpcKillaKan:14",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc3GrotTank:43",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44",
+                        "orksNpc1Grot:44"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupResurrect",
+                        "powupDamage"
+                    ],
+                    "armyScore": 1000
+                },
+                {
+                    "round": 26,
+                    "power": 1696614,
+                    "army": [
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc3GrotTank:44",
+                        "orksNpc3GrotTank:44",
+                        "orksNpc3GrotTank:44",
+                        "orksNpc3GrotTank:44",
+                        "orksNpc3GrotTank:44",
+                        "orksNpc3GrotTank:44"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReactivateAbility"
+                    ],
+                    "armyScore": 1000
+                },
+                {
+                    "round": 28,
+                    "power": 2219805,
+                    "army": [
+                        "orksNpcNob:16",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc7Squig:45",
+                        "orksNpc1Grot:45",
+                        "orksNpc1Grot:45",
+                        "orksNpc1Grot:45",
+                        "orksNpc1Grot:45"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 1500,
+                    "rarityUpgradeOnCompletion": "Mythic"
+                },
+                {
+                    "round": 30,
+                    "power": 2823615,
+                    "army": [
+                        "orksBossRuntherd:5",
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc2OrkBoy:44",
+                        "orksNpc7Squig:48",
+                        "orksNpc7Squig:48",
+                        "orksNpc7Squig:48",
+                        "orksNpc6Stormboy:48",
+                        "orksNpc6Stormboy:48",
+                        "orksNpc6Stormboy:48",
+                        "orksNpc6Stormboy:48",
+                        "orksNpc6Stormboy:48"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReinforcement"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 32,
+                    "power": 3311320,
+                    "army": [
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52",
+                        "orksNpc2OrkBoy:52"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupReactivateAbility"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 34,
+                    "power": 7539482,
+                    "army": [
+                        "orksNpcWarbossSurv:1",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc3GrotTank:54",
+                        "orksNpc1Grot:56",
+                        "orksNpc1Grot:56"
+                    ],
+                    "armyAfterCompletion": [
+                        "powupHealing"
+                    ],
+                    "armyScore": 1500
+                },
+                {
+                    "round": 37,
+                    "power": 15556967016,
+                    "army": [
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3",
+                        "orksNpc7SquigSurv:3"
+                    ],
+                    "armyScore": 1500
+                }
+            ],
+            "disallowedFactions": [
+                "BlackTemplars",
+                "BloodAngels",
+                "DarkAngels",
+                "SpaceWolves",
+                "Necrons",
+                "BlackLegion",
+                "DeathGuard",
+                "Tyranids",
+                "Orks",
+                "Aeldari",
+                "Tau",
+                "ThousandSons",
+                "WorldEaters",
+                "Genestealers",
+                "EmperorsChildren"
+            ]
+        }
+    ]
+}

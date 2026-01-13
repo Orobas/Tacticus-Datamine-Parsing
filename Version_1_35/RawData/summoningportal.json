@@ -1,0 +1,1074 @@
+{
+    "summoningPortal1": {
+        "dropTable": "summoningPortal1",
+        "preferredCost": {
+            "summoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 300
+        },
+        "mercyRoot": "summoningPortal"
+    },
+    "summoningPortal10": {
+        "dropTable": "summoningPortal10",
+        "preferredCost": {
+            "summoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 3000
+        },
+        "mercyRoot": "summoningPortal",
+        "hasDecoration": true
+    },
+    "sp_spec_banner_SE_RedGobbo_1": {
+        "dropTable": "sp_spec_banner_SE_RedGobbo_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_RedGobbo",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_RedGobbo_10": {
+        "dropTable": "sp_spec_banner_SE_RedGobbo_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_RedGobbo",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_CE1_1": {
+        "dropTable": "sp_spec_banner_CE1_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_CE1",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_CE1_10": {
+        "dropTable": "sp_spec_banner_CE1_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_CE1",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_bloodDante_1": {
+        "dropTable": "sp_spec_banner_LEG_bloodDante_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_bloodDante",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_bloodDante_10": {
+        "dropTable": "sp_spec_banner_LEG_bloodDante_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_bloodDante",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_worldKharn_1": {
+        "dropTable": "sp_spec_banner_LEG_worldKharn_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_worldKharn",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_worldKharn_10": {
+        "dropTable": "sp_spec_banner_LEG_worldKharn_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_worldKharn",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Imperial_1": {
+        "dropTable": "sp_spec_banner_GW_Imperial_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_GW_Imperial",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Imperial_10": {
+        "dropTable": "sp_spec_banner_GW_Imperial_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_GW_Imperial",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Xenos_1": {
+        "dropTable": "sp_spec_banner_GW_Xenos_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_GW_Xenos",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Xenos_10": {
+        "dropTable": "sp_spec_banner_GW_Xenos_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_GW_Xenos",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Chaos_1": {
+        "dropTable": "sp_spec_banner_GW_Chaos_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_GW_Chaos",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_GW_Chaos_10": {
+        "dropTable": "sp_spec_banner_GW_Chaos_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_GW_Chaos",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_May2025_1": {
+        "dropTable": "sp_spec_banner_SE_May2025_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_May2025",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_May2025_10": {
+        "dropTable": "sp_spec_banner_SE_May2025_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_May2025",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_custoTrajann_1": {
+        "dropTable": "sp_spec_banner_LEG_custoTrajann_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_custoTrajann",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_custoTrajann_10": {
+        "dropTable": "sp_spec_banner_LEG_custoTrajann_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_custoTrajann",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Tau_1": {
+        "dropTable": "sp_spec_banner_Faction_Tau_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Tau",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Tau_10": {
+        "dropTable": "sp_spec_banner_Faction_Tau_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Tau",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_adeptExorcist_1": {
+        "dropTable": "sp_spec_banner_MoW_adeptExorcist_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_MoW_adeptExorcist",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_adeptExorcist_10": {
+        "dropTable": "sp_spec_banner_MoW_adeptExorcist_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_MoW_adeptExorcist",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_bloodMephiston_1": {
+        "dropTable": "sp_spec_banner_LEG_bloodMephiston_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_bloodMephiston",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_bloodMephiston_10": {
+        "dropTable": "sp_spec_banner_LEG_bloodMephiston_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_bloodMephiston",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_SpaceWolves_1": {
+        "dropTable": "sp_spec_banner_Faction_SpaceWolves_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_SpaceWolves",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_SpaceWolves_10": {
+        "dropTable": "sp_spec_banner_Faction_SpaceWolves_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_SpaceWolves",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_Anniversary2025_1": {
+        "dropTable": "sp_spec_banner_SE_Anniversary2025_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_Anniversary2025",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_Anniversary2025_10": {
+        "dropTable": "sp_spec_banner_SE_Anniversary2025_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_Anniversary2025",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_emperLucius_1": {
+        "dropTable": "sp_spec_banner_LEG_emperLucius_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_emperLucius",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_emperLucius_10": {
+        "dropTable": "sp_spec_banner_LEG_emperLucius_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_emperLucius",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Orks_1": {
+        "dropTable": "sp_spec_banner_Faction_Orks_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Orks",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Orks_10": {
+        "dropTable": "sp_spec_banner_Faction_Orks_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Orks",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_DeathGuard_1": {
+        "dropTable": "sp_spec_banner_Faction_DeathGuard_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_DeathGuard",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_DeathGuard_10": {
+        "dropTable": "sp_spec_banner_Faction_DeathGuard_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_DeathGuard",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_CommunityChoice_1": {
+        "dropTable": "sp_spec_banner_CommunityChoice_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_CommunityChoice",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_CommunityChoice_10": {
+        "dropTable": "sp_spec_banner_CommunityChoice_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_CommunityChoice",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MythicEventSupport_1": {
+        "dropTable": "sp_spec_banner_MythicEventSupport_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_MythicEventSupport",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MythicEventSupport_10": {
+        "dropTable": "sp_spec_banner_MythicEventSupport_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_MythicEventSupport",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Sisterhood_1": {
+        "dropTable": "sp_spec_banner_Faction_Sisterhood_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Sisterhood",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Sisterhood_10": {
+        "dropTable": "sp_spec_banner_Faction_Sisterhood_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Sisterhood",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_WorldEaters_1": {
+        "dropTable": "sp_spec_banner_Faction_WorldEaters_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_WorldEaters",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_WorldEaters_10": {
+        "dropTable": "sp_spec_banner_Faction_WorldEaters_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_WorldEaters",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_BlackLegion_1": {
+        "dropTable": "sp_spec_banner_Faction_BlackLegion_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_BlackLegion",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_BlackLegion_10": {
+        "dropTable": "sp_spec_banner_Faction_BlackLegion_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_BlackLegion",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SyncPvp_InfestedPowerUps_1": {
+        "dropTable": "sp_spec_banner_SyncPvp_InfestedPowerUps_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SyncPvp_InfestedPowerUps",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SyncPvp_InfestedPowerUps_10": {
+        "dropTable": "sp_spec_banner_SyncPvp_InfestedPowerUps_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SyncPvp_InfestedPowerUps",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_orksRukkatrukk_1": {
+        "dropTable": "sp_spec_banner_MoW_orksRukkatrukk_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_MoW_orksRukkatrukk",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_orksRukkatrukk_10": {
+        "dropTable": "sp_spec_banner_MoW_orksRukkatrukk_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_MoW_orksRukkatrukk",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_genesPatriarch_1": {
+        "dropTable": "sp_spec_banner_LEG_genesPatriarch_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_genesPatriarch",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_genesPatriarch_10": {
+        "dropTable": "sp_spec_banner_LEG_genesPatriarch_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_genesPatriarch",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_BlackTemplars_1": {
+        "dropTable": "sp_spec_banner_Faction_BlackTemplars_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_BlackTemplars",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_BlackTemplars_10": {
+        "dropTable": "sp_spec_banner_Faction_BlackTemplars_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_BlackTemplars",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_Halloween2025_1": {
+        "dropTable": "sp_spec_banner_SE_Halloween2025_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_Halloween2025",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_Halloween2025_10": {
+        "dropTable": "sp_spec_banner_SE_Halloween2025_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_Halloween2025",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Ultramarines_1": {
+        "dropTable": "sp_spec_banner_Faction_Ultramarines_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Ultramarines",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Ultramarines_10": {
+        "dropTable": "sp_spec_banner_Faction_Ultramarines_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Ultramarines",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_AdeptusMechanicus_1": {
+        "dropTable": "sp_spec_banner_Faction_AdeptusMechanicus_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_AdeptusMechanicus",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_AdeptusMechanicus_10": {
+        "dropTable": "sp_spec_banner_Faction_AdeptusMechanicus_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_AdeptusMechanicus",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_ThousandSons_1": {
+        "dropTable": "sp_spec_banner_Faction_ThousandSons_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_ThousandSons",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_ThousandSons_10": {
+        "dropTable": "sp_spec_banner_Faction_ThousandSons_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_ThousandSons",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Tyranids_1": {
+        "dropTable": "sp_spec_banner_Faction_Tyranids_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Tyranids",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Tyranids_10": {
+        "dropTable": "sp_spec_banner_Faction_Tyranids_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Tyranids",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Aeldari_1": {
+        "dropTable": "sp_spec_banner_Faction_Aeldari_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Aeldari",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Aeldari_10": {
+        "dropTable": "sp_spec_banner_Faction_Aeldari_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Aeldari",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_thousDaemonPrince_1": {
+        "dropTable": "sp_spec_banner_MoW_thousDaemonPrince_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_MoW_thousDaemonPrince",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_MoW_thousDaemonPrince_10": {
+        "dropTable": "sp_spec_banner_MoW_thousDaemonPrince_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_MoW_thousDaemonPrince",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_tauFarsight_1": {
+        "dropTable": "sp_spec_banner_LEG_tauFarsight_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_LEG_tauFarsight",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_LEG_tauFarsight_10": {
+        "dropTable": "sp_spec_banner_LEG_tauFarsight_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_LEG_tauFarsight",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Necrons_1": {
+        "dropTable": "sp_spec_banner_Faction_Necrons_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Necrons",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_Necrons_10": {
+        "dropTable": "sp_spec_banner_Faction_Necrons_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_Necrons",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_HealerAndMechanics_1": {
+        "dropTable": "sp_spec_banner_HealerAndMechanics_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_HealerAndMechanics",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_HealerAndMechanics_10": {
+        "dropTable": "sp_spec_banner_HealerAndMechanics_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_HealerAndMechanics",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_February2026_1": {
+        "dropTable": "sp_spec_banner_SE_February2026_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_February2026",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_February2026_10": {
+        "dropTable": "sp_spec_banner_SE_February2026_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_February2026",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_AstraMilitarum_1": {
+        "dropTable": "sp_spec_banner_Faction_AstraMilitarum_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_Faction_AstraMilitarum",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_Faction_AstraMilitarum_10": {
+        "dropTable": "sp_spec_banner_Faction_AstraMilitarum_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_Faction_AstraMilitarum",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true,
+        "shardAmountPerMythicShard": 5
+    },
+    "sp_spec_banner_SE_Holidays2025_1": {
+        "dropTable": "sp_spec_banner_SE_Holidays2025_1",
+        "preferredCost": {
+            "specialSummoningToken": 1
+        },
+        "fallbackCost": {
+            "gems": 400
+        },
+        "mercyRoot": "sp_spec_banner_SE_Holidays2025",
+        "liveEventRequired": true,
+        "convertShardsToMythic": true
+    },
+    "sp_spec_banner_SE_Holidays2025_10": {
+        "dropTable": "sp_spec_banner_SE_Holidays2025_10",
+        "preferredCost": {
+            "specialSummoningToken": 10
+        },
+        "fallbackCost": {
+            "gems": 4000
+        },
+        "mercyRoot": "sp_spec_banner_SE_Holidays2025",
+        "hasDecoration": true,
+        "liveEventRequired": true,
+        "convertShardsToMythic": true
+    }
+}

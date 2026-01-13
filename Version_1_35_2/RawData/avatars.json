@@ -1,0 +1,974 @@
+[
+    {
+        "avatarId": "ultra_tigurius_01",
+        "condition": "hasUnit",
+        "value": "ultraTigurius"
+    },
+    {
+        "avatarId": "ultra_eliminator_01",
+        "condition": "hasUnit",
+        "value": "ultraEliminatorSgt"
+    },
+    {
+        "avatarId": "ultra_inceptor_01",
+        "condition": "hasUnit",
+        "value": "ultraInceptorSgt"
+    },
+    {
+        "avatarId": "ultra_apothecary_01",
+        "condition": "hasUnit",
+        "value": "ultraApothecary"
+    },
+    {
+        "avatarId": "ultra_calgar_01",
+        "condition": "hasUnit",
+        "value": "ultraCalgar"
+    },
+    {
+        "avatarId": "ultra_dreadnought_01",
+        "condition": "hasUnit",
+        "value": "ultraDreadnought"
+    },
+    {
+        "avatarId": "adept_retributor_01",
+        "condition": "hasUnit",
+        "value": "adeptRetributor"
+    },
+    {
+        "avatarId": "adept_hospitaller_01",
+        "condition": "hasUnit",
+        "value": "adeptHospitaller"
+    },
+    {
+        "avatarId": "adept_hospitaller_01_premium",
+        "condition": "rewarded",
+        "value": "adeptHospitaller",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1691884800000,
+        "sourceEndDate": 1694908800000
+    },
+    {
+        "avatarId": "adept_morvenn_01",
+        "condition": "hasUnit",
+        "value": "adeptMorvenn"
+    },
+    {
+        "avatarId": "adept_canoness_01",
+        "condition": "hasUnit",
+        "value": "adeptCanoness"
+    },
+    {
+        "avatarId": "adept_celestine_01",
+        "condition": "hasUnit",
+        "value": "adeptCelestine"
+    },
+    {
+        "avatarId": "necro_warden_01",
+        "condition": "hasUnit",
+        "value": "necroWarden"
+    },
+    {
+        "avatarId": "necro_hexmark_01",
+        "condition": "hasUnit",
+        "value": "necroDestroyer"
+    },
+    {
+        "avatarId": "necro_spyder_01",
+        "condition": "hasUnit",
+        "value": "necroSpyder"
+    },
+    {
+        "avatarId": "necro_plasmancer_01",
+        "condition": "hasUnit",
+        "value": "necroPlasmancer"
+    },
+    {
+        "avatarId": "necro_overlord_01",
+        "condition": "hasUnit",
+        "value": "necroOverlord"
+    },
+    {
+        "avatarId": "black_terminator_01",
+        "condition": "hasUnit",
+        "value": "blackTerminator"
+    },
+    {
+        "avatarId": "black_obliterator_01",
+        "condition": "hasUnit",
+        "value": "blackObliterator"
+    },
+    {
+        "avatarId": "black_possession_01",
+        "condition": "hasUnit",
+        "value": "blackPossession"
+    },
+    {
+        "avatarId": "black_possession_01_premium",
+        "condition": "rewarded",
+        "value": "blackPossession",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1685836800000,
+        "sourceEndDate": 1688860800000
+    },
+    {
+        "avatarId": "black_haarken_01",
+        "condition": "hasUnit",
+        "value": "blackHaarken"
+    },
+    {
+        "avatarId": "black_abaddon_01",
+        "condition": "hasUnit",
+        "value": "blackAbaddon"
+    },
+    {
+        "avatarId": "black_forgefiend_01",
+        "condition": "hasUnit",
+        "value": "blackForgefiend"
+    },
+    {
+        "avatarId": "astra_bullgryn_01",
+        "condition": "hasUnit",
+        "value": "astraBullgryn"
+    },
+    {
+        "avatarId": "astra_psyker_01",
+        "condition": "hasUnit",
+        "value": "astraPrimarisPsy"
+    },
+    {
+        "avatarId": "astra_ordnance_01",
+        "condition": "hasUnit",
+        "value": "astraOrdnance"
+    },
+    {
+        "avatarId": "astra_yarrick_01",
+        "condition": "hasUnit",
+        "value": "astraYarrick"
+    },
+    {
+        "avatarId": "astra_creed_01",
+        "condition": "hasUnit",
+        "value": "astraCreed"
+    },
+    {
+        "avatarId": "astra_ordnancebattery_01",
+        "condition": "hasUnit",
+        "value": "astraOrdnanceBattery"
+    },
+    {
+        "avatarId": "death_typhus_01",
+        "condition": "hasUnit",
+        "value": "deathTyphus"
+    },
+    {
+        "avatarId": "death_blightlord_01",
+        "condition": "hasUnit",
+        "value": "deathBlightlord"
+    },
+    {
+        "avatarId": "death_blightbringer_01",
+        "condition": "hasUnit",
+        "value": "deathBlightbringer"
+    },
+    {
+        "avatarId": "death_blightbringer_01_premium",
+        "condition": "rewarded",
+        "value": "deathBlightbringer",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1707004800000,
+        "sourceEndDate": 1710028800000
+    },
+    {
+        "avatarId": "death_putrifier_01",
+        "condition": "hasUnit",
+        "value": "deathPutrifier"
+    },
+    {
+        "avatarId": "death_rotbone_01",
+        "condition": "hasUnit",
+        "value": "deathRotbone"
+    },
+    {
+        "avatarId": "templ_brother_01",
+        "condition": "hasUnit",
+        "value": "templSwordBrother"
+    },
+    {
+        "avatarId": "templ_aggressor_01",
+        "condition": "hasUnit",
+        "value": "templAggressor"
+    },
+    {
+        "avatarId": "templ_champion_01",
+        "condition": "hasUnit",
+        "value": "templChampion"
+    },
+    {
+        "avatarId": "templ_ancient_01",
+        "condition": "hasUnit",
+        "value": "templAncient"
+    },
+    {
+        "avatarId": "templ_ancient_01_premium",
+        "condition": "rewarded",
+        "value": "templAncient",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1703980800000,
+        "sourceEndDate": 1707004800000
+    },
+    {
+        "avatarId": "templ_helbrecht_01",
+        "condition": "hasUnit",
+        "value": "templHelbrecht"
+    },
+    {
+        "avatarId": "orkss_runtherd_01",
+        "condition": "hasUnit",
+        "value": "orksRuntherd"
+    },
+    {
+        "avatarId": "orkss_mek_01",
+        "condition": "hasUnit",
+        "value": "orksBigMek"
+    },
+    {
+        "avatarId": "orkss_killakan_01",
+        "condition": "hasUnit",
+        "value": "orksKillaKan"
+    },
+    {
+        "avatarId": "orkss_nob_01",
+        "condition": "hasUnit",
+        "value": "orksNob"
+    },
+    {
+        "avatarId": "orkss_warboss_01",
+        "condition": "hasUnit",
+        "value": "orksWarboss"
+    },
+    {
+        "avatarId": "aelda_ranger_01",
+        "condition": "hasUnit",
+        "value": "eldarRanger"
+    },
+    {
+        "avatarId": "aelda_autarch_01",
+        "condition": "hasUnit",
+        "value": "eldarAutarch"
+    },
+    {
+        "avatarId": "aelda_autarch_01_premium",
+        "condition": "rewarded",
+        "value": "eldarAutarch",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1676764800000,
+        "sourceEndDate": 1679788800000
+    },
+    {
+        "avatarId": "aelda_maugan_01",
+        "condition": "hasUnit",
+        "value": "eldarMauganRa"
+    },
+    {
+        "avatarId": "aelda_farseer_01",
+        "condition": "hasUnit",
+        "value": "eldarFarseer"
+    },
+    {
+        "avatarId": "aelda_farseer_01_premium",
+        "condition": "rewarded",
+        "value": "eldarFarseer",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1679788800000,
+        "sourceEndDate": 1682812800000
+    },
+    {
+        "avatarId": "aelda_jainzar_01",
+        "condition": "hasUnit",
+        "value": "eldarJainZar"
+    },
+    {
+        "avatarId": "tauta_marksman_01",
+        "condition": "hasUnit",
+        "value": "tauMarksman"
+    },
+    {
+        "avatarId": "tauta_marksman_01_premium",
+        "condition": "rewarded",
+        "value": "tauMarksman",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1688860800000,
+        "sourceEndDate": 1691884800000
+    },
+    {
+        "avatarId": "tauta_crisis_01",
+        "condition": "hasUnit",
+        "value": "tauCrisis"
+    },
+    {
+        "avatarId": "tauta_aunshi_01",
+        "condition": "hasUnit",
+        "value": "tauAunShi"
+    },
+    {
+        "avatarId": "tauta_darkstrider_01",
+        "condition": "hasUnit",
+        "value": "tauDarkstrider"
+    },
+    {
+        "avatarId": "tauta_darkstrider_01_premium",
+        "condition": "rewarded",
+        "value": "tauDarkstrider",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1694908800000,
+        "sourceEndDate": 1697932800000
+    },
+    {
+        "avatarId": "tauta_shadowsun_01",
+        "condition": "hasUnit",
+        "value": "tauShadowsun"
+    },
+    {
+        "avatarId": "space_wulfen_01",
+        "condition": "hasUnit",
+        "value": "spaceWulfen"
+    },
+    {
+        "avatarId": "space_wulfen_01_premium",
+        "condition": "rewarded",
+        "value": "spaceWulfen",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1700956800000,
+        "sourceEndDate": 1703894400000
+    },
+    {
+        "avatarId": "space_hound_01",
+        "condition": "hasUnit",
+        "value": "spaceHound"
+    },
+    {
+        "avatarId": "space_arjac_01",
+        "condition": "hasUnit",
+        "value": "spaceRockfist"
+    },
+    {
+        "avatarId": "space_njal_01",
+        "condition": "hasUnit",
+        "value": "spaceStormcaller"
+    },
+    {
+        "avatarId": "space_njal_01_premium",
+        "condition": "rewarded",
+        "value": "spaceStormcaller",
+        "effect": "premium",
+        "source": "elderShop",
+        "sourceStartDate": 1697932800000,
+        "sourceEndDate": 1697846400000
+    },
+    {
+        "avatarId": "space_ragnar_01",
+        "condition": "hasUnit",
+        "value": "spaceBlackmane"
+    },
+    {
+        "avatarId": "darka_azrael_01",
+        "condition": "hasUnit",
+        "value": "darkaAzrael"
+    },
+    {
+        "avatarId": "darka_terminator_01",
+        "condition": "hasUnit",
+        "value": "darkaTerminator"
+    },
+    {
+        "avatarId": "darka_asmodai_01",
+        "condition": "hasUnit",
+        "value": "darkaAsmodai"
+    },
+    {
+        "avatarId": "darka_azrael_01_premium",
+        "condition": "rewarded",
+        "value": "darkaAzrael",
+        "effect": "premium",
+        "source": "elderShop",
+        "sourceStartDate": 1695254400000,
+        "sourceEndDate": 1697932800000
+    },
+    {
+        "avatarId": "darka_hellblaster_01",
+        "condition": "hasUnit",
+        "value": "darkaHellblaster"
+    },
+    {
+        "avatarId": "thous_tzaangor_01",
+        "condition": "hasUnit",
+        "value": "thousTzaangor"
+    },
+    {
+        "avatarId": "thous_terminator_01",
+        "condition": "hasUnit",
+        "value": "thousTerminator"
+    },
+    {
+        "avatarId": "thous_infernal_01",
+        "condition": "hasUnit",
+        "value": "thousInfernalMaster"
+    },
+    {
+        "avatarId": "thous_sorcerer_01",
+        "condition": "hasUnit",
+        "value": "thousSorcerer"
+    },
+    {
+        "avatarId": "thous_ahriman_01",
+        "condition": "hasUnit",
+        "value": "thousAhriman"
+    },
+    {
+        "avatarId": "tyran_neurothrope_01",
+        "condition": "hasUnit",
+        "value": "tyranNeurothrope"
+    },
+    {
+        "avatarId": "tyran_tyrantguard_01",
+        "condition": "hasUnit",
+        "value": "tyranTyrantGuard"
+    },
+    {
+        "avatarId": "tyran_wingedprime_01",
+        "condition": "hasUnit",
+        "value": "tyranWingedPrime"
+    },
+    {
+        "avatarId": "tyran_deathleaper_01",
+        "condition": "hasUnit",
+        "value": "tyranDeathleaper"
+    },
+    {
+        "avatarId": "tyran_parasite_01_premium",
+        "condition": "rewarded",
+        "value": "tyranParasite",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1734220800000,
+        "sourceEndDate": 1737244800000
+    },
+    {
+        "avatarId": "tyran_biovore_01",
+        "condition": "hasUnit",
+        "value": "tyranBiovore"
+    },
+    {
+        "avatarId": "blood_intercessor_01",
+        "condition": "hasUnit",
+        "value": "bloodIntercessor"
+    },
+    {
+        "avatarId": "blood_mephiston_01",
+        "condition": "hasUnit",
+        "value": "bloodMephiston"
+    },
+    {
+        "avatarId": "tyran_deathleaper_01_premium",
+        "condition": "rewarded",
+        "value": "tyranDeathleaper",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1697932800000,
+        "sourceEndDate": 1700956800000
+    },
+    {
+        "avatarId": "tyran_neurothrope_01_premium",
+        "condition": "rewarded",
+        "value": "tyranNeurothrope",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1719100800000,
+        "sourceEndDate": 1722124800000
+    },
+    {
+        "avatarId": "tyran_tyrantguard_01_premium",
+        "condition": "rewarded",
+        "value": "tyranTyrantGuard",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1722124800000,
+        "sourceEndDate": 1725148800000
+    },
+    {
+        "avatarId": "tyran_parasite_01",
+        "condition": "hasUnit",
+        "value": "tyranParasite"
+    },
+    {
+        "avatarId": "admec_dominus_01",
+        "condition": "hasUnit",
+        "value": "admecDominus"
+    },
+    {
+        "avatarId": "admec_manipulus_01",
+        "condition": "hasUnit",
+        "value": "admecManipulus"
+    },
+    {
+        "avatarId": "admec_marshall_01",
+        "condition": "hasUnit",
+        "value": "admecMarshall"
+    },
+    {
+        "avatarId": "admec_ruststalker_01",
+        "condition": "hasUnit",
+        "value": "admecRuststalker"
+    },
+    {
+        "avatarId": "admec_destroyer_01",
+        "condition": "hasUnit",
+        "value": "admecDestroyer"
+    },
+    {
+        "avatarId": "world_terminator_01",
+        "condition": "hasUnit",
+        "value": "worldTerminator"
+    },
+    {
+        "avatarId": "world_jakhal_01",
+        "condition": "hasUnit",
+        "value": "worldJakhal"
+    },
+    {
+        "avatarId": "world_eightbound_01",
+        "condition": "hasUnit",
+        "value": "worldEightbound"
+    },
+    {
+        "avatarId": "world_kharn_01",
+        "condition": "hasUnit",
+        "value": "worldKharn"
+    },
+    {
+        "avatarId": "halloween_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "halloween",
+        "sourceStartDate": 1729987200000,
+        "sourceEndDate": 1730592000000
+    },
+    {
+        "avatarId": "skulls_apple_promo_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "skulls",
+        "sourceStartDate": 1685037600000,
+        "sourceEndDate": 1685566800000
+    },
+    {
+        "avatarId": "1y_anniversary_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "1y_anniversary",
+        "sourceStartDate": 1691884800000,
+        "sourceEndDate": 1692489600000
+    },
+    {
+        "avatarId": "anniversary_2024_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "anniversary_2024",
+        "sourceStartDate": 1723680000000,
+        "sourceEndDate": 1724198400000
+    },
+    {
+        "avatarId": "holidays_2023_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "holidays_2023_event",
+        "sourceStartDate": 1703548800000,
+        "sourceEndDate": 1703635200000
+    },
+    {
+        "avatarId": "orks_runtherd_01_premium",
+        "condition": "rewarded",
+        "value": "orksRuntherd",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1710028800000,
+        "sourceEndDate": 1713052800000
+    },
+    {
+        "avatarId": "darka_asmodai_01_premium",
+        "condition": "rewarded",
+        "value": "darkaAsmodai",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1713052800000,
+        "sourceEndDate": 1716076800000
+    },
+    {
+        "avatarId": "space_hound_01_premium",
+        "condition": "rewarded",
+        "value": "spaceHound",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1716076800000,
+        "sourceEndDate": 1719100800000
+    },
+    {
+        "avatarId": "blood_deathcompany_01",
+        "condition": "hasUnit",
+        "value": "bloodDeathCompany"
+    },
+    {
+        "avatarId": "ultra_titus_01",
+        "condition": "hasUnit",
+        "value": "ultraTitus"
+    },
+    {
+        "avatarId": "ultra_titus_01_premium",
+        "condition": "rewarded",
+        "value": "ultraTitus",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1725148800000,
+        "sourceEndDate": 1728172800000
+    },
+    {
+        "avatarId": "ultra_titus_02",
+        "condition": "rewarded",
+        "value": "ultraTitus",
+        "source": "Titus_LHE",
+        "sourceStartDate": 1733875200000,
+        "sourceEndDate": 1734134400000
+    },
+    {
+        "avatarId": "tyran_wingedprime_01_premium",
+        "condition": "rewarded",
+        "value": "tyranWingedPrime",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1728172800000,
+        "sourceEndDate": 1731196800000
+    },
+    {
+        "avatarId": "genes_magus_01",
+        "condition": "hasUnit",
+        "value": "genesMagus"
+    },
+    {
+        "avatarId": "adept_cherub_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "battlepass",
+        "sourceStartDate": 1731196800000,
+        "sourceEndDate": 1734220800000
+    },
+    {
+        "avatarId": "genes_patriarch_01",
+        "condition": "hasUnit",
+        "value": "genesPatriarch"
+    },
+    {
+        "avatarId": "genes_primus_01",
+        "condition": "hasUnit",
+        "value": "genesPrimus"
+    },
+    {
+        "avatarId": "genes_biophagus_01",
+        "condition": "hasUnit",
+        "value": "genesBiophagus"
+    },
+    {
+        "avatarId": "tauta_broadside_01",
+        "condition": "hasUnit",
+        "value": "tauBroadside"
+    },
+    {
+        "avatarId": "death_putrifier_01_premium",
+        "condition": "rewarded",
+        "value": "deathPutrifier",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1705622400000,
+        "sourceEndDate": 1708646400000
+    },
+    {
+        "avatarId": "orks_squig_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "holidays_2024_event",
+        "sourceStartDate": 1735603200000,
+        "sourceEndDate": 1735689600000
+    },
+    {
+        "avatarId": "blood_sanguinary_01",
+        "condition": "hasUnit",
+        "value": "bloodSanguinary"
+    },
+    {
+        "avatarId": "space_rockfist_01_premium",
+        "condition": "rewarded",
+        "value": "spaceRockfist",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1740268800000,
+        "sourceEndDate": 1743292800000
+    },
+    {
+        "avatarId": "genes_kelermorph_01_premium",
+        "condition": "rewarded",
+        "value": "genesKelermorph",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1743292800000,
+        "sourceEndDate": 1746316800000
+    },
+    {
+        "avatarId": "genes_kelermorph_01",
+        "condition": "hasUnit",
+        "value": "genesKelermorph"
+    },
+    {
+        "avatarId": "blood_dante_01",
+        "condition": "hasUnit",
+        "value": "bloodDante"
+    },
+    {
+        "avatarId": "death_crawler_01",
+        "condition": "hasUnit",
+        "value": "deathCrawler"
+    },
+    {
+        "avatarId": "darka_hellblaster_01_premium",
+        "condition": "rewarded",
+        "value": "darkaHellblaster",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1746316800000,
+        "sourceEndDate": 1749340800000
+    },
+    {
+        "avatarId": "world_executions_01",
+        "condition": "hasUnit",
+        "value": "worldExecutions"
+    },
+    {
+        "avatarId": "darka_companion_01",
+        "condition": "hasUnit",
+        "value": "darkaCompanion"
+    },
+    {
+        "avatarId": "world_terminator_01_premium",
+        "condition": "rewarded",
+        "value": "worldTerminator",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1749340800000,
+        "sourceEndDate": 1752364800000
+    },
+    {
+        "avatarId": "custo_trajann_01",
+        "condition": "hasUnit",
+        "value": "custoTrajann"
+    },
+    {
+        "avatarId": "custo_vexilus_01",
+        "condition": "hasUnit",
+        "value": "custoVexilusPraetor"
+    },
+    {
+        "avatarId": "custo_bladechampion_01",
+        "condition": "hasUnit",
+        "value": "custoBladeChampion"
+    },
+    {
+        "avatarId": "custo_bladechampion_01_premium",
+        "condition": "rewarded",
+        "value": "custoBladeChampion",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1752364800000,
+        "sourceEndDate": 1755388800000
+    },
+    {
+        "avatarId": "adept_exorcist_01",
+        "condition": "hasUnit",
+        "value": "adeptExorcist"
+    },
+    {
+        "avatarId": "genes_magus_01_premium",
+        "condition": "rewarded",
+        "value": "genesMagus",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1755388800000,
+        "sourceEndDate": 1758412800000
+    },
+    {
+        "avatarId": "anniversary_2025_01",
+        "condition": "rewarded",
+        "value": "",
+        "source": "anniversary_2025",
+        "sourceStartDate": 1755216000000,
+        "sourceEndDate": 1755302400000
+    },
+    {
+        "avatarId": "custo_atlacoya_01",
+        "condition": "hasUnit",
+        "value": "custoAtlacoya"
+    },
+    {
+        "avatarId": "emper_lucius_01",
+        "condition": "hasUnit",
+        "value": "emperLucius"
+    },
+    {
+        "avatarId": "emper_noisemarine_01",
+        "condition": "hasUnit",
+        "value": "emperNoiseMarine"
+    },
+    {
+        "avatarId": "astra_dreir_01",
+        "condition": "hasUnit",
+        "value": "astraDreir"
+    },
+    {
+        "avatarId": "astra_dreir_01_premium",
+        "condition": "rewarded",
+        "value": "astraDreir",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1758412800000,
+        "sourceEndDate": 1761436800000
+    },
+    {
+        "avatarId": "astra_dreir_01_premium_02",
+        "condition": "rewarded",
+        "value": "",
+        "source": "purge_order_2025_december",
+        "sourceStartDate": 1764547200000,
+        "sourceEndDate": 1765065600000
+    },
+    {
+        "avatarId": "emper_kakophonist_01",
+        "condition": "hasUnit",
+        "value": "emperKakophonist"
+    },
+    {
+        "avatarId": "orkss_rukkatrukk_01",
+        "condition": "hasUnit",
+        "value": "orksRukkatrukk"
+    },
+    {
+        "avatarId": "blood_deathcompany_01_premium",
+        "condition": "rewarded",
+        "value": "bloodDeathCompany",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1761436800000,
+        "sourceEndDate": 1764460800000
+    },
+    {
+        "avatarId": "halloween_2025",
+        "condition": "rewarded",
+        "value": "",
+        "source": "halloween_2025",
+        "sourceStartDate": 1761868800000,
+        "sourceEndDate": 1762041600000
+    },
+    {
+        "avatarId": "ultra_calgar_01_premium",
+        "condition": "rewarded",
+        "value": "ultraCalgar",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1764460800000,
+        "sourceEndDate": 1767484800000
+    },
+    {
+        "avatarId": "custo_kyrus_01",
+        "condition": "hasUnit",
+        "value": "custoKyrus"
+    },
+    {
+        "avatarId": "holidays_2025",
+        "condition": "rewarded",
+        "value": "",
+        "source": "holidays_2025",
+        "sourceStartDate": 1767139200000,
+        "sourceEndDate": 1767225600000
+    },
+    {
+        "avatarId": "emper_exultant_01_premium",
+        "condition": "rewarded",
+        "value": "emperExultant",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1767484800000,
+        "sourceEndDate": 1770508800000
+    },
+    {
+        "avatarId": "emper_blade_01",
+        "condition": "hasUnit",
+        "value": "emperFlawlessBlade"
+    },
+    {
+        "avatarId": "thous_daemonprince_01",
+        "condition": "hasUnit",
+        "value": "thousDaemonPrince"
+    },
+    {
+        "avatarId": "tauta_farsight_01",
+        "condition": "hasUnit",
+        "value": "tauFarsight"
+    },
+    {
+        "avatarId": "emper_exultant_01",
+        "condition": "hasUnit",
+        "value": "emperExultant"
+    },
+    {
+        "avatarId": "space_wolfpriest_01",
+        "revealTimestamp": 1767830400000,
+        "condition": "hasUnit",
+        "value": "spaceWolfPriest"
+    },
+    {
+        "avatarId": "votan_ironmaster_01",
+        "revealTimestamp": 1770249600000,
+        "condition": "hasUnit",
+        "value": "votanIronmaster"
+    },
+    {
+        "avatarId": "votan_uthar_01",
+        "revealTimestamp": 1770249600000,
+        "condition": "hasUnit",
+        "value": "votanUthar"
+    },
+    {
+        "avatarId": "february_2026_01",
+        "revealTimestamp": 1770249600000,
+        "condition": "rewarded",
+        "value": "",
+        "source": "february_2026",
+        "sourceStartDate": 1770508800000,
+        "sourceEndDate": 1771113600000
+    },
+    {
+        "avatarId": "blood_intercessor_01_premium",
+        "revealTimestamp": 1770249600000,
+        "condition": "rewarded",
+        "value": "bloodIntercessor",
+        "effect": "premium",
+        "source": "battlepass",
+        "sourceStartDate": 1770508800000,
+        "sourceEndDate": 1773532800000
+    }
+]
