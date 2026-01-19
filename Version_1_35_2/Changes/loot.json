@@ -16,6 +16,16 @@
     "changed": {
         "tieredProgressRewards": {
             "hse_squig_smash_tier_high": {
+                "1": {
+                    "oldValue": {
+                        "requiredProgress": 80,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    "newValue": {
+                        "requiredProgress": 110,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    }
+                },
                 "oldValue": [
                     {
                         "requiredProgress": 40,
@@ -181,14 +191,182 @@
                         "chestRewardId": "seasonalEventCurrencyHolidays2025:20",
                         "endless": true
                     }
+                ]
+            },
+            "hse_squig_smash_tier_mid": {
+                "oldValue": [
+                    {
+                        "requiredProgress": 35,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 70,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 105,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 140,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 175,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 225,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 275,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 325,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 375,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 425,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 500,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 575,
+                        "chestRewardId": "dust:1500"
+                    },
+                    {
+                        "requiredProgress": 650,
+                        "chestRewardId": "dust:1500"
+                    },
+                    {
+                        "requiredProgress": 725,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 800,
+                        "chestRewardId": "dust:2000"
+                    },
+                    {
+                        "requiredProgress": 900,
+                        "chestRewardId": "dust:3000"
+                    },
+                    {
+                        "requiredProgress": 1000,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 1100,
+                        "chestRewardId": "specialSummoningToken"
+                    },
+                    {
+                        "requiredProgress": 1200,
+                        "chestRewardId": "dust:3000"
+                    },
+                    {
+                        "requiredProgress": 100,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20",
+                        "endless": true
+                    }
+                ],
+                "newValue": [
+                    {
+                        "requiredProgress": 45,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 90,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 135,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 180,
+                        "chestRewardId": "dust:100"
+                    },
+                    {
+                        "requiredProgress": 225,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 285,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 345,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 405,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 465,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 525,
+                        "chestRewardId": "dust:400"
+                    },
+                    {
+                        "requiredProgress": 610,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 695,
+                        "chestRewardId": "dust:1500"
+                    },
+                    {
+                        "requiredProgress": 780,
+                        "chestRewardId": "dust:1500"
+                    },
+                    {
+                        "requiredProgress": 865,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 950,
+                        "chestRewardId": "dust:2000"
+                    },
+                    {
+                        "requiredProgress": 1060,
+                        "chestRewardId": "dust:3000"
+                    },
+                    {
+                        "requiredProgress": 1170,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
+                    },
+                    {
+                        "requiredProgress": 1280,
+                        "chestRewardId": "specialSummoningToken"
+                    },
+                    {
+                        "requiredProgress": 1390,
+                        "chestRewardId": "dust:3000"
+                    },
+                    {
+                        "requiredProgress": 100,
+                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20",
+                        "endless": true
+                    }
                 ],
                 "1": {
                     "oldValue": {
-                        "requiredProgress": 80,
+                        "requiredProgress": 70,
                         "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
                     },
                     "newValue": {
-                        "requiredProgress": 110,
+                        "requiredProgress": 90,
                         "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
                     }
                 }
@@ -370,184 +548,6 @@
                         "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
                     }
                 }
-            },
-            "hse_squig_smash_tier_mid": {
-                "1": {
-                    "oldValue": {
-                        "requiredProgress": 70,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    "newValue": {
-                        "requiredProgress": 90,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    }
-                },
-                "oldValue": [
-                    {
-                        "requiredProgress": 35,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 70,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 105,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 140,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 175,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 225,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 275,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 325,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 375,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 425,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 500,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 575,
-                        "chestRewardId": "dust:1500"
-                    },
-                    {
-                        "requiredProgress": 650,
-                        "chestRewardId": "dust:1500"
-                    },
-                    {
-                        "requiredProgress": 725,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 800,
-                        "chestRewardId": "dust:2000"
-                    },
-                    {
-                        "requiredProgress": 900,
-                        "chestRewardId": "dust:3000"
-                    },
-                    {
-                        "requiredProgress": 1000,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 1100,
-                        "chestRewardId": "specialSummoningToken"
-                    },
-                    {
-                        "requiredProgress": 1200,
-                        "chestRewardId": "dust:3000"
-                    },
-                    {
-                        "requiredProgress": 100,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20",
-                        "endless": true
-                    }
-                ],
-                "newValue": [
-                    {
-                        "requiredProgress": 45,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 90,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 135,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 180,
-                        "chestRewardId": "dust:100"
-                    },
-                    {
-                        "requiredProgress": 225,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 285,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 345,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 405,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 465,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 525,
-                        "chestRewardId": "dust:400"
-                    },
-                    {
-                        "requiredProgress": 610,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 695,
-                        "chestRewardId": "dust:1500"
-                    },
-                    {
-                        "requiredProgress": 780,
-                        "chestRewardId": "dust:1500"
-                    },
-                    {
-                        "requiredProgress": 865,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 950,
-                        "chestRewardId": "dust:2000"
-                    },
-                    {
-                        "requiredProgress": 1060,
-                        "chestRewardId": "dust:3000"
-                    },
-                    {
-                        "requiredProgress": 1170,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20"
-                    },
-                    {
-                        "requiredProgress": 1280,
-                        "chestRewardId": "specialSummoningToken"
-                    },
-                    {
-                        "requiredProgress": 1390,
-                        "chestRewardId": "dust:3000"
-                    },
-                    {
-                        "requiredProgress": 100,
-                        "chestRewardId": "seasonalEventCurrencyHolidays2025:20",
-                        "endless": true
-                    }
-                ]
             }
         }
     }

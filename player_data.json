@@ -2,7 +2,7 @@
     "player": {
         "details": {
             "name": "Orobas",
-            "powerLevel": 58
+            "powerLevel": 59
         },
         "units": [
             {
@@ -53,7 +53,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 177,
+                "shards": 193,
                 "mythicShards": 0
             },
             {
@@ -62,8 +62,8 @@
                 "faction": "Ultramarines",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 16,
-                "xp": 1931426,
-                "xpLevel": 47,
+                "xp": 1945522,
+                "xpLevel": 48,
                 "rank": 15,
                 "abilities": [
                     {
@@ -108,8 +108,8 @@
                 "faction": "Ultramarines",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 8,
-                "xp": 8030,
-                "xpLevel": 21,
+                "xp": 8541,
+                "xpLevel": 22,
                 "rank": 6,
                 "abilities": [
                     {
@@ -148,7 +148,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 560,
+                "shards": 568,
                 "mythicShards": 0
             },
             {
@@ -199,7 +199,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 160,
+                "shards": 161,
                 "mythicShards": 0
             },
             {
@@ -208,7 +208,7 @@
                 "faction": "Ultramarines",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 202511,
+                "xp": 202580,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -245,7 +245,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 86,
+                "shards": 137,
                 "mythicShards": 0
             },
             {
@@ -291,7 +291,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 107,
+                "shards": 119,
                 "mythicShards": 0
             },
             {
@@ -337,7 +337,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 272,
+                "shards": 282,
                 "mythicShards": 0
             },
             {
@@ -346,7 +346,7 @@
                 "faction": "Aeldari",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 229003,
+                "xp": 229449,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -383,7 +383,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 399,
+                "shards": 418,
                 "mythicShards": 0
             },
             {
@@ -392,7 +392,7 @@
                 "faction": "DeathGuard",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 16,
-                "xp": 1192680,
+                "xp": 1203179,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -429,7 +429,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 0,
+                "shards": 34,
                 "mythicShards": 0
             },
             {
@@ -475,7 +475,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 245,
+                "shards": 248,
                 "mythicShards": 0
             },
             {
@@ -483,10 +483,10 @@
                 "name": "Sho'syl",
                 "faction": "Tau",
                 "grandAlliance": "Xenos",
-                "progressionIndex": 10,
-                "xp": 200215,
-                "xpLevel": 35,
-                "rank": 12,
+                "progressionIndex": 12,
+                "xp": 1116743,
+                "xpLevel": 44,
+                "rank": 15,
                 "abilities": [
                     {
                         "id": "SeekerMissileFrequencyLock",
@@ -494,7 +494,7 @@
                     },
                     {
                         "id": "MV71SniperDroneSquad",
-                        "level": 35
+                        "level": 44
                     }
                 ],
                 "upgrades": [],
@@ -521,7 +521,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 97,
+                "shards": 2,
                 "mythicShards": 0
             },
             {
@@ -530,7 +530,7 @@
                 "faction": "Necrons",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 1369612,
+                "xp": 1377516,
                 "xpLevel": 45,
                 "rank": 15,
                 "abilities": [
@@ -567,7 +567,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 258,
+                "shards": 368,
                 "mythicShards": 0
             },
             {
@@ -613,7 +613,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 895,
+                "shards": 931,
                 "mythicShards": 0
             },
             {
@@ -659,7 +659,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 758,
+                "shards": 764,
                 "mythicShards": 0
             },
             {
@@ -668,8 +668,8 @@
                 "faction": "Tau",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 16,
-                "xp": 1681283,
-                "xpLevel": 46,
+                "xp": 1737587,
+                "xpLevel": 47,
                 "rank": 15,
                 "abilities": [
                     {
@@ -885,7 +885,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 117,
+                "shards": 127,
                 "mythicShards": 0
             },
             {
@@ -931,7 +931,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 584,
+                "shards": 636,
                 "mythicShards": 0
             },
             {
@@ -979,7 +979,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 1,
+                "shards": 11,
                 "mythicShards": 0
             },
             {
@@ -1029,7 +1029,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 55,
+                "shards": 62,
                 "mythicShards": 0
             },
             {
@@ -1080,7 +1080,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 121,
+                "shards": 131,
                 "mythicShards": 0
             },
             {
@@ -1089,7 +1089,7 @@
                 "faction": "Orks",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 16,
-                "xp": 1153200,
+                "xp": 1166721,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -1126,7 +1126,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 0,
+                "shards": 14,
                 "mythicShards": 0
             },
             {
@@ -1177,7 +1177,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 83,
+                "shards": 84,
                 "mythicShards": 0
             },
             {
@@ -1269,7 +1269,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 355,
+                "shards": 375,
                 "mythicShards": 0
             },
             {
@@ -1278,7 +1278,7 @@
                 "faction": "WorldEaters",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 11,
-                "xp": 58852,
+                "xp": 58898,
                 "xpLevel": 30,
                 "rank": 9,
                 "abilities": [
@@ -1318,7 +1318,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 704,
+                "shards": 794,
                 "mythicShards": 0
             },
             {
@@ -1327,7 +1327,7 @@
                 "faction": "Sisterhood",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 1247223,
+                "xp": 1251095,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -1364,7 +1364,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 74,
+                "shards": 146,
                 "mythicShards": 0
             },
             {
@@ -1373,7 +1373,7 @@
                 "faction": "Aeldari",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 1556770,
+                "xp": 1558093,
                 "xpLevel": 46,
                 "rank": 15,
                 "abilities": [
@@ -1419,7 +1419,7 @@
                 "faction": "AdeptusMechanicus",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 16,
-                "xp": 2486524,
+                "xp": 2498345,
                 "xpLevel": 50,
                 "rank": 17,
                 "abilities": [
@@ -1451,9 +1451,9 @@
                     {
                         "slotId": "Slot3",
                         "level": 1,
-                        "id": "I_Booster_Crit_E001",
-                        "name": "Master-Crafted Frag Grenades",
-                        "rarity": "Epic"
+                        "id": "R_Booster_Crit_KardiocoreGalvanus",
+                        "name": "Kardiocore Galvanus",
+                        "rarity": "Mythic"
                     }
                 ],
                 "shards": 0,
@@ -1558,7 +1558,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 175,
+                "shards": 179,
                 "mythicShards": 0
             },
             {
@@ -1751,9 +1751,9 @@
                 "faction": "Orks",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 584245,
-                "xpLevel": 40,
-                "rank": 13,
+                "xp": 1118532,
+                "xpLevel": 44,
+                "rank": 15,
                 "abilities": [
                     {
                         "id": "Waaagh",
@@ -1788,7 +1788,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 81,
+                "shards": 84,
                 "mythicShards": 0
             },
             {
@@ -1834,7 +1834,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 158,
+                "shards": 238,
                 "mythicShards": 0
             },
             {
@@ -1880,7 +1880,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 71,
+                "shards": 85,
                 "mythicShards": 0
             },
             {
@@ -1889,7 +1889,7 @@
                 "faction": "ThousandSons",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 12,
-                "xp": 2052860,
+                "xp": 2071342,
                 "xpLevel": 48,
                 "rank": 15,
                 "abilities": [
@@ -1926,7 +1926,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 358,
+                "shards": 380,
                 "mythicShards": 0
             },
             {
@@ -1972,7 +1972,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 274,
+                "shards": 284,
                 "mythicShards": 0
             },
             {
@@ -2021,7 +2021,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 132,
+                "shards": 312,
                 "mythicShards": 0
             },
             {
@@ -2124,7 +2124,7 @@
                 "faction": "DarkAngels",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 8,
-                "xp": 10736,
+                "xp": 10850,
                 "xpLevel": 23,
                 "rank": 0,
                 "abilities": [
@@ -2200,7 +2200,7 @@
                         "rarity": "Uncommon"
                     }
                 ],
-                "shards": 162,
+                "shards": 163,
                 "mythicShards": 0
             },
             {
@@ -2292,7 +2292,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 4,
+                "shards": 14,
                 "mythicShards": 0
             },
             {
@@ -2301,7 +2301,7 @@
                 "faction": "BlackTemplars",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 11,
-                "xp": 22095,
+                "xp": 22884,
                 "xpLevel": 26,
                 "rank": 9,
                 "abilities": [
@@ -2338,7 +2338,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 79,
+                "shards": 129,
                 "mythicShards": 0
             },
             {
@@ -2347,24 +2347,20 @@
                 "faction": "AdeptusMechanicus",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 16,
-                "xp": 1493401,
-                "xpLevel": 46,
-                "rank": 15,
+                "xp": 2485708,
+                "xpLevel": 50,
+                "rank": 17,
                 "abilities": [
                     {
                         "id": "CordClaw",
-                        "level": 45
+                        "level": 46
                     },
                     {
                         "id": "OptimizedGait",
-                        "level": 46
+                        "level": 50
                     }
                 ],
-                "upgrades": [
-                    0,
-                    1,
-                    3
-                ],
+                "upgrades": [],
                 "items": [
                     {
                         "slotId": "Slot1",
@@ -2462,7 +2458,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 75,
+                "shards": 76,
                 "mythicShards": 0
             },
             {
@@ -2471,7 +2467,7 @@
                 "faction": "Tau",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 352,
+                "xp": 396,
                 "xpLevel": 6,
                 "rank": 0,
                 "abilities": [
@@ -2508,7 +2504,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 697,
+                "shards": 709,
                 "mythicShards": 0
             },
             {
@@ -2517,7 +2513,7 @@
                 "faction": "AdeptusMechanicus",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 1131492,
+                "xp": 1137826,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -2554,7 +2550,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 14,
+                "shards": 27,
                 "mythicShards": 0
             },
             {
@@ -2563,7 +2559,7 @@
                 "faction": "AstraMilitarum",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 397470,
+                "xp": 398539,
                 "xpLevel": 38,
                 "rank": 13,
                 "abilities": [
@@ -2609,7 +2605,7 @@
                 "faction": "BloodAngels",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 438864,
+                "xp": 442147,
                 "xpLevel": 38,
                 "rank": 12,
                 "abilities": [
@@ -2657,7 +2653,7 @@
                 "faction": "BlackTemplars",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 1213852,
+                "xp": 1218583,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -2696,7 +2692,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 85,
+                "shards": 100,
                 "mythicShards": 0
             },
             {
@@ -2705,7 +2701,7 @@
                 "faction": "BlackTemplars",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 8,
-                "xp": 17726,
+                "xp": 18012,
                 "xpLevel": 25,
                 "rank": 6,
                 "abilities": [
@@ -2754,7 +2750,7 @@
                 "faction": "DeathGuard",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 11,
-                "xp": 23651,
+                "xp": 24387,
                 "xpLevel": 26,
                 "rank": 9,
                 "abilities": [
@@ -2846,7 +2842,7 @@
                 "faction": "DeathGuard",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 12,
-                "xp": 1186448,
+                "xp": 1192738,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -2883,7 +2879,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 425,
+                "shards": 432,
                 "mythicShards": 0
             },
             {
@@ -2929,7 +2925,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 398,
+                "shards": 401,
                 "mythicShards": 0
             },
             {
@@ -3003,7 +2999,7 @@
                         "rarity": "Uncommon"
                     }
                 ],
-                "shards": 172,
+                "shards": 254,
                 "mythicShards": 0
             },
             {
@@ -3077,7 +3073,7 @@
                 ],
                 "upgrades": [],
                 "items": [],
-                "shards": 138,
+                "shards": 149,
                 "mythicShards": 0
             },
             {
@@ -3169,7 +3165,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 29,
+                "shards": 189,
                 "mythicShards": 0
             },
             {
@@ -3321,7 +3317,7 @@
                 "faction": "Genestealers",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 224247,
+                "xp": 224852,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -3360,7 +3356,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 413,
+                "shards": 424,
                 "mythicShards": 0
             },
             {
@@ -3369,7 +3365,7 @@
                 "faction": "WorldEaters",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 16,
-                "xp": 1403580,
+                "xp": 1441735,
                 "xpLevel": 45,
                 "rank": 15,
                 "abilities": [
@@ -3461,8 +3457,8 @@
                 "faction": "DarkAngels",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 8,
-                "xp": 94,
-                "xpLevel": 3,
+                "xp": 254,
+                "xpLevel": 5,
                 "rank": 0,
                 "abilities": [
                     {
@@ -3501,7 +3497,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 167,
+                "shards": 184,
                 "mythicShards": 0
             },
             {
@@ -3556,7 +3552,7 @@
                 "faction": "Aeldari",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 239852,
+                "xp": 240289,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -3602,7 +3598,7 @@
                 "faction": "Custodes",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 10,
-                "xp": 15244,
+                "xp": 15280,
                 "xpLevel": 25,
                 "rank": 3,
                 "abilities": [
@@ -3639,7 +3635,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 90,
+                "shards": 110,
                 "mythicShards": 0
             },
             {
@@ -3685,7 +3681,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 163,
+                "shards": 183,
                 "mythicShards": 0
             },
             {
@@ -3765,7 +3761,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 112,
+                "shards": 116,
                 "mythicShards": 0
             },
             {
@@ -3811,7 +3807,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 71,
+                "shards": 82,
                 "mythicShards": 0
             },
             {
@@ -3819,8 +3815,8 @@
                 "name": "Kariyan",
                 "faction": "Custodes",
                 "grandAlliance": "Imperial",
-                "progressionIndex": 15,
-                "xp": 1579653,
+                "progressionIndex": 16,
+                "xp": 1597796,
                 "xpLevel": 46,
                 "rank": 15,
                 "abilities": [
@@ -3842,27 +3838,27 @@
                     {
                         "slotId": "Slot2",
                         "level": 1,
-                        "id": "I_Block_L002",
-                        "name": "Artificer Refractor Field",
-                        "rarity": "Legendary"
+                        "id": "I_Block_M003",
+                        "name": "Perfected Force Field",
+                        "rarity": "Mythic"
                     },
                     {
                         "slotId": "Slot3",
                         "level": 1,
-                        "id": "I_Booster_Crit_L001",
-                        "name": "Artificer Frag Grenades",
-                        "rarity": "Legendary"
+                        "id": "I_Booster_Crit_M001",
+                        "name": "Archeotech Frag Grenades",
+                        "rarity": "Mythic"
                     },
                     {
                         "slotId": "Slot1",
                         "level": 1,
-                        "id": "I_Crit_L010",
-                        "name": "Grand Ceremonial Knife",
-                        "rarity": "Legendary"
+                        "id": "I_Crit_M010",
+                        "name": "Ancient Ceremonial Knife",
+                        "rarity": "Mythic"
                     }
                 ],
                 "shards": 0,
-                "mythicShards": 4
+                "mythicShards": 0
             },
             {
                 "id": "thousSorcerer",
@@ -3946,7 +3942,7 @@
                         "rarity": "Uncommon"
                     }
                 ],
-                "shards": 86,
+                "shards": 107,
                 "mythicShards": 0
             },
             {
@@ -3955,7 +3951,7 @@
                 "faction": "Sisterhood",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 34238,
+                "xp": 34633,
                 "xpLevel": 28,
                 "rank": 6,
                 "abilities": [
@@ -3995,7 +3991,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 90,
+                "shards": 100,
                 "mythicShards": 0
             },
             {
@@ -4050,7 +4046,7 @@
                 "faction": "Aeldari",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 12,
-                "xp": 219887,
+                "xp": 221356,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -4087,7 +4083,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 78,
+                "shards": 88,
                 "mythicShards": 0
             },
             {
@@ -4133,7 +4129,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 55,
+                "shards": 56,
                 "mythicShards": 0
             },
             {
@@ -4183,7 +4179,7 @@
                         "rarity": "Rare"
                     }
                 ],
-                "shards": 48,
+                "shards": 68,
                 "mythicShards": 0
             },
             {
@@ -4192,7 +4188,7 @@
                 "faction": "DeathGuard",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 12,
-                "xp": 255129,
+                "xp": 258046,
                 "xpLevel": 36,
                 "rank": 12,
                 "abilities": [
@@ -4290,7 +4286,7 @@
                 "faction": "AdeptusMechanicus",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 1126175,
+                "xp": 1133458,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -4327,7 +4323,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 622,
+                "shards": 679,
                 "mythicShards": 0
             },
             {
@@ -4336,7 +4332,7 @@
                 "faction": "EmperorsChildren",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 10,
-                "xp": 67808,
+                "xp": 67828,
                 "xpLevel": 30,
                 "rank": 0,
                 "abilities": [
@@ -4382,7 +4378,7 @@
                 "faction": "AstraMilitarum",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 14,
-                "xp": 1153269,
+                "xp": 1172144,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -4419,7 +4415,7 @@
                         "rarity": "Epic"
                     }
                 ],
-                "shards": 142,
+                "shards": 241,
                 "mythicShards": 0
             },
             {
@@ -4456,7 +4452,7 @@
                 "faction": "Genestealers",
                 "grandAlliance": "Xenos",
                 "progressionIndex": 15,
-                "xp": 33189,
+                "xp": 33510,
                 "xpLevel": 28,
                 "rank": 9,
                 "abilities": [
@@ -4577,7 +4573,7 @@
                 "faction": "Custodes",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 14,
-                "xp": 1122180,
+                "xp": 1124254,
                 "xpLevel": 44,
                 "rank": 15,
                 "abilities": [
@@ -4638,7 +4634,7 @@
                 ],
                 "upgrades": [],
                 "items": [],
-                "shards": 903,
+                "shards": 945,
                 "mythicShards": 0
             },
             {
@@ -4647,8 +4643,8 @@
                 "faction": "EmperorsChildren",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 10,
-                "xp": 624,
-                "xpLevel": 8,
+                "xp": 7093,
+                "xpLevel": 21,
                 "rank": 0,
                 "abilities": [
                     {
@@ -4662,7 +4658,7 @@
                 ],
                 "upgrades": [],
                 "items": [],
-                "shards": 0,
+                "shards": 86,
                 "mythicShards": 0
             },
             {
@@ -4671,7 +4667,7 @@
                 "faction": "ThousandSons",
                 "grandAlliance": "Chaos",
                 "progressionIndex": 12,
-                "xp": 212592,
+                "xp": 213258,
                 "xpLevel": 35,
                 "rank": 12,
                 "abilities": [
@@ -4710,7 +4706,7 @@
                         "rarity": "Legendary"
                     }
                 ],
-                "shards": 46,
+                "shards": 92,
                 "mythicShards": 0
             },
             {
@@ -4719,8 +4715,8 @@
                 "faction": "BlackTemplars",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 2,
-                "xpLevel": 1,
+                "xp": 238,
+                "xpLevel": 5,
                 "rank": 0,
                 "abilities": [
                     {
@@ -4734,7 +4730,7 @@
                 ],
                 "upgrades": [],
                 "items": [],
-                "shards": 7,
+                "shards": 17,
                 "mythicShards": 0
             },
             {
@@ -4771,8 +4767,8 @@
                 "faction": "Sisterhood",
                 "grandAlliance": "Imperial",
                 "progressionIndex": 12,
-                "xp": 5,
-                "xpLevel": 1,
+                "xp": 283,
+                "xpLevel": 5,
                 "rank": 0,
                 "abilities": [
                     {
@@ -4786,7 +4782,7 @@
                 ],
                 "upgrades": [],
                 "items": [],
-                "shards": 7,
+                "shards": 19,
                 "mythicShards": 0
             },
             {
@@ -4812,6 +4808,30 @@
                 "items": [],
                 "shards": 0,
                 "mythicShards": 0
+            },
+            {
+                "id": "spaceWolfPriest",
+                "name": "Baldr",
+                "faction": "SpaceWolves",
+                "grandAlliance": "Imperial",
+                "progressionIndex": 7,
+                "xp": 0,
+                "xpLevel": 1,
+                "rank": 0,
+                "abilities": [
+                    {
+                        "id": "RitesOfMorkai",
+                        "level": 1
+                    },
+                    {
+                        "id": "HealingBalms",
+                        "level": 1
+                    }
+                ],
+                "upgrades": [],
+                "items": [],
+                "shards": 0,
+                "mythicShards": 0
             }
         ],
         "inventory": {
@@ -4820,13 +4840,13 @@
                     "id": "I_Booster_Block_U002",
                     "name": "Improved Force Field Amplifier",
                     "level": 1,
-                    "amount": 4
+                    "amount": 9
                 },
                 {
                     "id": "I_Crit_U006",
                     "name": "Twisted Bolt Pistol",
                     "level": 1,
-                    "amount": 3
+                    "amount": 4
                 },
                 {
                     "id": "I_Crit_U005",
@@ -4838,7 +4858,7 @@
                     "id": "I_Booster_Crit_U003",
                     "name": "Twisted Frag Grenades",
                     "level": 1,
-                    "amount": 4
+                    "amount": 5
                 },
                 {
                     "id": "I_Booster_Crit_U005",
@@ -4850,7 +4870,7 @@
                     "id": "I_Booster_Crit_U001",
                     "name": "Battle Hardened Frag Grenades",
                     "level": 1,
-                    "amount": 4
+                    "amount": 7
                 },
                 {
                     "id": "I_Block_U002",
@@ -4862,7 +4882,7 @@
                     "id": "I_Booster_Crit_R003",
                     "name": "Heretical Frag Grenades",
                     "level": 1,
-                    "amount": 6
+                    "amount": 8
                 },
                 {
                     "id": "I_Block_U008",
@@ -4874,7 +4894,7 @@
                     "id": "I_Booster_Crit_U004",
                     "name": "Killy Stikkbomz",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Crit_R010",
@@ -4910,25 +4930,25 @@
                     "id": "I_Crit_U008",
                     "name": "Aspect Shuriken Pistol",
                     "level": 1,
-                    "amount": 5
+                    "amount": 6
                 },
                 {
                     "id": "I_Defensive_U006",
                     "name": "Evolved Exoskeleton",
                     "level": 1,
-                    "amount": 4
+                    "amount": 5
                 },
                 {
                     "id": "I_Block_U006",
                     "name": "Twisted Sigil of Corruption",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Defensive_U007",
                     "name": "Savage Spiked Pauldron",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Crit_U011",
@@ -4940,7 +4960,7 @@
                     "id": "I_Defensive_U003",
                     "name": "Good Plated Greaves",
                     "level": 1,
-                    "amount": 6
+                    "amount": 8
                 },
                 {
                     "id": "I_Crit_U003",
@@ -4952,7 +4972,7 @@
                     "id": "I_Booster_Crit_R005",
                     "name": "Refined Fusion Charges",
                     "level": 1,
-                    "amount": 10
+                    "amount": 11
                 },
                 {
                     "id": "I_Block_R006",
@@ -4964,7 +4984,7 @@
                     "id": "I_Crit_R008",
                     "name": "Wraithbone Shuriken Pistol",
                     "level": 1,
-                    "amount": 6
+                    "amount": 7
                 },
                 {
                     "id": "I_Crit_R009",
@@ -4976,37 +4996,37 @@
                     "id": "I_Booster_Crit_U006",
                     "name": "Evolved Lash-Whip",
                     "level": 1,
-                    "amount": 3
+                    "amount": 4
                 },
                 {
                     "id": "I_Booster_Crit_R004",
                     "name": "Speshul Killy Stikkbomz",
                     "level": 1,
-                    "amount": 7
+                    "amount": 8
                 },
                 {
                     "id": "I_Booster_Crit_U002",
                     "name": "Subjugating Disruption Fields",
                     "level": 1,
-                    "amount": 4
+                    "amount": 5
                 },
                 {
                     "id": "I_Booster_Block_R002",
                     "name": "Refined Force Field Amplifier",
                     "level": 1,
-                    "amount": 29
+                    "amount": 32
                 },
                 {
                     "id": "I_Defensive_R007",
                     "name": "Brutal Spiked Pauldron",
                     "level": 1,
-                    "amount": 12
+                    "amount": 13
                 },
                 {
                     "id": "I_Crit_U001",
                     "name": "Balanced Combat Knife",
                     "level": 1,
-                    "amount": 15
+                    "amount": 20
                 },
                 {
                     "id": "I_Defensive_U005",
@@ -5066,7 +5086,7 @@
                     "id": "I_Defensive_R006",
                     "name": "Augmented Exoskeleton",
                     "level": 1,
-                    "amount": 8
+                    "amount": 9
                 },
                 {
                     "id": "I_Booster_Crit_R002",
@@ -5084,7 +5104,7 @@
                     "id": "I_Crit_R011",
                     "name": "Augmented Bonesword",
                     "level": 1,
-                    "amount": 12
+                    "amount": 14
                 },
                 {
                     "id": "I_Defensive_L006",
@@ -5108,7 +5128,7 @@
                     "id": "I_Defensive_R003",
                     "name": "Fine Plated Greaves",
                     "level": 1,
-                    "amount": 13
+                    "amount": 14
                 },
                 {
                     "id": "I_Block_E008",
@@ -5138,7 +5158,7 @@
                     "id": "I_Block_L002",
                     "name": "Artificer Refractor Field",
                     "level": 1,
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "I_Block_R004",
@@ -5150,7 +5170,7 @@
                     "id": "I_Crit_R001",
                     "name": "Powered Combat Knife",
                     "level": 1,
-                    "amount": 22
+                    "amount": 31
                 },
                 {
                     "id": "I_Defensive_U005",
@@ -5174,7 +5194,7 @@
                     "id": "I_Block_R003",
                     "name": "Refined Force Field",
                     "level": 1,
-                    "amount": 26
+                    "amount": 32
                 },
                 {
                     "id": "I_Defensive_R004",
@@ -5210,19 +5230,19 @@
                     "id": "I_Crit_R002",
                     "name": "Sanctified Bolt Pistol",
                     "level": 1,
-                    "amount": 10
+                    "amount": 13
                 },
                 {
                     "id": "I_Booster_Crit_R001",
                     "name": "Sanctified Frag Grenades",
                     "level": 1,
-                    "amount": 10
+                    "amount": 13
                 },
                 {
                     "id": "I_Defensive_E003",
                     "name": "Adorned Plated Greaves",
                     "level": 1,
-                    "amount": 3
+                    "amount": 4
                 },
                 {
                     "id": "I_Booster_Block_E002",
@@ -5246,7 +5266,7 @@
                     "id": "I_Crit_R006",
                     "name": "Heretical Bolt Pistol",
                     "level": 1,
-                    "amount": 12
+                    "amount": 13
                 },
                 {
                     "id": "I_Defensive_R002",
@@ -5276,13 +5296,13 @@
                     "id": "I_Crit_E007",
                     "name": "Ded Killy Slugga",
                     "level": 1,
-                    "amount": 3
+                    "amount": 4
                 },
                 {
                     "id": "I_Crit_E001",
                     "name": "Advanced Combat Knife",
                     "level": 1,
-                    "amount": 16
+                    "amount": 19
                 },
                 {
                     "id": "I_Crit_L009",
@@ -5318,7 +5338,7 @@
                     "id": "I_Crit_E010",
                     "name": "Adorned Ceremonial Knife",
                     "level": 1,
-                    "amount": 10
+                    "amount": 11
                 },
                 {
                     "id": "I_Crit_M006",
@@ -5372,7 +5392,7 @@
                     "id": "R_Booster_Crit_KardiocoreGalvanus",
                     "name": "Kardiocore Galvanus",
                     "level": 1,
-                    "amount": 2
+                    "amount": 1
                 },
                 {
                     "id": "I_Defensive_L003",
@@ -5426,7 +5446,7 @@
                     "id": "I_Crit_U010",
                     "name": "Good Ceremonial Knife",
                     "level": 1,
-                    "amount": 2
+                    "amount": 5
                 },
                 {
                     "id": "I_Crit_U007",
@@ -5438,25 +5458,25 @@
                     "id": "I_Crit_C001",
                     "name": "Combat Knife",
                     "level": 1,
-                    "amount": 17
+                    "amount": 25
                 },
                 {
                     "id": "I_Crit_C005",
                     "name": "Particle Casters",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Booster_Crit_E001",
                     "name": "Master-Crafted Frag Grenades",
                     "level": 1,
-                    "amount": 6
+                    "amount": 9
                 },
                 {
                     "id": "I_Crit_L001",
                     "name": "Grand Combat Knife",
                     "level": 1,
-                    "amount": 12
+                    "amount": 13
                 },
                 {
                     "id": "I_Defensive_L007",
@@ -5492,13 +5512,13 @@
                     "id": "I_Block_E003",
                     "name": "Advanced Force Field",
                     "level": 1,
-                    "amount": 6
+                    "amount": 7
                 },
                 {
                     "id": "I_Crit_C010",
                     "name": "Ceremonial Knife",
                     "level": 1,
-                    "amount": 8
+                    "amount": 9
                 },
                 {
                     "id": "I_Crit_C009",
@@ -5510,13 +5530,13 @@
                     "id": "I_Block_U003",
                     "name": "Improved Force Field",
                     "level": 1,
-                    "amount": 7
+                    "amount": 9
                 },
                 {
                     "id": "I_Block_C003",
                     "name": "Force Field",
                     "level": 1,
-                    "amount": 11
+                    "amount": 15
                 },
                 {
                     "id": "I_Block_C008",
@@ -5528,13 +5548,13 @@
                     "id": "I_Defensive_C003",
                     "name": "Plated Greaves",
                     "level": 1,
-                    "amount": 9
+                    "amount": 15
                 },
                 {
                     "id": "I_Defensive_C007",
                     "name": "Blooded Spiked Pauldron",
                     "level": 1,
-                    "amount": 3
+                    "amount": 4
                 },
                 {
                     "id": "I_Crit_M002",
@@ -5552,7 +5572,7 @@
                     "id": "I_Crit_C008",
                     "name": "Shuriken Pistol",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Defensive_E002",
@@ -5576,19 +5596,13 @@
                     "id": "I_Crit_C011",
                     "name": "Bonesword",
                     "level": 1,
-                    "amount": 3
+                    "amount": 5
                 },
                 {
                     "id": "I_Crit_C002",
                     "name": "Standard-Issue Bolt Pistol",
                     "level": 1,
-                    "amount": 1
-                },
-                {
-                    "id": "I_Booster_Crit_M001",
-                    "name": "Archeotech Frag Grenades",
-                    "level": 1,
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "I_Defensive_L003",
@@ -5606,13 +5620,7 @@
                     "id": "I_Crit_L010",
                     "name": "Grand Ceremonial Knife",
                     "level": 1,
-                    "amount": 1
-                },
-                {
-                    "id": "I_Block_M003",
-                    "name": "Perfected Force Field",
-                    "level": 1,
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "I_Block_L003",
@@ -5678,7 +5686,7 @@
                     "id": "I_Crit_C007",
                     "name": "Slugga",
                     "level": 1,
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "I_Booster_Crit_M003",
@@ -5721,6 +5729,36 @@
                     "name": "Hyperphasing Particle Casters",
                     "level": 1,
                     "amount": 1
+                },
+                {
+                    "id": "I_Defensive_C005",
+                    "name": "Nanocrystalline Plating",
+                    "level": 1,
+                    "amount": 2
+                },
+                {
+                    "id": "I_Block_E002",
+                    "name": "Master-Crafted Refractor Field",
+                    "level": 1,
+                    "amount": 1
+                },
+                {
+                    "id": "I_Booster_Crit_E002",
+                    "name": "Hyperphasing Disruption Fields",
+                    "level": 1,
+                    "amount": 1
+                },
+                {
+                    "id": "I_Defensive_L004",
+                    "name": "Grand Mantle",
+                    "level": 1,
+                    "amount": 1
+                },
+                {
+                    "id": "I_Booster_Crit_L001",
+                    "name": "Artificer Frag Grenades",
+                    "level": 1,
+                    "amount": 1
                 }
             ],
             "upgrades": [
@@ -5732,7 +5770,7 @@
                 {
                     "id": "upgDmgR024",
                     "name": "Sigil of Decay",
-                    "amount": 12
+                    "amount": 13
                 },
                 {
                     "id": "upgDmgR023",
@@ -5742,7 +5780,7 @@
                 {
                     "id": "upgDmgR022",
                     "name": "Hymn of Martyrs",
-                    "amount": 28
+                    "amount": 29
                 },
                 {
                     "id": "upgDmgR028",
@@ -5752,17 +5790,22 @@
                 {
                     "id": "upgDmgR027",
                     "name": "Sensor Suite",
-                    "amount": 21
+                    "amount": 40
                 },
                 {
                     "id": "upgDmgR026",
                     "name": "Iron Jaw",
-                    "amount": 2
+                    "amount": 5
                 },
                 {
                     "id": "upgHpL116",
                     "name": "Gifts of the Star Children",
                     "amount": 83
+                },
+                {
+                    "id": "upgArmR006",
+                    "name": "Crate of Salvage",
+                    "amount": 11
                 },
                 {
                     "id": "upgHpL117",
@@ -5772,17 +5815,17 @@
                 {
                     "id": "upgArmR009",
                     "name": "Unnatural Vapour Dispenser",
-                    "amount": 13
+                    "amount": 15
                 },
                 {
                     "id": "upgHpL114",
                     "name": "Blessed Cogitator",
-                    "amount": 24
+                    "amount": 52
                 },
                 {
                     "id": "upgHpL115",
                     "name": "Blood Vial",
-                    "amount": 43
+                    "amount": 46
                 },
                 {
                     "id": "upgHpL112",
@@ -5797,7 +5840,7 @@
                 {
                     "id": "upgArmR005",
                     "name": "Artificer Tasset Plate",
-                    "amount": 17
+                    "amount": 18
                 },
                 {
                     "id": "upgHpL111",
@@ -5807,12 +5850,12 @@
                 {
                     "id": "upgHpL109",
                     "name": "Boon of Tzeentch",
-                    "amount": 36
+                    "amount": 39
                 },
                 {
                     "id": "upgHpL107",
                     "name": "Engram Neurochip",
-                    "amount": 33
+                    "amount": 11
                 },
                 {
                     "id": "upgHpL108",
@@ -5822,17 +5865,22 @@
                 {
                     "id": "upgDmgR021",
                     "name": "Chain of Zeal",
-                    "amount": 5
+                    "amount": 6
                 },
                 {
                     "id": "upgDmgR036",
                     "name": "Proclamation Receiver",
-                    "amount": 8
+                    "amount": 9
                 },
                 {
                     "id": "upgDmgR035",
                     "name": "Blood Shard Bolt",
-                    "amount": 8
+                    "amount": 14
+                },
+                {
+                    "id": "upgDmgR034",
+                    "name": "Motive Force Capacitator",
+                    "amount": 3
                 },
                 {
                     "id": "upgDmgR033",
@@ -5842,17 +5890,17 @@
                 {
                     "id": "upgDmgR039",
                     "name": "Vox Grill Amplifier",
-                    "amount": 12
+                    "amount": 14
                 },
                 {
                     "id": "upgDmgR038",
                     "name": "Chainaxe Teeth",
-                    "amount": 6
+                    "amount": 7
                 },
                 {
                     "id": "upgDmgR037",
                     "name": "Integrated Bolt Feeder",
-                    "amount": 2
+                    "amount": 7
                 },
                 {
                     "id": "upgHpL118",
@@ -5862,17 +5910,17 @@
                 {
                     "id": "upgHpL119",
                     "name": "Boon of Slaanesh",
-                    "amount": 61
+                    "amount": 83
                 },
                 {
                     "id": "upgDmgR032",
                     "name": "Chapter Pendant",
-                    "amount": 39
+                    "amount": 40
                 },
                 {
                     "id": "upgDmgR031",
                     "name": "Wolf Tooth Necklace",
-                    "amount": 50
+                    "amount": 54
                 },
                 {
                     "id": "upgHpE035C",
@@ -5887,32 +5935,42 @@
                 {
                     "id": "upgArmR029",
                     "name": "Ritual Implements",
-                    "amount": 5
+                    "amount": 7
+                },
+                {
+                    "id": "upgArmR028",
+                    "name": "Wraithbone Plate",
+                    "amount": 3
                 },
                 {
                     "id": "upgArmR025",
                     "name": "Flak Plates",
-                    "amount": 2
+                    "amount": 4
                 },
                 {
                     "id": "upgArmR027",
                     "name": "Drone Controller",
-                    "amount": 20
+                    "amount": 18
+                },
+                {
+                    "id": "upgArmR026",
+                    "name": "'ard Plate",
+                    "amount": 2
                 },
                 {
                     "id": "upgArmR021",
                     "name": "Blessed Tabard",
-                    "amount": 10
+                    "amount": 11
                 },
                 {
                     "id": "upgArmR023",
                     "name": "Blasphemous Armor Trim",
-                    "amount": 25
+                    "amount": 27
                 },
                 {
                     "id": "upgArmR022",
                     "name": "Blessed Corset Armor",
-                    "amount": 24
+                    "amount": 25
                 },
                 {
                     "id": "upgHpL120C",
@@ -5930,14 +5988,14 @@
                     "amount": 1
                 },
                 {
-                    "id": "upgArmR010",
-                    "name": "Valuable Fabric",
-                    "amount": 4
+                    "id": "upgArmR015",
+                    "name": "Subdermal Plating",
+                    "amount": 1
                 },
                 {
                     "id": "upgHpU009",
                     "name": "Mutation: Warped Lungs",
-                    "amount": 5
+                    "amount": 25
                 },
                 {
                     "id": "upgHpU003",
@@ -5952,12 +6010,12 @@
                 {
                     "id": "upgHpU002",
                     "name": "Reliquary of Protection",
-                    "amount": 13
+                    "amount": 18
                 },
                 {
                     "id": "upgHpU007",
                     "name": "Purifier",
-                    "amount": 4
+                    "amount": 29
                 },
                 {
                     "id": "upgHpU008",
@@ -5975,6 +6033,11 @@
                     "amount": 1
                 },
                 {
+                    "id": "upgHpU014",
+                    "name": "Reinforced Cables",
+                    "amount": 8
+                },
+                {
                     "id": "upgHpU015",
                     "name": "Satchel",
                     "amount": 63
@@ -5982,12 +6045,12 @@
                 {
                     "id": "upgArmR039",
                     "name": "Lavish Helmet Crest",
-                    "amount": 9
+                    "amount": 14
                 },
                 {
                     "id": "upgHpU012",
                     "name": "Helmet Trophy",
-                    "amount": 9
+                    "amount": 8
                 },
                 {
                     "id": "upgHpU013",
@@ -5997,52 +6060,47 @@
                 {
                     "id": "upgArmR036",
                     "name": "Industrial Padding",
-                    "amount": 10
+                    "amount": 11
                 },
                 {
                     "id": "upgArmR035",
                     "name": "Artisan Plating",
-                    "amount": 7
+                    "amount": 10
                 },
                 {
                     "id": "upgHpU016",
                     "name": "Writings",
-                    "amount": 11
+                    "amount": 9
                 },
                 {
                     "id": "upgArmR038",
                     "name": "Cadaere Renissum",
-                    "amount": 4
-                },
-                {
-                    "id": "upgHpU017",
-                    "name": "Mission Objective",
-                    "amount": 9
+                    "amount": 5
                 },
                 {
                     "id": "upgArmR037",
                     "name": "Auramite Wing",
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "upgArmR032",
                     "name": "Dark Hood",
-                    "amount": 36
+                    "amount": 37
                 },
                 {
                     "id": "upgArmR031",
                     "name": "Beast Hide",
-                    "amount": 42
+                    "amount": 43
                 },
                 {
                     "id": "upgArmR034",
                     "name": "Cogwheel Crest",
-                    "amount": 1
+                    "amount": 4
                 },
                 {
                     "id": "upgArmR033",
                     "name": "Reinforced Chitin",
-                    "amount": 35
+                    "amount": 36
                 },
                 {
                     "id": "upgHpL133C",
@@ -6062,17 +6120,17 @@
                 {
                     "id": "upgDmgU009",
                     "name": "Plasma Cell",
-                    "amount": 11
+                    "amount": 31
                 },
                 {
                     "id": "upgDmgU004",
                     "name": "Attack Vector Data-slate",
-                    "amount": 18
+                    "amount": 24
                 },
                 {
                     "id": "upgDmgU003",
                     "name": "Barrel of Promethium",
-                    "amount": 2
+                    "amount": 4
                 },
                 {
                     "id": "upgDmgU006",
@@ -6087,12 +6145,12 @@
                 {
                     "id": "upgHpL106",
                     "name": "Kustom Gubbinz",
-                    "amount": 49
+                    "amount": 7
                 },
                 {
                     "id": "upgHpL103",
                     "name": "Boon of the Dark Gods",
-                    "amount": 64
+                    "amount": 67
                 },
                 {
                     "id": "upgHpL104",
@@ -6102,12 +6160,17 @@
                 {
                     "id": "upgHpL101",
                     "name": "Bones of the Paragons",
-                    "amount": 7
+                    "amount": 10
                 },
                 {
                     "id": "upgHpL102",
                     "name": "Holy Chaplet",
                     "amount": 19
+                },
+                {
+                    "id": "upgDmgE039C",
+                    "name": "Sonic Greave Amplifier",
+                    "amount": 1
                 },
                 {
                     "id": "upgHpL100",
@@ -6117,6 +6180,11 @@
                 {
                     "id": "upgDmgU019",
                     "name": "Slicing Claws",
+                    "amount": 4
+                },
+                {
+                    "id": "upgDmgU014",
+                    "name": "Combat Stimms",
                     "amount": 2
                 },
                 {
@@ -6130,11 +6198,6 @@
                     "amount": 1
                 },
                 {
-                    "id": "upgDmgL204",
-                    "name": "Ancient Power Cell",
-                    "amount": 7
-                },
-                {
                     "id": "upgDmgU011",
                     "name": "Divinator Class Auspex",
                     "amount": 11
@@ -6142,42 +6205,32 @@
                 {
                     "id": "upgDmgU010",
                     "name": "Fine Micro-Generator",
-                    "amount": 1
-                },
-                {
-                    "id": "upgDmgU012",
-                    "name": "Locator Beacon",
                     "amount": 2
-                },
-                {
-                    "id": "upgArmL204",
-                    "name": "Ancient Alloy",
-                    "amount": 9
                 },
                 {
                     "id": "upgArmL203",
                     "name": "Archeotech Remnant",
-                    "amount": 44
+                    "amount": 36
                 },
                 {
                     "id": "upgArmL202",
                     "name": "Psyk-Conductive Material",
-                    "amount": 75
+                    "amount": 76
                 },
                 {
                     "id": "upgArmU014",
                     "name": "Mesh Weave",
-                    "amount": 9
+                    "amount": 1
                 },
                 {
                     "id": "upgArmU013",
                     "name": "Cloak",
-                    "amount": 3
+                    "amount": 5
                 },
                 {
                     "id": "upgArmU012",
                     "name": "Reinforced Scale-Plates",
-                    "amount": 23
+                    "amount": 24
                 },
                 {
                     "id": "upgDmgE035C",
@@ -6192,22 +6245,22 @@
                 {
                     "id": "upgArmU008",
                     "name": "Advanced Rebreather",
-                    "amount": 12
+                    "amount": 1
                 },
                 {
                     "id": "upgArmU007",
                     "name": "Mutation: Scaly Skin",
-                    "amount": 3
+                    "amount": 5
                 },
                 {
                     "id": "upgArmU006",
                     "name": "Advanced Filaments",
-                    "amount": 7
+                    "amount": 22
                 },
                 {
                     "id": "upgArmU005",
                     "name": "Ceramite Lump",
-                    "amount": 3
+                    "amount": 15
                 },
                 {
                     "id": "upgArmE031C",
@@ -6217,52 +6270,52 @@
                 {
                     "id": "upgArmU002",
                     "name": "Box of Salvage",
-                    "amount": 17
+                    "amount": 13
                 },
                 {
                     "id": "upgArmU001",
                     "name": "Oath Seal",
-                    "amount": 3
+                    "amount": 29
                 },
                 {
                     "id": "upgHpR018",
                     "name": "Kill Count",
-                    "amount": 18
+                    "amount": 3
+                },
+                {
+                    "id": "upgHpE039C",
+                    "name": "Outrageous Adornment",
+                    "amount": 1
                 },
                 {
                     "id": "upgHpR019",
                     "name": "Battle Scar",
-                    "amount": 17
+                    "amount": 1
                 },
                 {
                     "id": "upgDmgL001",
                     "name": "Master-crafted Ammo",
-                    "amount": 70
-                },
-                {
-                    "id": "upgHpR010",
-                    "name": "Bad Moon Teef",
-                    "amount": 18
+                    "amount": 71
                 },
                 {
                     "id": "upgDmgL003",
                     "name": "Archeotech Bionics",
-                    "amount": 36
+                    "amount": 32
                 },
                 {
                     "id": "upgHpR011",
                     "name": "Reconstitution Protocols",
-                    "amount": 3
+                    "amount": 5
                 },
                 {
                     "id": "upgHpR014",
                     "name": "Ancient Runes",
-                    "amount": 10
+                    "amount": 7
                 },
                 {
                     "id": "upgHpR029",
                     "name": "Tainted Text",
-                    "amount": 7
+                    "amount": 9
                 },
                 {
                     "id": "upgHpR028",
@@ -6292,22 +6345,22 @@
                 {
                     "id": "upgHpR027",
                     "name": "Stimm Injector",
-                    "amount": 20
+                    "amount": 28
                 },
                 {
                     "id": "upgHpR039",
                     "name": "Outrageous Padding",
-                    "amount": 16
+                    "amount": 19
                 },
                 {
                     "id": "upgHpR032",
                     "name": "Key of Ignorance",
-                    "amount": 25
+                    "amount": 26
                 },
                 {
                     "id": "upgHpR031",
                     "name": "Wolf Tail Talisman",
-                    "amount": 44
+                    "amount": 48
                 },
                 {
                     "id": "upgDmgE032C",
@@ -6317,17 +6370,17 @@
                 {
                     "id": "upgHpR033",
                     "name": "Adrenal Glands",
-                    "amount": 51
+                    "amount": 52
                 },
                 {
                     "id": "upgHpR036",
                     "name": "Wyrm-form Sigil",
-                    "amount": 13
+                    "amount": 17
                 },
                 {
                     "id": "upgHpR035",
                     "name": "Bloodstone Tear",
-                    "amount": 5
+                    "amount": 6
                 },
                 {
                     "id": "upgHpR038",
@@ -6337,12 +6390,12 @@
                 {
                     "id": "upgArmL001",
                     "name": "Purity Seal of the Primarch",
-                    "amount": 75
+                    "amount": 81
                 },
                 {
                     "id": "upgHpR037",
                     "name": "Flawless Terran Gem",
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "upgDmgE031C",
@@ -6357,12 +6410,12 @@
                 {
                     "id": "upgDmgC009",
                     "name": "Basic Auxiliary Core",
-                    "amount": 2
+                    "amount": 10
                 },
                 {
                     "id": "upgDmgC005",
                     "name": "Ballistics Data",
-                    "amount": 6
+                    "amount": 1
                 },
                 {
                     "id": "upgDmgC006",
@@ -6372,27 +6425,27 @@
                 {
                     "id": "upgDmgC007",
                     "name": "Single Power Pack",
-                    "amount": 11
+                    "amount": 20
                 },
                 {
                     "id": "upgDmgC008",
                     "name": "Otherworldly Energy",
-                    "amount": 9
+                    "amount": 33
                 },
                 {
                     "id": "upgDmgC001",
                     "name": "Round of Ammo",
-                    "amount": 18
+                    "amount": 3
                 },
                 {
                     "id": "upgDmgC002",
                     "name": "Frag Grenade",
-                    "amount": 32
+                    "amount": 33
                 },
                 {
                     "id": "upgDmgC003",
                     "name": "Canister of Chemicals",
-                    "amount": 3
+                    "amount": 10
                 },
                 {
                     "id": "upgDmgC004",
@@ -6402,27 +6455,32 @@
                 {
                     "id": "upgDmgC010",
                     "name": "Auspex",
-                    "amount": 16
+                    "amount": 5
                 },
                 {
                     "id": "upgDmgC011",
                     "name": "Weapon Anointment Oils",
-                    "amount": 6
+                    "amount": 12
                 },
                 {
                     "id": "upgHpR007",
                     "name": "Zeidos Ribbon",
-                    "amount": 2
+                    "amount": 3
                 },
                 {
                     "id": "upgHpR008",
                     "name": "Mutation: Warped Heart",
-                    "amount": 21
+                    "amount": 25
+                },
+                {
+                    "id": "upgArmE039C",
+                    "name": "Lavish Helmet Spike",
+                    "amount": 1
                 },
                 {
                     "id": "upgHpR001",
                     "name": "Repair Tool",
-                    "amount": 1
+                    "amount": 3
                 },
                 {
                     "id": "upgDmgC012",
@@ -6432,22 +6490,27 @@
                 {
                     "id": "upgDmgC013",
                     "name": "Vox-Caster",
-                    "amount": 9
+                    "amount": 5
+                },
+                {
+                    "id": "upgHpR002",
+                    "name": "Metal Decorative Skull",
+                    "amount": 5
                 },
                 {
                     "id": "upgHpR005",
                     "name": "The Phoenix Ascendant",
-                    "amount": 9
+                    "amount": 14
                 },
                 {
                     "id": "upgDmgC014",
                     "name": "Nasty Spikes",
-                    "amount": 1
+                    "amount": 3
                 },
                 {
                     "id": "upgDmgC015",
                     "name": "Targeting Link",
-                    "amount": 13
+                    "amount": 28
                 },
                 {
                     "id": "upgArmC013",
@@ -6462,12 +6525,12 @@
                 {
                     "id": "upgArmC011",
                     "name": "Filaments",
-                    "amount": 11
+                    "amount": 2
                 },
                 {
                     "id": "upgArmC007",
                     "name": "Mutation: Tough Skin",
-                    "amount": 2
+                    "amount": 4
                 },
                 {
                     "id": "upgArmC006",
@@ -6477,37 +6540,42 @@
                 {
                     "id": "upgArmC005",
                     "name": "Sophisticated Material",
-                    "amount": 13
-                },
-                {
-                    "id": "upgArmC004",
-                    "name": "Adamantium Ore",
-                    "amount": 3
+                    "amount": 28
                 },
                 {
                     "id": "upgArmC003",
                     "name": "Pile of Salvage",
-                    "amount": 1
+                    "amount": 14
                 },
                 {
                     "id": "upgArmC002",
                     "name": "Fine Purity Seal",
-                    "amount": 3
+                    "amount": 6
+                },
+                {
+                    "id": "upgArmC001",
+                    "name": "Purity Seal",
+                    "amount": 10
                 },
                 {
                     "id": "upgHpE003",
                     "name": "Terminator Honours",
-                    "amount": 2
+                    "amount": 9
                 },
                 {
                     "id": "upgHpE015",
                     "name": "Weathering",
-                    "amount": 19
+                    "amount": 16
+                },
+                {
+                    "id": "upgHpE012",
+                    "name": "Golden Ornamental Skull",
+                    "amount": 4
                 },
                 {
                     "id": "upgHpE017",
                     "name": "Secret Agenda",
-                    "amount": 6
+                    "amount": 15
                 },
                 {
                     "id": "upgArmE035C",
@@ -6522,12 +6590,7 @@
                 {
                     "id": "upgDmgE004",
                     "name": "Bionic Neural Pathways",
-                    "amount": 5
-                },
-                {
-                    "id": "upgDmgE003",
-                    "name": "Blessed Promethium Canister",
-                    "amount": 9
+                    "amount": 2
                 },
                 {
                     "id": "upgDmgE005",
@@ -6535,44 +6598,29 @@
                     "amount": 17
                 },
                 {
-                    "id": "upgDmgE011",
-                    "name": "Elaborate Hilt",
-                    "amount": 4
-                },
-                {
                     "id": "upgDmgE010",
                     "name": "Warp Locus",
-                    "amount": 36
-                },
-                {
-                    "id": "upgHpC013",
-                    "name": "Chip Damage",
-                    "amount": 1
+                    "amount": 41
                 },
                 {
                     "id": "upgHpC010",
                     "name": "Mutation: Warped Muscles",
-                    "amount": 5
-                },
-                {
-                    "id": "upgArmU003C",
-                    "name": "Adamantium Lump",
-                    "amount": 1
+                    "amount": 11
                 },
                 {
                     "id": "upgHpC016",
                     "name": "Scrolls",
-                    "amount": 12
+                    "amount": 16
                 },
                 {
                     "id": "upgHpC017",
                     "name": "Mission Assignment",
-                    "amount": 25
+                    "amount": 1
                 },
                 {
                     "id": "upgHpC015",
                     "name": "Ropes and Chains",
-                    "amount": 1
+                    "amount": 2
                 },
                 {
                     "id": "upgArmE013",
@@ -6582,17 +6630,12 @@
                 {
                     "id": "upgArmE010",
                     "name": "Unyielding Rivets",
-                    "amount": 17
+                    "amount": 9
                 },
                 {
                     "id": "upgArmE009",
                     "name": "Revered Talisman",
-                    "amount": 3
-                },
-                {
-                    "id": "upgArmE008",
-                    "name": "Hypermaterial Shifter",
-                    "amount": 3
+                    "amount": 6
                 },
                 {
                     "id": "upgDmgL132C",
@@ -6645,14 +6688,9 @@
                     "amount": 1
                 },
                 {
-                    "id": "upgDmgR003",
-                    "name": "Tank of Promethium",
-                    "amount": 9
-                },
-                {
                     "id": "upgDmgR002",
                     "name": "Krak Grenade",
-                    "amount": 27
+                    "amount": 20
                 },
                 {
                     "id": "upgDmgR007",
@@ -6662,12 +6700,12 @@
                 {
                     "id": "upgDmgR006",
                     "name": "Bionic Eye",
-                    "amount": 1
+                    "amount": 7
                 },
                 {
                     "id": "upgDmgR005",
                     "name": "Classified Data-slate",
-                    "amount": 8
+                    "amount": 15
                 },
                 {
                     "id": "upgArmL122C",
@@ -6692,7 +6730,12 @@
                 {
                     "id": "upgHpC001",
                     "name": "Field Ration",
-                    "amount": 19
+                    "amount": 53
+                },
+                {
+                    "id": "upgHpC002",
+                    "name": "Minor Bionic Enhancement",
+                    "amount": 13
                 },
                 {
                     "id": "upgHpC005",
@@ -6720,11 +6763,6 @@
                     "amount": 37
                 },
                 {
-                    "id": "upgHpC007",
-                    "name": "Healing Ointment",
-                    "amount": 1
-                },
-                {
                     "id": "upgHpC008",
                     "name": "Thick Skin",
                     "amount": 8
@@ -6739,52 +6777,52 @@
                 {
                     "id": "ultraEliminatorSgt",
                     "name": "Certus Shards",
-                    "amount": 560
+                    "amount": 568
                 },
                 {
                     "id": "adeptRetributor",
                     "name": "Vindicta Shards",
-                    "amount": 160
+                    "amount": 161
                 },
                 {
                     "id": "ultraTigurius",
                     "name": "Tigurius Shards",
-                    "amount": 177
+                    "amount": 193
                 },
                 {
                     "id": "blackHaarken",
                     "name": "Haarken Shards",
-                    "amount": 758
+                    "amount": 764
                 },
                 {
                     "id": "necroWarden",
                     "name": "Makhotep Shards",
-                    "amount": 272
+                    "amount": 282
                 },
                 {
                     "id": "necroDestroyer",
                     "name": "Imospekh Shards",
-                    "amount": 107
+                    "amount": 119
                 },
                 {
                     "id": "ultraApothecary",
                     "name": "Incisus Shards",
-                    "amount": 86
+                    "amount": 137
                 },
                 {
                     "id": "blackTerminator",
                     "name": "Angrax Shards",
-                    "amount": 245
+                    "amount": 248
                 },
                 {
                     "id": "eldarAutarch",
                     "name": "Aethana Shards",
-                    "amount": 895
+                    "amount": 931
                 },
                 {
                     "id": "eldarRanger",
                     "name": "Calandis Shards",
-                    "amount": 399
+                    "amount": 418
                 },
                 {
                     "id": "eldarFarseer",
@@ -6794,27 +6832,27 @@
                 {
                     "id": "orksBigMek",
                     "name": "Gibbascrapz Shards",
-                    "amount": 584
+                    "amount": 636
                 },
                 {
                     "id": "orksWarboss",
                     "name": "Gulgortz Shards",
-                    "amount": 81
+                    "amount": 84
                 },
                 {
                     "id": "orksKillaKan",
                     "name": "Snappawrecka Shards",
-                    "amount": 1
+                    "amount": 11
                 },
                 {
                     "id": "blackObliterator",
                     "name": "Volk Shards",
-                    "amount": 175
+                    "amount": 179
                 },
                 {
                     "id": "worldJakhal",
                     "name": "Macer Shards",
-                    "amount": 29
+                    "amount": 189
                 },
                 {
                     "id": "tyranTyrantGuard",
@@ -6824,22 +6862,22 @@
                 {
                     "id": "tyranWingedPrime",
                     "name": "Winged Prime Shards",
-                    "amount": 274
+                    "amount": 284
                 },
                 {
                     "id": "tauShadowsun",
                     "name": "Shadowsun Shards",
-                    "amount": 697
+                    "amount": 709
                 },
                 {
                     "id": "deathBlightlord",
                     "name": "Maladus Shards",
-                    "amount": 0
+                    "amount": 34
                 },
                 {
                     "id": "orksRuntherd",
                     "name": "Snotflogga Shards",
-                    "amount": 0
+                    "amount": 14
                 },
                 {
                     "id": "tauCrisis",
@@ -6849,12 +6887,12 @@
                 {
                     "id": "blackPossession",
                     "name": "Archimatos Shards",
-                    "amount": 121
+                    "amount": 131
                 },
                 {
                     "id": "necroSpyder",
                     "name": "Aleph-Null Shards",
-                    "amount": 258
+                    "amount": 368
                 },
                 {
                     "id": "spaceRockfist",
@@ -6864,7 +6902,7 @@
                 {
                     "id": "astraYarrick",
                     "name": "Yarrick Shards",
-                    "amount": 4
+                    "amount": 14
                 },
                 {
                     "id": "tyranDeathleaper",
@@ -6879,17 +6917,17 @@
                 {
                     "id": "necroPlasmancer",
                     "name": "Thutmose Shards",
-                    "amount": 83
+                    "amount": 84
                 },
                 {
                     "id": "worldEightbound",
                     "name": "Azkor Shards",
-                    "amount": 55
+                    "amount": 56
                 },
                 {
                     "id": "orksNob",
                     "name": "Tanksmasha Shards",
-                    "amount": 55
+                    "amount": 62
                 },
                 {
                     "id": "blackAbaddon",
@@ -6909,7 +6947,7 @@
                 {
                     "id": "tauMarksman",
                     "name": "Sho'syl Shards",
-                    "amount": 97
+                    "amount": 2
                 },
                 {
                     "id": "darkaTerminator",
@@ -6919,12 +6957,12 @@
                 {
                     "id": "darkaAsmodai",
                     "name": "Asmodai Shards",
-                    "amount": 163
+                    "amount": 183
                 },
                 {
                     "id": "adeptCanoness",
                     "name": "Roswitha Shards",
-                    "amount": 398
+                    "amount": 401
                 },
                 {
                     "id": "tyranBiovore",
@@ -6934,7 +6972,7 @@
                 {
                     "id": "eldarMauganRa",
                     "name": "Maugan Ra Shards",
-                    "amount": 78
+                    "amount": 88
                 },
                 {
                     "id": "deathTyphus",
@@ -6949,22 +6987,22 @@
                 {
                     "id": "necroOverlord",
                     "name": "Anuphet Shards",
-                    "amount": 71
+                    "amount": 85
                 },
                 {
                     "id": "darkaAzrael",
                     "name": "Azrael Shards",
-                    "amount": 117
+                    "amount": 127
                 },
                 {
                     "id": "deathRotbone",
                     "name": "Nauseous Shards",
-                    "amount": 425
+                    "amount": 432
                 },
                 {
                     "id": "thousAhriman",
                     "name": "Ahriman Shards",
-                    "amount": 46
+                    "amount": 92
                 },
                 {
                     "id": "thousSorcerer",
@@ -6974,12 +7012,12 @@
                 {
                     "id": "thousInfernalMaster",
                     "name": "Abraxas Shards",
-                    "amount": 358
+                    "amount": 380
                 },
                 {
                     "id": "thousTerminator",
                     "name": "Toth Shards",
-                    "amount": 162
+                    "amount": 163
                 },
                 {
                     "id": "thousTzaangor",
@@ -6989,17 +7027,17 @@
                 {
                     "id": "templHelbrecht",
                     "name": "Helbrecht Shards",
-                    "amount": 7
+                    "amount": 17
                 },
                 {
                     "id": "tauDarkstrider",
                     "name": "Darkstrider Shards",
-                    "amount": 48
+                    "amount": 68
                 },
                 {
                     "id": "ultraCalgar",
                     "name": "Calgar Shards",
-                    "amount": 903
+                    "amount": 945
                 },
                 {
                     "id": "spaceBlackmane",
@@ -7034,12 +7072,12 @@
                 {
                     "id": "adeptHospitaller",
                     "name": "Isabella Shards",
-                    "amount": 74
+                    "amount": 146
                 },
                 {
                     "id": "bloodIntercessor",
                     "name": "Mataneo Shards",
-                    "amount": 158
+                    "amount": 238
                 },
                 {
                     "id": "deathPutrifier",
@@ -7059,7 +7097,7 @@
                 {
                     "id": "adeptMorvenn",
                     "name": "Morvenn Vahl Shards",
-                    "amount": 7
+                    "amount": 19
                 },
                 {
                     "id": "bloodDeathCompany",
@@ -7069,7 +7107,7 @@
                 {
                     "id": "admecDominus",
                     "name": "Vitruvius Shards",
-                    "amount": 622
+                    "amount": 679
                 },
                 {
                     "id": "tyranNeurothrope",
@@ -7079,7 +7117,7 @@
                 {
                     "id": "adeptCelestine",
                     "name": "Celestine Shards",
-                    "amount": 90
+                    "amount": 100
                 },
                 {
                     "id": "ultraTitus",
@@ -7094,7 +7132,7 @@
                 {
                     "id": "genesBiophagus",
                     "name": "Hollan Shards",
-                    "amount": 355
+                    "amount": 375
                 },
                 {
                     "id": "ultraDreadnought",
@@ -7104,7 +7142,7 @@
                 {
                     "id": "worldTerminator",
                     "name": "Wrask Shards",
-                    "amount": 704
+                    "amount": 794
                 },
                 {
                     "id": "admecMarshall",
@@ -7114,12 +7152,12 @@
                 {
                     "id": "admecManipulus",
                     "name": "Actus Shards",
-                    "amount": 14
+                    "amount": 27
                 },
                 {
                     "id": "darkaHellblaster",
                     "name": "Sarquael Shards",
-                    "amount": 167
+                    "amount": 184
                 },
                 {
                     "id": "tyranParasite",
@@ -7129,17 +7167,17 @@
                 {
                     "id": "spaceHound",
                     "name": "Tjark Shards",
-                    "amount": 86
+                    "amount": 107
                 },
                 {
                     "id": "templAggressor",
                     "name": "Burchard Shards",
-                    "amount": 75
+                    "amount": 76
                 },
                 {
                     "id": "templSwordBrother",
                     "name": "Godswyl Shards",
-                    "amount": 79
+                    "amount": 129
                 },
                 {
                     "id": "templAncient",
@@ -7149,17 +7187,17 @@
                 {
                     "id": "bloodSanguinary",
                     "name": "Nicodemus Shards",
-                    "amount": 132
+                    "amount": 312
                 },
                 {
                     "id": "astraCreed",
                     "name": "Creed Shards",
-                    "amount": 115
+                    "amount": 120
                 },
                 {
                     "id": "templChampion",
                     "name": "Jaeger Shards",
-                    "amount": 85
+                    "amount": 100
                 },
                 {
                     "id": "tauBroadside",
@@ -7174,17 +7212,17 @@
                 {
                     "id": "admecDestroyer",
                     "name": "Sy-gex Shards",
-                    "amount": 172
+                    "amount": 254
                 },
                 {
                     "id": "deathCrawler",
                     "name": "Plagueburst Crawler Shards",
-                    "amount": 138
+                    "amount": 149
                 },
                 {
                     "id": "genesKelermorph",
                     "name": "Judh Shards",
-                    "amount": 413
+                    "amount": 424
                 },
                 {
                     "id": "worldExecutions",
@@ -7204,7 +7242,7 @@
                 {
                     "id": "custoVexilusPraetor",
                     "name": "Aesoth Shards",
-                    "amount": 90
+                    "amount": 110
                 },
                 {
                     "id": "adeptExorcist",
@@ -7219,12 +7257,12 @@
                 {
                     "id": "bloodMephiston",
                     "name": "Mephiston Shards",
-                    "amount": 112
+                    "amount": 116
                 },
                 {
                     "id": "custoAtlacoya",
                     "name": "Atlacoya Shards",
-                    "amount": 71
+                    "amount": 82
                 },
                 {
                     "id": "emperNoiseMarine",
@@ -7234,7 +7272,7 @@
                 {
                     "id": "astraDreir",
                     "name": "Dreir Shards",
-                    "amount": 142
+                    "amount": 241
                 },
                 {
                     "id": "emperKakophonist",
@@ -7270,6 +7308,16 @@
                     "id": "bloodDante",
                     "name": "Dante Shards",
                     "amount": 10
+                },
+                {
+                    "id": "emperFlawlessBlade",
+                    "name": "Hascule Shards",
+                    "amount": 86
+                },
+                {
+                    "id": "emperExultant",
+                    "name": "Laviscus Shards",
+                    "amount": 90
                 }
             ],
             "mythicShards": [
@@ -7281,7 +7329,7 @@
                 {
                     "id": "custoBladeChampion",
                     "name": "Kariyan Mythic Shards",
-                    "amount": 4
+                    "amount": 0
                 },
                 {
                     "id": "admecRuststalker",
@@ -7323,32 +7371,32 @@
                 {
                     "id": "xpCommon",
                     "rarity": "Common",
-                    "amount": 271
+                    "amount": 297
                 },
                 {
                     "id": "xpRare",
                     "rarity": "Rare",
-                    "amount": 394
+                    "amount": 450
                 },
                 {
                     "id": "xpEpic",
                     "rarity": "Epic",
-                    "amount": 402
+                    "amount": 511
                 },
                 {
                     "id": "xpUncommon",
                     "rarity": "Uncommon",
-                    "amount": 328
+                    "amount": 360
                 },
                 {
                     "id": "xpLegendary",
                     "rarity": "Legendary",
-                    "amount": 66
+                    "amount": 116
                 },
                 {
                     "id": "xpMythic",
                     "rarity": "Mythic",
-                    "amount": 19
+                    "amount": 13
                 }
             ],
             "abilityBadges": {
@@ -7356,59 +7404,59 @@
                     {
                         "name": "Common Imperial Badges",
                         "rarity": "Common",
-                        "amount": 391
+                        "amount": 413
                     },
                     {
                         "name": "Uncommon Imperial Badges",
                         "rarity": "Uncommon",
-                        "amount": 35
+                        "amount": 67
                     },
                     {
                         "name": "Rare Imperial Badges",
                         "rarity": "Rare",
-                        "amount": 59
+                        "amount": 87
                     },
                     {
                         "name": "Epic Imperial Badges",
                         "rarity": "Epic",
-                        "amount": 56
+                        "amount": 85
                     },
                     {
                         "name": "Legendary Imperial Badges",
                         "rarity": "Legendary",
-                        "amount": 21
+                        "amount": 7
                     },
                     {
                         "name": "Mythic Imperial Badges",
                         "rarity": "Mythic",
-                        "amount": 41
+                        "amount": 46
                     }
                 ],
                 "Xenos": [
                     {
                         "name": "Common Xenos Badges",
                         "rarity": "Common",
-                        "amount": 195
+                        "amount": 206
                     },
                     {
                         "name": "Uncommon Xenos Badges",
                         "rarity": "Uncommon",
-                        "amount": 72
+                        "amount": 74
                     },
                     {
                         "name": "Rare Xenos Badges",
                         "rarity": "Rare",
-                        "amount": 54
+                        "amount": 70
                     },
                     {
                         "name": "Epic Xenos Badges",
                         "rarity": "Epic",
-                        "amount": 54
+                        "amount": 65
                     },
                     {
                         "name": "Legendary Xenos Badges",
                         "rarity": "Legendary",
-                        "amount": 45
+                        "amount": 28
                     },
                     {
                         "name": "Mythic Xenos Badges",
@@ -7420,27 +7468,27 @@
                     {
                         "name": "Common Chaos Badges",
                         "rarity": "Common",
-                        "amount": 606
+                        "amount": 648
                     },
                     {
                         "name": "Uncommon Chaos Badges",
                         "rarity": "Uncommon",
-                        "amount": 532
+                        "amount": 568
                     },
                     {
                         "name": "Rare Chaos Badges",
                         "rarity": "Rare",
-                        "amount": 485
+                        "amount": 520
                     },
                     {
                         "name": "Epic Chaos Badges",
                         "rarity": "Epic",
-                        "amount": 368
+                        "amount": 409
                     },
                     {
                         "name": "Legendary Chaos Badges",
                         "rarity": "Legendary",
-                        "amount": 128
+                        "amount": 144
                     },
                     {
                         "name": "Mythic Chaos Badges",
@@ -7458,12 +7506,12 @@
                 {
                     "name": "Xenos Components",
                     "grandAlliance": "Xenos",
-                    "amount": 1382
+                    "amount": 1431
                 },
                 {
                     "name": "Chaos Components",
                     "grandAlliance": "Chaos",
-                    "amount": 697
+                    "amount": 717
                 }
             ],
             "forgeBadges": [
@@ -7475,22 +7523,22 @@
                 {
                     "name": "Uncommon Forge Badges",
                     "rarity": "Uncommon",
-                    "amount": 893
+                    "amount": 932
                 },
                 {
                     "name": "Rare Forge Badges",
                     "rarity": "Rare",
-                    "amount": 463
+                    "amount": 473
                 },
                 {
                     "name": "Epic Forge Badges",
                     "rarity": "Epic",
-                    "amount": 260
+                    "amount": 263
                 },
                 {
                     "name": "Legendary Forge Badges",
                     "rarity": "Legendary",
-                    "amount": 136
+                    "amount": 145
                 },
                 {
                     "name": "Mythic Forge Badges",
@@ -7502,41 +7550,41 @@
                 "Imperial": [
                     {
                         "rarity": "Uncommon",
-                        "amount": 156
+                        "amount": 165
                     },
                     {
                         "rarity": "Rare",
-                        "amount": 99
+                        "amount": 109
                     },
                     {
                         "rarity": "Epic",
-                        "amount": 49
+                        "amount": 52
                     },
                     {
                         "rarity": "Legendary",
-                        "amount": 64
+                        "amount": 69
                     },
                     {
                         "rarity": "Mythic",
-                        "amount": 8
+                        "amount": 6
                     }
                 ],
                 "Xenos": [
                     {
                         "rarity": "Uncommon",
-                        "amount": 179
+                        "amount": 185
                     },
                     {
                         "rarity": "Rare",
-                        "amount": 89
+                        "amount": 102
                     },
                     {
                         "rarity": "Epic",
-                        "amount": 58
+                        "amount": 60
                     },
                     {
                         "rarity": "Legendary",
-                        "amount": 10
+                        "amount": 6
                     },
                     {
                         "rarity": "Mythic",
@@ -7546,19 +7594,19 @@
                 "Chaos": [
                     {
                         "rarity": "Uncommon",
-                        "amount": 153
+                        "amount": 156
                     },
                     {
                         "rarity": "Rare",
-                        "amount": 139
+                        "amount": 147
                     },
                     {
                         "rarity": "Epic",
-                        "amount": 122
+                        "amount": 138
                     },
                     {
                         "rarity": "Legendary",
-                        "amount": 37
+                        "amount": 44
                     },
                     {
                         "rarity": "Mythic",
@@ -7567,8 +7615,8 @@
                 ]
             },
             "requisitionOrders": {
-                "regular": 2,
-                "blessed": 0
+                "regular": 3,
+                "blessed": 2
             },
             "resetStones": 1
         },
@@ -10762,8 +10810,8 @@
                         },
                         {
                             "battleIndex": 17,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 6
                         },
                         {
                             "battleIndex": 18,
@@ -10797,8 +10845,8 @@
                         },
                         {
                             "battleIndex": 24,
-                            "attemptsLeft": 0,
-                            "attemptsUsed": 6
+                            "attemptsLeft": 6,
+                            "attemptsUsed": 0
                         },
                         {
                             "battleIndex": 25,
@@ -10949,8 +10997,8 @@
                         },
                         {
                             "battleIndex": 12,
-                            "attemptsLeft": 0,
-                            "attemptsUsed": 6
+                            "attemptsLeft": 6,
+                            "attemptsUsed": 0
                         },
                         {
                             "battleIndex": 13,
@@ -11101,8 +11149,8 @@
                     "battles": [
                         {
                             "battleIndex": 0,
-                            "attemptsLeft": 0,
-                            "attemptsUsed": 6
+                            "attemptsLeft": 6,
+                            "attemptsUsed": 0
                         },
                         {
                             "battleIndex": 1,
@@ -11131,8 +11179,8 @@
                         },
                         {
                             "battleIndex": 6,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 6
                         },
                         {
                             "battleIndex": 7,
@@ -11333,8 +11381,8 @@
                         },
                         {
                             "battleIndex": 4,
-                            "attemptsLeft": 0,
-                            "attemptsUsed": 6
+                            "attemptsLeft": 6,
+                            "attemptsUsed": 0
                         },
                         {
                             "battleIndex": 5,
@@ -11353,8 +11401,8 @@
                         },
                         {
                             "battleIndex": 8,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 6
                         },
                         {
                             "battleIndex": 9,
@@ -11483,8 +11531,8 @@
                         },
                         {
                             "battleIndex": 34,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 1,
+                            "attemptsUsed": 5
                         },
                         {
                             "battleIndex": 35,
@@ -11565,8 +11613,8 @@
                         },
                         {
                             "battleIndex": 8,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 6
                         },
                         {
                             "battleIndex": 9,
@@ -11822,8 +11870,8 @@
                         },
                         {
                             "battleIndex": 18,
-                            "attemptsLeft": 0,
-                            "attemptsUsed": 6
+                            "attemptsLeft": 6,
+                            "attemptsUsed": 0
                         },
                         {
                             "battleIndex": 19,
@@ -12039,8 +12087,8 @@
                         },
                         {
                             "battleIndex": 19,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 5,
+                            "attemptsUsed": 1
                         },
                         {
                             "battleIndex": 20,
@@ -12286,8 +12334,8 @@
                         },
                         {
                             "battleIndex": 26,
-                            "attemptsLeft": 6,
-                            "attemptsUsed": 0
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 6
                         },
                         {
                             "battleIndex": 27,
@@ -12360,21 +12408,320 @@
                             "attemptsUsed": 0
                         }
                     ]
+                },
+                {
+                    "id": "eventCampaign1",
+                    "name": "Adeptus Mechanicus",
+                    "type": "Standard",
+                    "battles": [
+                        {
+                            "battleIndex": 0,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 1,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 2,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 4,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 5,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 6,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 7,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 8,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 9,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 10,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 11,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 12,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 13,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 15,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 16,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 17,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 18,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 19,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 20,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 21,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 22,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 23,
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 10
+                        },
+                        {
+                            "battleIndex": 3,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 14,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 24,
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 10
+                        },
+                        {
+                            "battleIndex": 25,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 26,
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 10
+                        },
+                        {
+                            "battleIndex": 28,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 29,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 30,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 31,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 32,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 27,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        }
+                    ]
+                },
+                {
+                    "id": "eventCampaign1",
+                    "name": "Adeptus Mechanicus",
+                    "type": "Extremis",
+                    "battles": [
+                        {
+                            "battleIndex": 0,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 1,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 2,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 4,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 5,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 6,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 7,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 8,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 9,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 10,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 11,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 3,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 12,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 13,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 15,
+                            "attemptsLeft": 0,
+                            "attemptsUsed": 10
+                        },
+                        {
+                            "battleIndex": 16,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 17,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 18,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 19,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 20,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 21,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 22,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 23,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        },
+                        {
+                            "battleIndex": 24,
+                            "attemptsLeft": 10,
+                            "attemptsUsed": 0
+                        }
+                    ]
                 }
             ],
             "arena": {
                 "tokens": {
-                    "current": 4,
+                    "current": 11,
                     "max": 15,
-                    "nextTokenInSeconds": 5259,
+                    "nextTokenInSeconds": 9042,
                     "regenDelayInSeconds": 9600
                 }
             },
             "guildRaid": {
                 "tokens": {
-                    "current": 1,
+                    "current": 2,
                     "max": 3,
-                    "nextTokenInSeconds": 12720,
+                    "nextTokenInSeconds": 16527,
                     "regenDelayInSeconds": 43200
                 },
                 "bombTokens": {
@@ -12388,7 +12735,7 @@
                 "tokens": {
                     "current": 2,
                     "max": 3,
-                    "nextTokenInSeconds": 33303,
+                    "nextTokenInSeconds": 6266,
                     "regenDelayInSeconds": 57600
                 }
             },
@@ -12396,16 +12743,16 @@
                 "tokens": {
                     "current": 1,
                     "max": 2,
-                    "nextTokenInSeconds": 18136,
+                    "nextTokenInSeconds": 6632,
                     "regenDelayInSeconds": 43200
                 }
             }
         }
     },
     "metaData": {
-        "configHash": "66537fe2f450f5f0968c149107f177f8",
+        "configHash": "e40ffc10905633bf307bfb07f2860602",
         "apiKeyExpiresOn": null,
-        "lastUpdatedOn": 1767371540,
+        "lastUpdatedOn": 1768592014,
         "scopes": [
             "Player"
         ]

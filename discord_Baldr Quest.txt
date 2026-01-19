@@ -1,0 +1,392 @@
+```
+Baldr Quest
+Allowed Factions:
+	SpaceWolves
+	Ultramarines
+	BlackTemplars
+	BloodAngels
+	DarkAngels
+Rewards:
+	Common 1:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Baldr shard
+		2 Star: Common Book
+		3 Star: Imperial Common Ability Token
+		Chance Of: Fine Purity Seal-75.00%
+	Common 2:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Baldr shard
+		2 Star: Common Book
+		3 Star: Imperial Common Ability Token
+		Chance Of: Chip Damage-75.00%
+	Common 3:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Baldr shard
+		2 Star: Common Book
+		3 Star: Imperial Common Ability Token
+		Chance Of: Purity Seal-75.00%
+	Uncommon 1:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Baldr shard
+		2 Star: Uncommon Book
+		3 Star: Imperial Uncommon Ability Token
+		Chance Of: Blessed Tasset Plate-75.00%
+	Uncommon 2:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Baldr shard
+		2 Star: Uncommon Book
+		3 Star: Imperial Uncommon Ability Token
+		Chance Of: Ceramite Lump-75.00%
+	Uncommon 3:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Baldr shard
+		2 Star: Uncommon Book
+		3 Star: Imperial Uncommon Ability Token
+		Chance Of: Oath Seal-75.00%
+```
+
+
+
+```
+	Rare 1:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Rare Book
+		3 Star: Imperial Rare Ability Token
+		Chance Of: Wolf Tail Talisman-75.00%
+	Rare 2:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Rare Book
+		3 Star: Imperial Rare Ability Token
+		Chance Of: Wolf Tooth Necklace-75.00%
+	Rare 3:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Rare Book
+		3 Star: Imperial Rare Ability Token
+		Chance Of: Beast Hide-75.00%
+	Rare 4:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Rare Book
+		3 Star: Imperial Rare Ability Token
+		Chance Of: Artificer Tasset Plate-75.00%
+	Rare 5:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Rare Book
+		3 Star: Imperial Rare Ability Token
+		Chance Of: Subdermal Plating-75.00%
+	Epic 1:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Epic Book
+		3 Star: Imperial Epic Ability Token
+		Chance Of: Terminator Honours-75.00%
+	Epic 2:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Epic Book
+		3 Star: Imperial Epic Ability Token
+		Chance Of: Elaborate Hilt-75.00%
+	Epic 3:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Epic Book
+		3 Star: Imperial Epic Ability Token
+		Chance Of: Duplicate Organ-75.00%
+```
+
+
+
+```
+	Legendary 1:
+		Base: ['gold:150-175', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Legendary Book
+		3 Star: Imperial Legendary Ability Token
+		Chance Of: Mjod-75.00%
+	Legendary 2:
+		Base: ['gold:150-175', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Legendary Book
+		3 Star: Imperial Legendary Ability Token
+		Chance Of: Master-crafted Ammo-75.00%
+	Mythic 1:
+		Base: ['gold:225-290', 'goldOrUpgradesCommonToRare']
+		1 Star: Baldr shard
+		2 Star: Mythic Book
+		3 Star: Imperial Mythic Ability Token
+		Chance Of: Imperial Aquila-16.67%
+```
+
+
+
+```
+Battle Info:
+	Common 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Common 2:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Common 3:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Uncommon 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Uncommon 2:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Uncommon 3:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+```
+
+
+
+```
+	Rare 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Rare 2:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Rare 3:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Rare 4:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Rare 5:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Epic 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Epic 2:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Epic 3:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+```
+
+
+
+```
+	Legendary 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Legendary 2:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+	Mythic 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 1
+		Enemy List: 
+			Guardian: 1
+```
+
+
+
+```
+Milestones:
+	1000
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+	1800
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+	2500
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+	3100
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+	3600
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+	4100
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+		Imperial Uncommon Orb
+	4700
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+		Imperial Uncommon Orb
+	5300
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Imperial Ability Tokens
+		Imperial Uncommon Orb
+	5700
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Imperial Ability Tokens
+		Uncommon or Rare Imperial Ability Tokens
+		Imperial Rare Orb
+	6220
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Imperial Ability Tokens
+		Uncommon or Rare Imperial Ability Tokens
+		Imperial Rare Orb
+	6600
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Imperial Ability Tokens
+		Uncommon or Rare Imperial Ability Tokens
+		Imperial Rare Orb
+	7000
+		1000-1100 gold
+		6-8 raidTicket
+		Epic Book
+		Common or Uncommon Imperial Ability Tokens
+		Rare to Epic Imperial Ability Tokens
+		2 Imperial Epic Orb
+		2 Imperial Epic Orb
+	7300
+		1000-1100 gold
+		6-8 raidTicket
+		Epic Book
+		Common or Uncommon Imperial Ability Tokens
+		Rare to Epic Imperial Ability Tokens
+		2 Imperial Epic Orb
+		2 Imperial Epic Orb
+	7700
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		2 Imperial Epic Orb
+	8200
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		Imperial Legendary Orb
+	8500
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		Imperial Legendary Ability Token
+		Imperial Legendary Orb
+	8600
+		8000-9000 gold
+		20-30 raidTicket
+		Mythic Book
+		2 Common or Uncommon Imperial Ability Tokens
+		Epic to Legendary Imperial Ability Tokens
+		Imperial Mythic Ability Token
+		Imperial Mythic Orb
+```

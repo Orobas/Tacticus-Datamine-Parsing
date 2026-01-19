@@ -1,0 +1,116 @@
+{
+    "Common": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpCommon",
+            "star3": "abilityTokenCommon_Imperial",
+            "chanceOf": "upgArmC002%3/4"
+        },
+        "2": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpCommon",
+            "star3": "abilityTokenCommon_Imperial",
+            "chanceOf": "upgHpC013%3/4"
+        },
+        "3": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpCommon",
+            "star3": "abilityTokenCommon_Imperial",
+            "chanceOf": "upgArmC001%3/4"
+        }
+    },
+    "Uncommon": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpUncommon",
+            "star3": "abilityTokenUncommon_Imperial",
+            "chanceOf": "upgArmU009%3/4"
+        },
+        "2": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpUncommon",
+            "star3": "abilityTokenUncommon_Imperial",
+            "chanceOf": "upgArmU005%3/4"
+        },
+        "3": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpUncommon",
+            "star3": "abilityTokenUncommon_Imperial",
+            "chanceOf": "upgArmU001%3/4"
+        }
+    },
+    "Rare": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpRare",
+            "star3": "abilityTokenRare_Imperial",
+            "chanceOf": "upgHpR031%3/4"
+        },
+        "2": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpRare",
+            "star3": "abilityTokenRare_Imperial",
+            "chanceOf": "upgDmgR031%3/4"
+        },
+        "3": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpRare",
+            "star3": "abilityTokenRare_Imperial",
+            "chanceOf": "upgArmR031%3/4"
+        },
+        "4": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpRare",
+            "star3": "abilityTokenRare_Imperial",
+            "chanceOf": "upgArmR005%3/4"
+        },
+        "5": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpRare",
+            "star3": "abilityTokenRare_Imperial",
+            "chanceOf": "upgArmR015%3/4"
+        }
+    },
+    "Epic": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpEpic",
+            "star3": "abilityTokenEpic_Imperial",
+            "chanceOf": "upgHpE003%3/4"
+        },
+        "2": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpEpic",
+            "star3": "abilityTokenEpic_Imperial",
+            "chanceOf": "upgDmgE011%3/4"
+        },
+        "3": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpEpic",
+            "star3": "abilityTokenEpic_Imperial",
+            "chanceOf": "upgArmE013%3/4"
+        }
+    },
+    "Legendary": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpLegendary",
+            "star3": "abilityTokenLegendary_Imperial",
+            "chanceOf": "upgHpL111%3/4"
+        },
+        "2": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpLegendary",
+            "star3": "abilityTokenLegendary_Imperial",
+            "chanceOf": "upgDmgL001%3/4"
+        }
+    },
+    "Mythic": {
+        "1": {
+            "star1": "shards_spaceWolfPriest",
+            "star2": "xpMythic",
+            "star3": "abilityTokenMythic_Imperial",
+            "chanceOf": "upgHpM001%1/6"
+        }
+    }
+}

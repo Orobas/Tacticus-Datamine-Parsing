@@ -1,0 +1,421 @@
+```
+Archimatos Quest
+Allowed Factions:
+	BlackLegion
+	WorldEaters
+	DeathGuard
+	EmperorsChildren
+	ThousandSons
+Rewards:
+	Common 1:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Archimatos shard
+		2 Star: Common Book
+		3 Star: Chaos Common Ability Token
+		Chance Of: Mutation: Warped Muscles-75.00%
+	Common 2:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Archimatos shard
+		2 Star: Common Book
+		3 Star: Chaos Common Ability Token
+		Chance Of: Nasty Spikes-75.00%
+	Common 3:
+		Base: ['gold:25-30', 'goldOrUpgradesCommon']
+		1 Star: Archimatos shard
+		2 Star: Common Book
+		3 Star: Chaos Common Ability Token
+		Chance Of: Canister of Chemicals-75.00%
+	Uncommon 1:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Archimatos shard
+		2 Star: Uncommon Book
+		3 Star: Chaos Uncommon Ability Token
+		Chance Of: Divinator Class Auspex-75.00%
+	Uncommon 2:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Archimatos shard
+		2 Star: Uncommon Book
+		3 Star: Chaos Uncommon Ability Token
+		Chance Of: Mutation: Scaly Skin-75.00%
+	Uncommon 3:
+		Base: ['gold:40-50', 'goldOrUpgradesCommonToUncommon']
+		1 Star: Archimatos shard
+		2 Star: Uncommon Book
+		3 Star: Chaos Uncommon Ability Token
+		Chance Of: Slicing Claws-75.00%
+```
+
+
+
+```
+	Rare 1:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Rare Book
+		3 Star: Chaos Rare Ability Token
+		Chance Of: Eye of Horus-75.00%
+	Rare 2:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Rare Book
+		3 Star: Chaos Rare Ability Token
+		Chance Of: Icon of Vengeance-75.00%
+	Rare 3:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Rare Book
+		3 Star: Chaos Rare Ability Token
+		Chance Of: Blasphemous Armor Trim-75.00%
+	Rare 4:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Rare Book
+		3 Star: Chaos Rare Ability Token
+		Chance Of: Mutation: Warped Heart-75.00%
+	Rare 5:
+		Base: ['gold:60-75', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Rare Book
+		3 Star: Chaos Rare Ability Token
+		Chance Of: Ancient Runes-75.00%
+	Epic 1:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Epic Book
+		3 Star: Chaos Epic Ability Token
+		Chance Of: Warp Locus-75.00%
+	Epic 2:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Epic Book
+		3 Star: Chaos Epic Ability Token
+		Chance Of: Blessed Promethium Canister-75.00%
+	Epic 3:
+		Base: ['gold:90-115', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Epic Book
+		3 Star: Chaos Epic Ability Token
+		Chance Of: Special Issue Ammo-75.00%
+```
+
+
+
+```
+	Legendary 1:
+		Base: ['gold:150-175', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Legendary Book
+		3 Star: Chaos Legendary Ability Token
+		Chance Of: Boon of the Dark Gods-75.00%
+	Legendary 2:
+		Base: ['gold:150-175', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Legendary Book
+		3 Star: Chaos Legendary Ability Token
+		Chance Of: Psychic Force Conduit-75.00%
+	Mythic 1:
+		Base: ['gold:225-290', 'goldOrUpgradesCommonToRare']
+		1 Star: Archimatos shard
+		2 Star: Mythic Book
+		3 Star: Chaos Mythic Ability Token
+		Chance Of: Mutant Form-16.67%
+```
+
+
+
+```
+Battle Info:
+	Common 1:
+		Units Deployed: 3
+		Lightning Victory: 2 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+			NotDamageType, score: 100
+		Enemy Count: 7
+		Enemy List: 
+			Grot: 7
+	Common 2:
+		Units Deployed: 4
+		Lightning Victory: 2 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 10
+		Enemy List: 
+			Grot Tank: 2
+			Grot: 8
+	Common 3:
+		Units Deployed: 5
+		Lightning Victory: 3 turns
+		Objectives: 
+			NoDamageTakenByAnyHero, score: 100
+		Enemy Count: 8
+		Enemy List: 
+			Tanksmasha: 1
+			Grot Tank: 1
+			Grot: 6
+	Uncommon 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotDamageType, score: 100
+			NotDamageType, score: 100
+		Enemy Count: 7
+		Enemy List: 
+			Grot Tank: 4
+			Grot: 3
+	Uncommon 2:
+		Units Deployed: 4
+		Lightning Victory: 2 turns
+		Objectives: 
+			HasRangedAttack, score: 100
+		Enemy Count: 8
+		Enemy List: 
+			Grot Tank: 1
+			Ork Boy: 3
+			Grot: 4
+	Uncommon 3:
+		Units Deployed: 5
+		Lightning Victory: 4 turns
+		Objectives: 
+			NotTrait, score: 100
+		Enemy Count: 10
+		Enemy List: 
+			Gibbascrapz: 1
+			Grot Tank: 3
+			Ork Boy: 1
+			Grot: 5
+```
+
+
+
+```
+	Rare 1:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotDamageType, score: 100
+			NotDamageType, score: 100
+		Enemy Count: 7
+		Enemy List: 
+			Grot Tank: 2
+			Ork Boy: 5
+	Rare 2:
+		Units Deployed: 3
+		Lightning Victory: 2 turns
+		Objectives: 
+			Trait, score: 100
+		Enemy Count: 6
+		Enemy List: 
+			Ork Boy: 3
+			Grot: 3
+	Rare 3:
+		Units Deployed: 3
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotFaction, score: 100
+		Enemy Count: 8
+		Enemy List: 
+			Ork Boy: 8
+	Rare 4:
+		Units Deployed: 4
+		Lightning Victory: 5 turns
+		Objectives: 
+			MaxHits, score: 100
+		Enemy Count: 12
+		Enemy List: 
+			Grot Tank: 6
+			Stormboy: 6
+	Rare 5:
+		Units Deployed: 5
+		Lightning Victory: 2 turns
+		Objectives: 
+			NotTrait, score: 100
+		Enemy Count: 12
+		Enemy List: 
+			Snappawrecka: 1
+			Ork Boy: 3
+			Grot: 8
+	Epic 1:
+		Units Deployed: 3
+		Lightning Victory: 2 turns
+		Objectives: 
+			NotTrait, score: 100
+		Enemy Count: 5
+		Enemy List: 
+			Grot Tank: 1
+			Ork Boy: 4
+	Epic 2:
+		Units Deployed: 4
+		Lightning Victory: 4 turns
+		Objectives: 
+			NotDamageType, score: 100
+		Enemy Count: 9
+		Enemy List: 
+			Stormboy: 5
+			Ork Boy: 4
+	Epic 3:
+		Units Deployed: 5
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotTrait, score: 100
+		Enemy Count: 12
+		Enemy List: 
+			Snotflogga: 1
+			Grot: 8
+			Ork Boy: 3
+```
+
+
+
+```
+	Legendary 1:
+		Units Deployed: 5
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotDamageType, score: 100
+		Enemy Count: 12
+		Enemy List: 
+			Grot Tank: 3
+			Stormboy: 3
+			Ork Boy: 3
+			Grot: 3
+	Legendary 2:
+		Units Deployed: 5
+		Lightning Victory: 4 turns
+		Objectives: 
+			NotTrait, score: 100
+		Enemy Count: 8
+		Enemy List: 
+			Gulgortz: 1
+			Grot Tank: 2
+			Ork Boy: 5
+	Mythic 1:
+		Units Deployed: 5
+		Lightning Victory: 3 turns
+		Objectives: 
+			NotDamageType, score: 100
+		Enemy Count: 10
+		Enemy List: 
+			Gulgortz: 1
+			Grot Tank: 2
+			Ork Boy: 6
+			Stormboy: 1
+```
+
+
+
+```
+Milestones:
+	1000
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+	1800
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+	2500
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+	3100
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+	3600
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+	4100
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+		Chaos Uncommon Orb
+	4700
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+		Chaos Uncommon Orb
+	5300
+		250-275 gold
+		2-3 raidTicket
+		Uncommon Book
+		Common or Uncommon Chaos Ability Tokens
+		Chaos Uncommon Orb
+	5700
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Chaos Ability Tokens
+		Uncommon or Rare Chaos Ability Tokens
+		Chaos Rare Orb
+	6220
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Chaos Ability Tokens
+		Uncommon or Rare Chaos Ability Tokens
+		Chaos Rare Orb
+	6600
+		500-550 gold
+		4-5 raidTicket
+		Rare Book
+		Common or Uncommon Chaos Ability Tokens
+		Uncommon or Rare Chaos Ability Tokens
+		Chaos Rare Orb
+	7000
+		1000-1100 gold
+		6-8 raidTicket
+		Epic Book
+		Common or Uncommon Chaos Ability Tokens
+		Rare to Epic Chaos Ability Tokens
+		2 Chaos Epic Orb
+		2 Chaos Epic Orb
+	7300
+		1000-1100 gold
+		6-8 raidTicket
+		Epic Book
+		Common or Uncommon Chaos Ability Tokens
+		Rare to Epic Chaos Ability Tokens
+		2 Chaos Epic Orb
+		2 Chaos Epic Orb
+	7700
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		2 Chaos Epic Orb
+	8200
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		Chaos Legendary Orb
+	8500
+		4000-4500 gold
+		20-30 raidTicket
+		2 Legendary Book
+		2 Common or Uncommon Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		Chaos Legendary Ability Token
+		Chaos Legendary Orb
+	8800
+		8000-9000 gold
+		20-30 raidTicket
+		Mythic Book
+		2 Common or Uncommon Chaos Ability Tokens
+		Epic to Legendary Chaos Ability Tokens
+		Chaos Mythic Ability Token
+		Chaos Mythic Orb
+```

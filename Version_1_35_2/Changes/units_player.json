@@ -169,25 +169,25 @@
                             "oldValue": 10,
                             "newValue": 13
                         },
-                        "4": {
-                            "oldValue": 11,
-                            "newValue": 14
-                        },
-                        "6": {
-                            "oldValue": 14,
-                            "newValue": 18
-                        },
-                        "2": {
-                            "oldValue": 8,
-                            "newValue": 11
+                        "1": {
+                            "oldValue": 7,
+                            "newValue": 10
                         },
                         "5": {
                             "oldValue": 12,
                             "newValue": 16
                         },
-                        "1": {
-                            "oldValue": 7,
-                            "newValue": 10
+                        "4": {
+                            "oldValue": 11,
+                            "newValue": 14
+                        },
+                        "2": {
+                            "oldValue": 8,
+                            "newValue": 11
+                        },
+                        "6": {
+                            "oldValue": 14,
+                            "newValue": 18
                         }
                     }
                 }

@@ -25,7 +25,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgArmC001%3/4"
+                        "chanceOf": "Purity Seal-75.00%"
                     },
                     "enemyCounts": {
                         "Necron Warrior": 2,
@@ -82,7 +82,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgDmgC001%3/4"
+                        "chanceOf": "Round of Ammo-75.00%"
                     },
                     "enemyCounts": {
                         "Scarab Swarm": 1,
@@ -147,7 +147,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgArmC005%3/4"
+                        "chanceOf": "Sophisticated Material-75.00%"
                     },
                     "enemyCounts": {
                         "Makhotep": 1,
@@ -214,7 +214,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgDmgU010%3/4"
+                        "chanceOf": "Fine Micro-Generator-75.00%"
                     },
                     "enemyCounts": {
                         "Flayed One": 4
@@ -259,7 +259,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgArmU001%3/4"
+                        "chanceOf": "Oath Seal-75.00%"
                     },
                     "enemyCounts": {
                         "Deathmark": 1,
@@ -325,7 +325,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgArmU002%3/4"
+                        "chanceOf": "Box of Salvage-75.00%"
                     },
                     "enemyCounts": {
                         "Imospekh": 1,
@@ -393,7 +393,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgHpR037%3/4"
+                        "chanceOf": "Flawless Terran Gem-75.00%"
                     },
                     "enemyCounts": {
                         "Necron Warrior": 4
@@ -437,7 +437,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgDmgR037%3/4"
+                        "chanceOf": "Integrated Bolt Feeder-75.00%"
                     },
                     "enemyCounts": {
                         "Ophydian Destroyer": 1,
@@ -503,7 +503,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgArmR037%3/4"
+                        "chanceOf": "Auramite Wing-75.00%"
                     },
                     "enemyCounts": {
                         "Flayed One": 8
@@ -542,7 +542,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgHpR005%3/4"
+                        "chanceOf": "The Phoenix Ascendant-75.00%"
                     },
                     "enemyCounts": {
                         "Ophydian Destroyer": 2,
@@ -595,7 +595,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgDmgR005%3/4"
+                        "chanceOf": "Classified Data-slate-75.00%"
                     },
                     "enemyCounts": {
                         "Aleph-Null": 1,
@@ -663,7 +663,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgArmE008%3/4"
+                        "chanceOf": "Hypermaterial Shifter-75.00%"
                     },
                     "enemyCounts": {
                         "Scarab Swarm": 1,
@@ -742,7 +742,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgHpE003%3/4"
+                        "chanceOf": "Terminator Honours-75.00%"
                     },
                     "enemyCounts": {
                         "Flayed One": 10
@@ -782,7 +782,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgDmgE004%3/4"
+                        "chanceOf": "Bionic Neural Pathways-75.00%"
                     },
                     "enemyCounts": {
                         "Thutmose": 1,
@@ -863,7 +863,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Imperial",
-                        "chanceOf": "upgHpL117%3/4"
+                        "chanceOf": "Arcane Genetic Alchemy-75.00%"
                     },
                     "enemyCounts": {
                         "Makhotep": 1,
@@ -942,7 +942,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Imperial",
-                        "chanceOf": "upgDmgL001%3/4"
+                        "chanceOf": "Master-crafted Ammo-75.00%"
                     },
                     "enemyCounts": {
                         "Thutmose": 1,
@@ -1033,7 +1033,7 @@
                         "star1": "shards_custoKyrus",
                         "star2": "xpMythic",
                         "star3": "abilityTokenMythic_Imperial",
-                        "chanceOf": "upgHpM001%1/6"
+                        "chanceOf": "Imperial Aquila-16.67%"
                     },
                     "enemyCounts": {
                         "Anuphet": 1,
@@ -1275,7 +1275,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Xenos",
-                        "chanceOf": "upgDmgC001%3/4"
+                        "chanceOf": "Round of Ammo-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1346,7 +1346,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Xenos",
-                        "chanceOf": "upgArmC004%3/4"
+                        "chanceOf": "Adamantium Ore-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1422,7 +1422,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Xenos",
-                        "chanceOf": "upgArmC003%3/4"
+                        "chanceOf": "Pile of Salvage-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -1490,7 +1490,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Xenos",
-                        "chanceOf": "upgArmU002%3/4"
+                        "chanceOf": "Box of Salvage-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1543,7 +1543,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Xenos",
-                        "chanceOf": "upgDmgU004%3/4"
+                        "chanceOf": "Attack Vector Data-slate-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1609,7 +1609,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Xenos",
-                        "chanceOf": "upgArmU008%3/4"
+                        "chanceOf": "Advanced Rebreather-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -1690,7 +1690,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Xenos",
-                        "chanceOf": "upgHpR010%3/4"
+                        "chanceOf": "Bad Moon Teef-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1756,7 +1756,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Xenos",
-                        "chanceOf": "upgDmgR026%3/4"
+                        "chanceOf": "Iron Jaw-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1822,7 +1822,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Xenos",
-                        "chanceOf": "upgArmR026%3/4"
+                        "chanceOf": "'ard Plate-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1875,7 +1875,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Xenos",
-                        "chanceOf": "upgHpR018%3/4"
+                        "chanceOf": "Kill Count-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -1928,7 +1928,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Xenos",
-                        "chanceOf": "upgHpR019%3/4"
+                        "chanceOf": "Battle Scar-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -2009,7 +2009,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Xenos",
-                        "chanceOf": "upgDmgE003%3/4"
+                        "chanceOf": "Blessed Promethium Canister-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -2062,7 +2062,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Xenos",
-                        "chanceOf": "upgDmgE004%3/4"
+                        "chanceOf": "Bionic Neural Pathways-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -2115,7 +2115,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Xenos",
-                        "chanceOf": "upgHpE015%3/4"
+                        "chanceOf": "Weathering-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -2209,7 +2209,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Xenos",
-                        "chanceOf": "upgHpL106%3/4"
+                        "chanceOf": "Kustom Gubbinz-75.00%"
                     },
                     "enemyCounts": {
                         "Large Squig": 3,
@@ -2275,7 +2275,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Xenos",
-                        "chanceOf": "upgArmL203%3/4"
+                        "chanceOf": "Archeotech Remnant-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -2356,7 +2356,7 @@
                         "star1": "shards_orksWarboss",
                         "star2": "xpMythic",
                         "star3": "abilityTokenMythic_Xenos",
-                        "chanceOf": "upgHpM001%1/6"
+                        "chanceOf": "Imperial Aquila-16.67%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -2595,7 +2595,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgArmC003%3/4"
+                        "chanceOf": "Pile of Salvage-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 5
@@ -2639,7 +2639,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgHpC007%3/4"
+                        "chanceOf": "Healing Ointment-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 7
@@ -2679,7 +2679,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgDmgC014%3/4"
+                        "chanceOf": "Nasty Spikes-75.00%"
                     },
                     "enemyCounts": {
                         "Thoread": 1,
@@ -2746,7 +2746,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgHpU012%3/4"
+                        "chanceOf": "Helmet Trophy-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 6
@@ -2791,7 +2791,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgDmgU014%3/4"
+                        "chanceOf": "Combat Stimms-75.00%"
                     },
                     "enemyCounts": {
                         "Aggressor": 1,
@@ -2856,7 +2856,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgDmgU019%3/4"
+                        "chanceOf": "Slicing Claws-75.00%"
                     },
                     "enemyCounts": {
                         "Godswyl": 1,
@@ -2937,7 +2937,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR039%3/4"
+                        "chanceOf": "Outrageous Padding-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 5
@@ -2982,7 +2982,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgDmgR039%3/4"
+                        "chanceOf": "Vox Grill Amplifier-75.00%"
                     },
                     "enemyCounts": {
                         "Neophyte": 3,
@@ -3048,7 +3048,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgArmR039%3/4"
+                        "chanceOf": "Lavish Helmet Crest-75.00%"
                     },
                     "enemyCounts": {
                         "Aggressor": 3
@@ -3087,7 +3087,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR018%3/4"
+                        "chanceOf": "Kill Count-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate with Pyreblaster": 4,
@@ -3140,7 +3140,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR008%3/4"
+                        "chanceOf": "Mutation: Warped Heart-75.00%"
                     },
                     "enemyCounts": {
                         "Jaeger": 1,
@@ -3221,7 +3221,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgDmgE010%3/4"
+                        "chanceOf": "Warp Locus-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 9,
@@ -3274,7 +3274,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgDmgE004%3/4"
+                        "chanceOf": "Bionic Neural Pathways-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate": 5,
@@ -3327,7 +3327,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgHpE012%3/4"
+                        "chanceOf": "Golden Ornamental Skull-75.00%"
                     },
                     "enemyCounts": {
                         "Burchard": 1,
@@ -3395,7 +3395,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Chaos",
-                        "chanceOf": "upgHpL119%3/4"
+                        "chanceOf": "Boon of Slaanesh-75.00%"
                     },
                     "enemyCounts": {
                         "Initiate with Pyreblaster": 5,
@@ -3447,7 +3447,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Chaos",
-                        "chanceOf": "upgArmL202%3/4"
+                        "chanceOf": "Psyk-Conductive Material-75.00%"
                     },
                     "enemyCounts": {
                         "Helbrecht": 1,
@@ -3528,7 +3528,7 @@
                         "star1": "shards_emperFlawlessBlade",
                         "star2": "xpMythic",
                         "star3": "abilityTokenMythic_Chaos",
-                        "chanceOf": "upgHpM002%1/6"
+                        "chanceOf": "Mutant Form-16.67%"
                     },
                     "enemyCounts": {
                         "Helbrecht": 1,
@@ -3771,7 +3771,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgHpC010%3/4"
+                        "chanceOf": "Mutation: Warped Muscles-75.00%"
                     },
                     "enemyCounts": {
                         "Grot": 7
@@ -3815,7 +3815,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgDmgC014%3/4"
+                        "chanceOf": "Nasty Spikes-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 2,
@@ -3867,7 +3867,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Chaos",
-                        "chanceOf": "upgDmgC003%3/4"
+                        "chanceOf": "Canister of Chemicals-75.00%"
                     },
                     "enemyCounts": {
                         "Tanksmasha": 1,
@@ -3934,7 +3934,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgDmgU011%3/4"
+                        "chanceOf": "Divinator Class Auspex-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 4,
@@ -3992,7 +3992,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgArmU007%3/4"
+                        "chanceOf": "Mutation: Scaly Skin-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -4057,7 +4057,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Chaos",
-                        "chanceOf": "upgDmgU019%3/4"
+                        "chanceOf": "Slicing Claws-75.00%"
                     },
                     "enemyCounts": {
                         "Gibbascrapz": 1,
@@ -4138,7 +4138,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR023%3/4"
+                        "chanceOf": "Eye of Horus-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 2,
@@ -4206,7 +4206,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgDmgR023%3/4"
+                        "chanceOf": "Icon of Vengeance-75.00%"
                     },
                     "enemyCounts": {
                         "Ork Boy": 3,
@@ -4259,7 +4259,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgArmR023%3/4"
+                        "chanceOf": "Blasphemous Armor Trim-75.00%"
                     },
                     "enemyCounts": {
                         "Ork Boy": 8
@@ -4299,7 +4299,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR008%3/4"
+                        "chanceOf": "Mutation: Warped Heart-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 6,
@@ -4352,7 +4352,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Chaos",
-                        "chanceOf": "upgHpR014%3/4"
+                        "chanceOf": "Ancient Runes-75.00%"
                     },
                     "enemyCounts": {
                         "Snappawrecka": 1,
@@ -4420,7 +4420,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgDmgE010%3/4"
+                        "chanceOf": "Warp Locus-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 1,
@@ -4473,7 +4473,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgDmgE003%3/4"
+                        "chanceOf": "Blessed Promethium Canister-75.00%"
                     },
                     "enemyCounts": {
                         "Stormboy": 5,
@@ -4526,7 +4526,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Chaos",
-                        "chanceOf": "upgDmgE001%3/4"
+                        "chanceOf": "Special Issue Ammo-75.00%"
                     },
                     "enemyCounts": {
                         "Snotflogga": 1,
@@ -4594,7 +4594,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Chaos",
-                        "chanceOf": "upgHpL103%3/4"
+                        "chanceOf": "Boon of the Dark Gods-75.00%"
                     },
                     "enemyCounts": {
                         "Grot Tank": 3,
@@ -4673,7 +4673,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Chaos",
-                        "chanceOf": "upgDmgL202%3/4"
+                        "chanceOf": "Psychic Force Conduit-75.00%"
                     },
                     "enemyCounts": {
                         "Gulgortz": 1,
@@ -4741,7 +4741,7 @@
                         "star1": "shards_blackPossession",
                         "star2": "xpMythic",
                         "star3": "abilityTokenMythic_Chaos",
-                        "chanceOf": "upgHpM002%1/6"
+                        "chanceOf": "Mutant Form-16.67%"
                     },
                     "enemyCounts": {
                         "Gulgortz": 1,
@@ -4984,7 +4984,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgArmC002%3/4"
+                        "chanceOf": "Fine Purity Seal-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5023,7 +5023,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgHpC013%3/4"
+                        "chanceOf": "Chip Damage-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5062,7 +5062,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpCommon",
                         "star3": "abilityTokenCommon_Imperial",
-                        "chanceOf": "upgArmC001%3/4"
+                        "chanceOf": "Purity Seal-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5103,7 +5103,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgArmU009%3/4"
+                        "chanceOf": "Blessed Tasset Plate-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5142,7 +5142,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgArmU005%3/4"
+                        "chanceOf": "Ceramite Lump-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5181,7 +5181,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpUncommon",
                         "star3": "abilityTokenUncommon_Imperial",
-                        "chanceOf": "upgArmU001%3/4"
+                        "chanceOf": "Oath Seal-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5222,7 +5222,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgHpR031%3/4"
+                        "chanceOf": "Wolf Tail Talisman-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5261,7 +5261,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgDmgR031%3/4"
+                        "chanceOf": "Wolf Tooth Necklace-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5300,7 +5300,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgArmR031%3/4"
+                        "chanceOf": "Beast Hide-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5339,7 +5339,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgArmR005%3/4"
+                        "chanceOf": "Artificer Tasset Plate-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5378,7 +5378,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpRare",
                         "star3": "abilityTokenRare_Imperial",
-                        "chanceOf": "upgArmR015%3/4"
+                        "chanceOf": "Subdermal Plating-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5419,7 +5419,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgHpE003%3/4"
+                        "chanceOf": "Terminator Honours-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5458,7 +5458,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgDmgE011%3/4"
+                        "chanceOf": "Elaborate Hilt-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5497,7 +5497,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpEpic",
                         "star3": "abilityTokenEpic_Imperial",
-                        "chanceOf": "upgArmE013%3/4"
+                        "chanceOf": "Duplicate Organ-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5538,7 +5538,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Imperial",
-                        "chanceOf": "upgHpL111%3/4"
+                        "chanceOf": "Mjod-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5577,7 +5577,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpLegendary",
                         "star3": "abilityTokenLegendary_Imperial",
-                        "chanceOf": "upgDmgL001%3/4"
+                        "chanceOf": "Master-crafted Ammo-75.00%"
                     },
                     "enemyCounts": {
                         "Guardian": 1
@@ -5618,7 +5618,7 @@
                         "star1": "shards_spaceWolfPriest",
                         "star2": "xpMythic",
                         "star3": "abilityTokenMythic_Imperial",
-                        "chanceOf": "upgHpM001%1/6"
+                        "chanceOf": "Imperial Aquila-16.67%"
                     },
                     "enemyCounts": {
                         "Guardian": 1

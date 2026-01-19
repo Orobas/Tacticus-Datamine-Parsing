@@ -83,7 +83,7 @@ print("Salvage max date: " + s_date.strftime("%c"))
 print("Raid max date: " + r_date.strftime("%c"))
 
 #end_date_string = input("Enter the end date (20251213 1900):")
-end_date_string = "20260104 0400"
+end_date_string = "20260117 0300"
 end_date_year = int(end_date_string[0:4])
 end_date_month = int(end_date_string[4:6])
 end_date_day = int(end_date_string[6:8])
